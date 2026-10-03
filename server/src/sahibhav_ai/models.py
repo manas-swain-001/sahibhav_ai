@@ -162,3 +162,22 @@ class PlatformSearchResult(BaseModel):
     filtered_oos_count: int = 0
     filtered_irrelevant_count: int = 0
     error: Optional[str] = None
+
+
+# =====================================================================
+# MULTI-ITEM SEARCH RESULT MODELS
+# =====================================================================
+
+class ItemSearchResult(BaseModel):
+    item: ItemRequirement
+    platforms: dict[str, PlatformSearchResult] = Field(default_factory=dict)
+    total_cleaned_products: int = 0
+
+
+class MultiItemSearchResult(BaseModel):
+    is_valid_grocery_query: bool = True
+    detected_language: str = "english"
+    items: List[ItemSearchResult] = Field(default_factory=list)
+    total_items: int = 0
+    total_products_found: int = 0
+    notes: Optional[str] = None
