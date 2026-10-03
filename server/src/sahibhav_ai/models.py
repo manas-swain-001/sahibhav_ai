@@ -1,4 +1,4 @@
-from typing import List, Optional
+from typing import List, Optional, Dict
 from pydantic import BaseModel, Field
 
 class ItemRequirement(BaseModel):
@@ -149,7 +149,7 @@ class CleanedProduct(BaseModel):
     deeplink: Optional[str] = None
     image_url: Optional[str] = None
     is_available: bool = True
-    score: float = 0.0  # composite score: 60% price + 25% rating + 15% ETA
+    score: float = 0.0  # composite score: 70% price + 25% ETA + 5% rating (default 4.0★ if null)
 
 
 class PlatformSearchResult(BaseModel):
@@ -181,3 +181,54 @@ class MultiItemSearchResult(BaseModel):
     total_items: int = 0
     total_products_found: int = 0
     notes: Optional[str] = None
+
+
+# =====================================================================
+# COMBO OPTIMIZER MODELS
+# =====================================================================
+
+class CartItemPick(BaseModel):
+    item_name: str
+    search_query: str
+    quantity_requested: float = 1.0
+    unit_requested: str = "pack"
+    platform: str
+    product: CleanedProduct
+    item_total_price: float
+
+
+class PlatformOrder(BaseModel):
+    platform: str
+    items: List[CartItemPick] = Field(default_factory=list)
+    items_subtotal: float = 0.0
+    delivery_fee: float = 0.0
+    total_order_cost: float = 0.0
+    subtotal: float = 0.0
+    eta_mins: Optional[int] = None
+
+
+class CartCombination(BaseModel):
+    combo_type: str  # "single_platform" or "split_2_platform"
+    platforms: List[str] = Field(default_factory=list)
+    orders: List[PlatformOrder] = Field(default_factory=list)
+    items_subtotal: float = 0.0
+    total_delivery_fees: float = 0.0
+    total_price: float = 0.0
+    max_eta_mins: Optional[int] = None
+    average_rating: float = 4.0
+    composite_score: float = 0.0
+    savings_vs_highest: float = 0.0
+    savings_vs_best_single: float = 0.0
+    is_split_beneficial: bool = False
+    fee_explanation: Optional[str] = None
+
+
+class OptimizationResult(BaseModel):
+    is_valid_grocery_query: bool = True
+    detected_language: str = "english"
+    best_single_store: Optional[CartCombination] = None
+    best_split_combo: Optional[CartCombination] = None
+    winning_recommendation: Optional[CartCombination] = None
+    all_single_stores: List[CartCombination] = Field(default_factory=list)
+    all_split_combos: List[CartCombination] = Field(default_factory=list)
+    notes: Optional[str] = None

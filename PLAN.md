@@ -77,7 +77,7 @@ STAGE 2 — SEARCH (Python)
    ↓
 STAGE 3 — OPTIMIZER (Python)
    • Try all 2-platform combinations
-   • Score: 60% price + 25% rating + 15% ETA
+   • Score: 70% price (offer_price/standard_price) + 25% ETA + 5% rating (default 4.0★ if null)
    • Pick best combo
    Output: { platform_1, platform_2, total, savings }
    ↓
@@ -138,7 +138,7 @@ QC API:     https://api.quickcommerceapi.com/v1/search
 Auth:       X-API-Key header
 Platforms:  BlinkIt, Zepto, Swiggy, BigBasket
 Demo location: 12.9122, 77.6407 (HSR Layout, Bangalore)
-Pricing rule: 60% price + 25% rating + 15% ETA
+Pricing rule: 70% price (using offer_price & standard unit) + 25% ETA + 5% rating (default 4.0★ if null)
 Max platforms per recommendation: 2
 
 .env keys:
