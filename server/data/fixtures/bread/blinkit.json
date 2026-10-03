@@ -1,0 +1,614 @@
+{
+  "status": "success",
+  "request_id": "054bdbdd-5279-4c6c-a739-09ae4211840c",
+  "credits_remaining": 71,
+  "data": {
+    "query": "bread",
+    "platform": "BlinkIt",
+    "lat": 12.9716,
+    "lon": 77.6412,
+    "total_results": 24,
+    "products": [
+      {
+        "id": "530069",
+        "name": "Zero Maida Whole Wheat Bread",
+        "brand": "The Health Factory",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4186623f-9e74-4b2b-8306-a245bf3cab7c.jpg"
+        ],
+        "mrp": 65,
+        "offer_price": 65,
+        "quantity": "350 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/530069",
+        "rating": 4.400000095367432,
+        "rating_count": 11,
+        "inventory": 3,
+        "is_ad": true,
+        "rank": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "317610",
+        "name": "Milk Bread",
+        "brand": "Britannia",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e10dc8ad-6dbc-4c1a-939b-61ef80e501d6.jpg"
+        ],
+        "mrp": 60,
+        "offer_price": 55,
+        "quantity": "400 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/317610",
+        "rating": 4.5,
+        "rating_count": 56546,
+        "inventory": 6,
+        "is_ad": false,
+        "rank": 2,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "114234",
+        "name": "100% Whole Wheat Bread (Zero Maida)",
+        "brand": "Modern",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/24e5b242-c4a4-4fc8-924f-143ffcbbdfb6.jpg"
+        ],
+        "mrp": 65,
+        "offer_price": 65,
+        "quantity": "400 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/114234",
+        "rating": 4.5,
+        "rating_count": 80301,
+        "inventory": 9,
+        "is_ad": false,
+        "rank": 3,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "72209",
+        "name": "White Bread",
+        "brand": "Modern",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c56ed086-7ee1-4ece-b90f-9c016833cdac.jpg"
+        ],
+        "mrp": 60,
+        "offer_price": 60,
+        "quantity": "400 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/72209",
+        "rating": 4.400000095367432,
+        "rating_count": 50243,
+        "inventory": 10,
+        "is_ad": false,
+        "rank": 4,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "383411",
+        "name": "Zero Maida Whole Wheat Bread",
+        "brand": "English Oven",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0ba89349-a3b1-4acd-95b6-56fa5515296f.jpg"
+        ],
+        "mrp": 65,
+        "offer_price": 65,
+        "quantity": "400 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/383411",
+        "rating": 4.400000095367432,
+        "rating_count": 20240,
+        "inventory": 9,
+        "is_ad": true,
+        "rank": 5,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "127031",
+        "name": "Whole Wheat Bread",
+        "brand": "Britannia",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/34641e23-2e4c-49a9-9b69-ce8a11a0538c.jpg"
+        ],
+        "mrp": 65,
+        "offer_price": 59,
+        "quantity": "400 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/127031",
+        "rating": 4.5,
+        "rating_count": 67903,
+        "inventory": 3,
+        "is_ad": false,
+        "rank": 6,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "544443",
+        "name": "Whole Wheat Sourdough",
+        "brand": "Brik Oven",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1774858847914-507.png"
+        ],
+        "mrp": 110,
+        "offer_price": 110,
+        "quantity": "400 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/544443",
+        "rating": 4.300000190734863,
+        "rating_count": 772,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 7,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "24178",
+        "name": "Milk Bread",
+        "brand": "English Oven",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4721d206-97af-4085-866f-8ee5aefa177b.jpg"
+        ],
+        "mrp": 60,
+        "offer_price": 60,
+        "quantity": "400 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/24178",
+        "rating": 4.5,
+        "rating_count": 51497,
+        "inventory": 6,
+        "is_ad": false,
+        "rank": 8,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "18401",
+        "name": "Zero Maida Multigrain Bread",
+        "brand": "English Oven",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1f37d879-8c10-4b05-911f-026de8546fe0.jpg"
+        ],
+        "mrp": 70,
+        "offer_price": 70,
+        "quantity": "400 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/18401",
+        "rating": 4.5,
+        "rating_count": 57712,
+        "inventory": 3,
+        "is_ad": true,
+        "rank": 9,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "628119",
+        "name": "Special Milk Bread",
+        "brand": "Iyengars Bakery",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a8c21a31-822c-463e-ba96-66c4fafd4440.jpg"
+        ],
+        "mrp": 72,
+        "offer_price": 72,
+        "quantity": "400 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/628119",
+        "rating": 4.5,
+        "rating_count": 1309,
+        "inventory": 2,
+        "is_ad": false,
+        "rank": 10,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "530684",
+        "name": "Double Protein Bread (64g Protein per Loaf)",
+        "brand": "Protein Chef",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1775446787912-601.png"
+        ],
+        "mrp": 99,
+        "offer_price": 99,
+        "quantity": "270 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/530684",
+        "rating": 4.300000190734863,
+        "rating_count": 9362,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 11,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "530068",
+        "name": "Zero Maida Multigrain Bread",
+        "brand": "The Health Factory",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8e01bf21-218d-43c9-868f-92e74c11bce0.jpg"
+        ],
+        "mrp": 70,
+        "offer_price": 70,
+        "quantity": "250 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/530068",
+        "rating": 4.400000095367432,
+        "rating_count": 35342,
+        "inventory": 2,
+        "is_ad": false,
+        "rank": 12,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "544433",
+        "name": "Sourdough Bread",
+        "brand": "Brik Oven",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1774858847914-498.png"
+        ],
+        "mrp": 110,
+        "offer_price": 110,
+        "quantity": "400 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/544433",
+        "rating": 4.400000095367432,
+        "rating_count": 401,
+        "inventory": 3,
+        "is_ad": true,
+        "rank": 13,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "18396",
+        "name": "Brown Bread",
+        "brand": "English Oven",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a2c7d6da-4089-44cf-82d1-bde344ff2684.jpg"
+        ],
+        "mrp": 65,
+        "offer_price": 65,
+        "quantity": "400 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/18396",
+        "rating": 4.5,
+        "rating_count": 77515,
+        "inventory": 6,
+        "is_ad": false,
+        "rank": 14,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "555448",
+        "name": "42g Protein Bread - 5 Superfoods",
+        "brand": "Protein Chef",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1777445131253-355.png"
+        ],
+        "mrp": 75,
+        "offer_price": 69,
+        "quantity": "270 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/555448",
+        "rating": 4.300000190734863,
+        "rating_count": 10877,
+        "inventory": 4,
+        "is_ad": false,
+        "rank": 15,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "548808",
+        "name": "Zero Maida Milk Bread",
+        "brand": "The Health Factory",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/df8b6f42-5255-466f-b38d-341fa05bb34f.jpg"
+        ],
+        "mrp": 65,
+        "offer_price": 65,
+        "quantity": "250 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/548808",
+        "rating": 4.300000190734863,
+        "rating_count": 10716,
+        "inventory": 5,
+        "is_ad": false,
+        "rank": 16,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "500519",
+        "name": "Ragi Kaju Pista Cookies",
+        "brand": "Let's Try",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a1af7fd9-a43a-45ae-a6ec-72fe2655890d.jpg"
+        ],
+        "mrp": 220,
+        "offer_price": 126,
+        "quantity": "226 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/500519",
+        "rating": 4.5,
+        "rating_count": 4523,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 17,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "18403",
+        "name": "Sandwich White Bread",
+        "brand": "English Oven",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/035e0a26-e6a2-4426-8fcb-1fa337d1d7c4.jpg"
+        ],
+        "mrp": 60,
+        "offer_price": 60,
+        "quantity": "400 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/18403",
+        "rating": 4.5,
+        "rating_count": 42302,
+        "inventory": 3,
+        "is_ad": false,
+        "rank": 18,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "101230",
+        "name": "Breakfast Slice White Bread",
+        "brand": "Britannia",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/085c314e-7dd6-4792-8e67-2e87a4f48f78.jpg"
+        ],
+        "mrp": 60,
+        "offer_price": 60,
+        "quantity": "450 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/101230",
+        "rating": 4.519999980926514,
+        "rating_count": 39548,
+        "inventory": 3,
+        "is_ad": false,
+        "rank": 19,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "674796",
+        "name": "Zero Preservatives Whole Wheat Bread",
+        "brand": "Baker's Loaf",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/829f34d3-99d8-4555-a904-7666da721d65.png"
+        ],
+        "mrp": 85,
+        "offer_price": 82,
+        "quantity": "350 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/674796",
+        "rating": 4.199999809265137,
+        "rating_count": 1299,
+        "inventory": 2,
+        "is_ad": false,
+        "rank": 20,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "677986",
+        "name": "Low GI Multigrain Bread",
+        "brand": "The Health Factory",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/783bdbf1-7cf8-449c-8449-17d98cd1140d.jpg"
+        ],
+        "mrp": 80,
+        "offer_price": 80,
+        "quantity": "250 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/677986",
+        "rating": 4.300000190734863,
+        "rating_count": 2341,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 21,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "15364",
+        "name": "Brown Bread",
+        "brand": "Britannia",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4f0efc1f-877b-4bea-b9be-61113b53a2d5.jpg"
+        ],
+        "mrp": 65,
+        "offer_price": 65,
+        "quantity": "400 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/15364",
+        "rating": 4.5,
+        "rating_count": 56180,
+        "inventory": 3,
+        "is_ad": false,
+        "rank": 22,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "526318",
+        "name": "Milk Plus Milk Bread",
+        "brand": "Modern",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a5342a38-4e4f-4742-87fc-58b4eb384c08.jpg"
+        ],
+        "mrp": 55,
+        "offer_price": 55,
+        "quantity": "350 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/526318",
+        "rating": 4.400000095367432,
+        "rating_count": 3762,
+        "inventory": 3,
+        "is_ad": false,
+        "rank": 23,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "710323",
+        "name": "High Protein Bread",
+        "brand": "Baker's Loaf",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6353ba36-4660-4497-aae0-3ec7f83cf3f5.png"
+        ],
+        "mrp": 95,
+        "offer_price": 92,
+        "quantity": "350 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/710323",
+        "rating": 4.5,
+        "rating_count": 1708,
+        "inventory": 4,
+        "is_ad": false,
+        "rank": 24,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      }
+    ]
+  }
+}

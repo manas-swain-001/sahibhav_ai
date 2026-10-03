@@ -1,0 +1,614 @@
+{
+  "status": "success",
+  "request_id": "8d5c4ea0-3a33-464c-a8e0-2f782b7175c8",
+  "credits_remaining": 79,
+  "data": {
+    "query": "atta",
+    "platform": "BlinkIt",
+    "lat": 12.9716,
+    "lon": 77.6412,
+    "total_results": 24,
+    "products": [
+      {
+        "id": "613121",
+        "name": "Chakki Khapli Wheat Atta",
+        "brand": "Aashirvaad",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/fab2bab2-4a8e-4b7f-b432-92f73419363b.jpg"
+        ],
+        "mrp": 240,
+        "offer_price": 163,
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/613121",
+        "rating": 4.300000190734863,
+        "rating_count": 291,
+        "inventory": 3,
+        "is_ad": true,
+        "rank": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "68482",
+        "name": "Superior MP Chakki Atta - l kg (Godihittu)",
+        "brand": "Aashirvaad",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f76cdc7d-828a-4036-b119-fdea66b9156b.png"
+        ],
+        "mrp": 75,
+        "offer_price": 68,
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/68482",
+        "rating": 4.699999809265137,
+        "rating_count": 38715,
+        "inventory": 48,
+        "is_ad": false,
+        "rank": 2,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "656865",
+        "name": "Superior MP Chakki Atta",
+        "brand": "Aashirvaad",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/dd012928-e83e-4bdc-9c46-a94c84178234.jpg"
+        ],
+        "mrp": 116,
+        "offer_price": 106,
+        "quantity": "2 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/656865",
+        "rating": 4.699999809265137,
+        "rating_count": 14615,
+        "inventory": 24,
+        "is_ad": false,
+        "rank": 3,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "108301",
+        "name": "High Fibre Atta with Multigrains - 5 kg (Siri Daanya Hittu)",
+        "brand": "Aashirvaad",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1780996492697-40.png"
+        ],
+        "mrp": 412,
+        "offer_price": 350,
+        "quantity": "5 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/108301",
+        "rating": 4.699999809265137,
+        "rating_count": 80342,
+        "inventory": 8,
+        "is_ad": false,
+        "rank": 4,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "7",
+        "name": "Select 100% MP Sharbati Atta (Sharbati Hittu)",
+        "brand": "Aashirvaad",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1780996492697-4.png"
+        ],
+        "mrp": 412,
+        "offer_price": 310,
+        "quantity": "5 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/7",
+        "rating": 4.699999809265137,
+        "rating_count": 76949,
+        "inventory": 5,
+        "is_ad": true,
+        "rank": 5,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "400417",
+        "name": "Fresh Chakki Atta (0% Maida) (Godihittu)",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1769779424274-262.png"
+        ],
+        "mrp": 107,
+        "offer_price": 56,
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/400417",
+        "rating": 4.699999809265137,
+        "rating_count": 31422,
+        "inventory": 15,
+        "is_ad": false,
+        "rank": 6,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "55399",
+        "name": "Fresh Superior-Quality Chakki Atta (0% Maida) (Godihittu)",
+        "brand": "Pillsbury",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/24c6c5ce-3a0b-4fe3-a91c-0e2bb8088799.png"
+        ],
+        "mrp": 340,
+        "offer_price": 238,
+        "quantity": "5 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/55399",
+        "rating": 4.599999904632568,
+        "rating_count": 12168,
+        "inventory": 5,
+        "is_ad": false,
+        "rank": 7,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "68483",
+        "name": "Superior MP Chakki Atta (100% Atta, 0% Maida) (10 kg) (Godihittu)",
+        "brand": "Aashirvaad",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/74371e5a-f158-4aaa-b02e-304b296ca182.png"
+        ],
+        "mrp": 654,
+        "offer_price": 547,
+        "quantity": "10 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/68483",
+        "rating": 4.599999904632568,
+        "rating_count": 13718,
+        "inventory": 5,
+        "is_ad": false,
+        "rank": 8,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "692063",
+        "name": "High Protein Atta",
+        "brand": "Aashirvaad",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1780996492697-255.png"
+        ],
+        "mrp": 420,
+        "offer_price": 381,
+        "quantity": "5 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/692063",
+        "rating": 4.599999904632568,
+        "rating_count": 2089,
+        "inventory": 6,
+        "is_ad": true,
+        "rank": 9,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "58715",
+        "name": "Fresh Chakki Atta (0% Maida) (Godihittu)",
+        "brand": "Pillsbury",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/cbc72301-afbe-4e19-acbf-d160e8ec7fda.png"
+        ],
+        "mrp": 70,
+        "offer_price": 63,
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/58715",
+        "rating": 4.610000133514404,
+        "rating_count": 21954,
+        "inventory": 13,
+        "is_ad": false,
+        "rank": 10,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "526292",
+        "name": "Khapli Wheat Atta, Stoneground",
+        "brand": "Two Brothers",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1787030342804-176.png"
+        ],
+        "mrp": 425,
+        "offer_price": 403,
+        "quantity": "2 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/526292",
+        "rating": 4.699999809265137,
+        "rating_count": 4144,
+        "inventory": 4,
+        "is_ad": false,
+        "rank": 11,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "436304",
+        "name": "Organic Atta",
+        "brand": "Aashirvaad",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1780996492697-78.png"
+        ],
+        "mrp": 86,
+        "offer_price": 72,
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/436304",
+        "rating": 4.599999904632568,
+        "rating_count": 10077,
+        "inventory": 10,
+        "is_ad": false,
+        "rank": 12,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "653347",
+        "name": "Khapli Wheat Atta, Stoneground",
+        "brand": "Two Brothers",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1787048958771-83.png"
+        ],
+        "mrp": 995,
+        "offer_price": 896,
+        "quantity": "5 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/653347",
+        "rating": 4.599999904632568,
+        "rating_count": 795,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 13,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "81299",
+        "name": "Wheat Organic Atta - 1 kg",
+        "brand": "Organic Tattva",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/81760e97-1c09-445e-934c-d4af60e496c1.jpg"
+        ],
+        "mrp": 95,
+        "offer_price": 69,
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/81299",
+        "rating": 4.599999904632568,
+        "rating_count": 17247,
+        "inventory": 4,
+        "is_ad": false,
+        "rank": 14,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "514892",
+        "name": "Chakki Atta (100% Atta, 0% Maida) (Godihittu)",
+        "brand": "Whole Farm",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1ee727b7-9e16-4c37-acc1-b4390d727985.jpg"
+        ],
+        "mrp": 606,
+        "offer_price": 435,
+        "quantity": "10 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/514892",
+        "rating": 4.5,
+        "rating_count": 12,
+        "inventory": 3,
+        "is_ad": false,
+        "rank": 15,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "514893",
+        "name": "Chakki Atta (100% Atta, 0% Maida) (Godihittu)",
+        "brand": "Whole Farm",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/80f11e80-5dc6-4691-9f2d-f5d2181e9d2c.jpg"
+        ],
+        "mrp": 290,
+        "offer_price": 217,
+        "quantity": "5 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/514893",
+        "rating": 4.599999904632568,
+        "rating_count": 12,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 16,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "380157",
+        "name": "Fresh (100% Atta, 0% Maida) Chakki Atta (Godihittu)",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1769779424274-252.png"
+        ],
+        "mrp": 628,
+        "offer_price": 481,
+        "quantity": "10 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/380157",
+        "rating": 4.599999904632568,
+        "rating_count": 52970,
+        "inventory": 4,
+        "is_ad": true,
+        "rank": 17,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "21686",
+        "name": "Premium Whole Wheat Atta",
+        "brand": "24 Mantra Organic",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/58009021-b5b3-4334-99b3-1fab0b48b1e7.jpg"
+        ],
+        "mrp": 90,
+        "offer_price": 49,
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/21686",
+        "rating": 4.599999904632568,
+        "rating_count": 2191,
+        "inventory": 5,
+        "is_ad": false,
+        "rank": 18,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "691794",
+        "name": "High Protein Atta",
+        "brand": "Aashirvaad",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1780996492697-243.png"
+        ],
+        "mrp": 86,
+        "offer_price": 79,
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/691794",
+        "rating": 4.599999904632568,
+        "rating_count": 2089,
+        "inventory": 3,
+        "is_ad": false,
+        "rank": 19,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "77876",
+        "name": "Fresh Chakki Atta (0% Maida)",
+        "brand": "Pillsbury",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/435535d2-763c-4662-a757-d702bc4a70f4.png"
+        ],
+        "mrp": 131,
+        "offer_price": 114,
+        "quantity": "2 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/77876",
+        "rating": 4.599999904632568,
+        "rating_count": 13604,
+        "inventory": 2,
+        "is_ad": false,
+        "rank": 20,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "55388",
+        "name": "Traditional Whole Wheat Chakki Atta (with Bran) (Godihittu)",
+        "brand": "Patanjali",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7bfe6e0e-2d70-410c-b4aa-79b4dd484c53.jpg"
+        ],
+        "mrp": 550,
+        "offer_price": 453,
+        "quantity": "10 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/55388",
+        "rating": 4.699999809265137,
+        "rating_count": 9008,
+        "inventory": 2,
+        "is_ad": true,
+        "rank": 21,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "612720",
+        "name": "Premium Kuttu Flour",
+        "brand": "Whole Farm",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/59aebfe6-2127-498a-99d9-b93d4622dc3d.jpg"
+        ],
+        "mrp": 80,
+        "offer_price": 39,
+        "quantity": "250 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/612720",
+        "rating": 4.599999904632568,
+        "rating_count": 4942,
+        "inventory": 46,
+        "is_ad": false,
+        "rank": 22,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "579854",
+        "name": "Khapli Wheat Atta, Stoneground (Organic Khapli Godhi Hittu)",
+        "brand": "Two Brothers",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0fd91156-6e9c-4045-9aec-8ad7abac5efd.png"
+        ],
+        "mrp": 225,
+        "offer_price": 214,
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/579854",
+        "rating": 4.699999809265137,
+        "rating_count": 4144,
+        "inventory": 4,
+        "is_ad": false,
+        "rank": 23,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "612728",
+        "name": "Premium Singhara Flour",
+        "brand": "Whole Farm",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4335e1fb-77ee-4c26-b9b6-ba355e82cff5.jpg"
+        ],
+        "mrp": 100,
+        "offer_price": 61,
+        "quantity": "250 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/612728",
+        "rating": 4.5,
+        "rating_count": 4257,
+        "inventory": 22,
+        "is_ad": false,
+        "rank": 24,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      }
+    ]
+  }
+}

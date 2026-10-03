@@ -1,0 +1,2626 @@
+{
+  "status": "success",
+  "request_id": "9ace00c7-27d3-4552-b52e-33151a93ced9",
+  "credits_remaining": 81,
+  "data": {
+    "query": "milk",
+    "platform": "Swiggy",
+    "lat": 12.9716,
+    "lon": 77.6412,
+    "total_results": 92,
+    "products": [
+      {
+        "id": "CCX1XWR7GN",
+        "name": "Shubham Milk",
+        "brand": "Nandini",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/02bfb139-2185-4e4a-9419-29fd0af79fbb_J4ZRFJNQRO_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/jbgxpzc5wuvvcwyygeln",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/s5yz29nbv2ejwi1cpmow"
+        ],
+        "mrp": "108",
+        "offer_price": "108",
+        "quantity": "500 ml x 4",
+        "deeplink": "https://www.swiggy.com/instamart/p/--CCX1XWR7GN",
+        "rating": 4.4,
+        "rating_count": 118400,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "CCX1XWR7GN",
+        "name": "Shubham Milk",
+        "brand": "Nandini",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/02bfb139-2185-4e4a-9419-29fd0af79fbb_J4ZRFJNQRO_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/jbgxpzc5wuvvcwyygeln",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/s5yz29nbv2ejwi1cpmow"
+        ],
+        "mrp": "54",
+        "offer_price": "54",
+        "quantity": "500 ml x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--CCX1XWR7GN",
+        "rating": 4.4,
+        "rating_count": 118400,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "CCX1XWR7GN",
+        "name": "Shubham Milk",
+        "brand": "Nandini",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/02bfb139-2185-4e4a-9419-29fd0af79fbb_J4ZRFJNQRO_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/jbgxpzc5wuvvcwyygeln",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/s5yz29nbv2ejwi1cpmow"
+        ],
+        "mrp": "27",
+        "offer_price": "27",
+        "quantity": "500 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--CCX1XWR7GN",
+        "rating": 4.4,
+        "rating_count": 118400,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "MFLHSJXREP",
+        "name": "Organic High Protein Milk",
+        "brand": "Akshayakalpa",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/85a51a7c-820d-4be9-b001-488d13e7a05a_4SZG48D198_MN_17122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/11/3/91499495-662a-4461-9372-a146650da35c_127426_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/11/3/17eb1e71-84f1-4322-b1d8-0b93d29f0e3d_127426_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/11/3/20cb6ab5-5e23-48b9-9e66-40a859045320_127426_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/11/3/25b0fcd0-ad63-4341-8e3e-faec25bf538f_127426_6.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/11/3/c747469f-e33f-4471-9e1d-b6506a3fde62_127426_7.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/11/3/a789760b-76fd-4fe5-a1a3-f39cfe717a93_127426_8.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/11/3/b1dbafb3-65a4-4724-811f-56a4838d07e8_127426_9.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/11/3/da67c58d-272f-495c-8d85-ccc6cb918d14_127426_10.png"
+        ],
+        "mrp": "200",
+        "offer_price": "200",
+        "quantity": "250 ml x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--MFLHSJXREP",
+        "rating": 4.0,
+        "rating_count": 2900,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 2,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "MFLHSJXREP",
+        "name": "Organic High Protein Milk",
+        "brand": "Akshayakalpa",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/22/0c65ee23-b784-4e11-9d5f-f43634f90b40_mn_bg_removed_AL6_e7bf0e92-62da-4dbb-aa4e-2ac387439f26.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/22/e79b99be-64b5-49f1-88a3-16174720903d_HighProteinMilk_Plain_front - 1000x1000_AL5_0f7ae5c6-c2aa-4ec6-81c1-52dd61acd933.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/22/cf1d8407-a6d5-4d5a-8061-8cd33a9a4a0c_HighProteinMilk_Plain_Right - 1000x1000_AL4_43111459-a3d8-4d5f-b8c1-42fffc8dfae9.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/22/84b121fa-d7ba-41bc-8ac3-e4b78733d6aa_HighProteinMilk_Plain_Left - 1000x1000_AL3_91e6d998-78aa-4fc5-bab6-3de4e14dfd98.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/11/3/da67c58d-272f-495c-8d85-ccc6cb918d14_127426_10.png"
+        ],
+        "mrp": "100",
+        "offer_price": "100",
+        "quantity": "250 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--MFLHSJXREP",
+        "rating": 4.0,
+        "rating_count": 2900,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 2,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "61WDNU5G4B",
+        "name": "Pasteurised Toned Milk",
+        "brand": "Nandini",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/87310a53-66ae-4e51-9131-3e11591fcbfa_Q3L8WG2OTP_MN_17122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/jl81zkqan2ld2re3l0kc",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/cjl4znipiyzzleo53qfj"
+        ],
+        "mrp": "96",
+        "offer_price": "96",
+        "quantity": "500 ml x 4",
+        "deeplink": "https://www.swiggy.com/instamart/p/--61WDNU5G4B",
+        "rating": 4.4,
+        "rating_count": 113700,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 3,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "61WDNU5G4B",
+        "name": "Pasteurised Toned Milk",
+        "brand": "Nandini",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/87310a53-66ae-4e51-9131-3e11591fcbfa_Q3L8WG2OTP_MN_17122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/jl81zkqan2ld2re3l0kc",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/cjl4znipiyzzleo53qfj"
+        ],
+        "mrp": "48",
+        "offer_price": "48",
+        "quantity": "500 ml x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--61WDNU5G4B",
+        "rating": 4.4,
+        "rating_count": 113700,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 3,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "61WDNU5G4B",
+        "name": "Pasteurised Toned Milk",
+        "brand": "Nandini",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/87310a53-66ae-4e51-9131-3e11591fcbfa_Q3L8WG2OTP_MN_17122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/jl81zkqan2ld2re3l0kc",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/cjl4znipiyzzleo53qfj"
+        ],
+        "mrp": "24",
+        "offer_price": "24",
+        "quantity": "500 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--61WDNU5G4B",
+        "rating": 4.4,
+        "rating_count": 113700,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 3,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "LBOI72WE75",
+        "name": "Slim n Trim UHT Skimmed Milk",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/91b35837-e653-465b-a118-31c2cd4a9b22_YY4NAGJO4S_MN_17122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/u4jauqyf8dvityfsw45u",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/uhqa14rgrf8byrldlvn2",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/rbzszasfwyj1z8haxefb",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/i6xaquphyf16twzregjc"
+        ],
+        "mrp": "1020",
+        "offer_price": "1020",
+        "quantity": "1 ltr x 12",
+        "deeplink": "https://www.swiggy.com/instamart/p/--LBOI72WE75",
+        "rating": 4.7,
+        "rating_count": 14600,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 4,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "LBOI72WE75",
+        "name": "Slim n Trim UHT Skimmed Milk",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/91b35837-e653-465b-a118-31c2cd4a9b22_YY4NAGJO4S_MN_17122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/u4jauqyf8dvityfsw45u",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/uhqa14rgrf8byrldlvn2",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/rbzszasfwyj1z8haxefb",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/i6xaquphyf16twzregjc"
+        ],
+        "mrp": "340",
+        "offer_price": "340",
+        "quantity": "1 ltr x 4",
+        "deeplink": "https://www.swiggy.com/instamart/p/--LBOI72WE75",
+        "rating": 4.7,
+        "rating_count": 14600,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 4,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "LBOI72WE75",
+        "name": "Slim n Trim UHT Skimmed Milk",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/91b35837-e653-465b-a118-31c2cd4a9b22_YY4NAGJO4S_MN_17122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/u4jauqyf8dvityfsw45u",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/uhqa14rgrf8byrldlvn2",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/rbzszasfwyj1z8haxefb",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/i6xaquphyf16twzregjc"
+        ],
+        "mrp": "170",
+        "offer_price": "170",
+        "quantity": "1 ltr x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--LBOI72WE75",
+        "rating": 4.7,
+        "rating_count": 14600,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 4,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "LBOI72WE75",
+        "name": "Slim n Trim UHT Skimmed Milk",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/91b35837-e653-465b-a118-31c2cd4a9b22_YY4NAGJO4S_MN_17122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/u4jauqyf8dvityfsw45u",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/uhqa14rgrf8byrldlvn2",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/rbzszasfwyj1z8haxefb",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/i6xaquphyf16twzregjc"
+        ],
+        "mrp": "85",
+        "offer_price": "85",
+        "quantity": "1 ltr",
+        "deeplink": "https://www.swiggy.com/instamart/p/--LBOI72WE75",
+        "rating": 4.7,
+        "rating_count": 14600,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 4,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "86CIN32V02",
+        "name": "Daily Health Toned Milk",
+        "brand": "Heritage",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/e2c20e3f-023c-457c-913e-ef5e584143b7_M4XP8K9M1H_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/305ebee36522c30407aa474526f2be0a",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/57a32f926b1ffeea3207a1aa7ab8c50d"
+        ],
+        "mrp": "112",
+        "offer_price": "112",
+        "quantity": "500 ml x 4",
+        "deeplink": "https://www.swiggy.com/instamart/p/--86CIN32V02",
+        "rating": 4.4,
+        "rating_count": 128100,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 5,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "86CIN32V02",
+        "name": "Daily Health Toned Milk",
+        "brand": "Heritage",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/e2c20e3f-023c-457c-913e-ef5e584143b7_M4XP8K9M1H_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/305ebee36522c30407aa474526f2be0a",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/57a32f926b1ffeea3207a1aa7ab8c50d"
+        ],
+        "mrp": "28",
+        "offer_price": "28",
+        "quantity": "500 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--86CIN32V02",
+        "rating": 4.4,
+        "rating_count": 128100,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 5,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "PDWU69E7JF",
+        "name": "Organic Cow Milk - UHT",
+        "brand": "Akshayakalpa",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/4e0f669d-15b6-4806-bb24-4b0df0ca191a_41296_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/34b6ddcf-709a-4d3e-8b48-a60728289252_41296_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/7aedb268-1d54-49d4-9333-eb6788143743_41296_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/da9cab9d-2aac-4100-a948-391838f3784e_41296_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/272af206-8d77-40a8-bc47-d46e8a5440c4_41296_5.png"
+        ],
+        "mrp": "142",
+        "offer_price": "142",
+        "quantity": "1 ltr",
+        "deeplink": "https://www.swiggy.com/instamart/p/--PDWU69E7JF",
+        "rating": 4.6,
+        "rating_count": 3800,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 6,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "PDWU69E7JF",
+        "name": "Organic Cow Milk - UHT",
+        "brand": "Akshayakalpa",
+        "available": false,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/4e0f669d-15b6-4806-bb24-4b0df0ca191a_41296_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/34b6ddcf-709a-4d3e-8b48-a60728289252_41296_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/7aedb268-1d54-49d4-9333-eb6788143743_41296_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/da9cab9d-2aac-4100-a948-391838f3784e_41296_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/272af206-8d77-40a8-bc47-d46e8a5440c4_41296_5.png"
+        ],
+        "mrp": "1704",
+        "offer_price": "1704",
+        "quantity": "1 ltr x 12",
+        "deeplink": "https://www.swiggy.com/instamart/p/--PDWU69E7JF",
+        "rating": 4.6,
+        "rating_count": 3800,
+        "inventory": 0,
+        "is_ad": true,
+        "rank": 6,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "PDWU69E7JF",
+        "name": "Organic Cow Milk - UHT",
+        "brand": "Akshayakalpa",
+        "available": false,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/4e0f669d-15b6-4806-bb24-4b0df0ca191a_41296_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/34b6ddcf-709a-4d3e-8b48-a60728289252_41296_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/7aedb268-1d54-49d4-9333-eb6788143743_41296_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/da9cab9d-2aac-4100-a948-391838f3784e_41296_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/272af206-8d77-40a8-bc47-d46e8a5440c4_41296_5.png"
+        ],
+        "mrp": "568",
+        "offer_price": "545",
+        "quantity": "1 ltr x 4",
+        "deeplink": "https://www.swiggy.com/instamart/p/--PDWU69E7JF",
+        "rating": 4.6,
+        "rating_count": 3800,
+        "inventory": 0,
+        "is_ad": true,
+        "rank": 6,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "PDWU69E7JF",
+        "name": "Organic Cow Milk - UHT",
+        "brand": "Akshayakalpa",
+        "available": false,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/4e0f669d-15b6-4806-bb24-4b0df0ca191a_41296_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/34b6ddcf-709a-4d3e-8b48-a60728289252_41296_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/7aedb268-1d54-49d4-9333-eb6788143743_41296_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/da9cab9d-2aac-4100-a948-391838f3784e_41296_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/272af206-8d77-40a8-bc47-d46e8a5440c4_41296_5.png"
+        ],
+        "mrp": "426",
+        "offer_price": "413",
+        "quantity": "1 ltr x 3",
+        "deeplink": "https://www.swiggy.com/instamart/p/--PDWU69E7JF",
+        "rating": 4.6,
+        "rating_count": 3800,
+        "inventory": 0,
+        "is_ad": true,
+        "rank": 6,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "PDWU69E7JF",
+        "name": "Organic Cow Milk - UHT",
+        "brand": "Akshayakalpa",
+        "available": false,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/4e0f669d-15b6-4806-bb24-4b0df0ca191a_41296_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/34b6ddcf-709a-4d3e-8b48-a60728289252_41296_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/7aedb268-1d54-49d4-9333-eb6788143743_41296_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/da9cab9d-2aac-4100-a948-391838f3784e_41296_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/272af206-8d77-40a8-bc47-d46e8a5440c4_41296_5.png"
+        ],
+        "mrp": "284",
+        "offer_price": "278",
+        "quantity": "1 ltr x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--PDWU69E7JF",
+        "rating": 4.6,
+        "rating_count": 3800,
+        "inventory": 0,
+        "is_ad": true,
+        "rank": 6,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "60G2WOG5GR",
+        "name": "Pasteurized Cow Milk Pouch",
+        "brand": "Akshayakalpa",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/22/8091a9e7-9b91-41d1-bcfa-1340889ae2fd_mn_bg_removed_AL4_cec9810a-6fcd-4973-90b4-02f3c4886ba2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/22/0a11696e-93ba-4c64-9a9b-18f264f60e76_PVBF03D03C_f5eac4fd-68c4-4d84-97aa-e04e343173bc.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/8db00ae13a7708a017d0070fd854b09b",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/44d87c86631edb4fd44a2d5190b2be31"
+        ],
+        "mrp": "96",
+        "offer_price": "96",
+        "quantity": "500 ml x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--60G2WOG5GR",
+        "rating": 4.6,
+        "rating_count": 10300,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 7,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "60G2WOG5GR",
+        "name": "Pasteurized Cow Milk Pouch",
+        "brand": "Akshayakalpa",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/22/8091a9e7-9b91-41d1-bcfa-1340889ae2fd_mn_bg_removed_AL4_cec9810a-6fcd-4973-90b4-02f3c4886ba2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/22/0a11696e-93ba-4c64-9a9b-18f264f60e76_PVBF03D03C_f5eac4fd-68c4-4d84-97aa-e04e343173bc.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/44d87c86631edb4fd44a2d5190b2be31"
+        ],
+        "mrp": "48",
+        "offer_price": "48",
+        "quantity": "500 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--60G2WOG5GR",
+        "rating": 4.6,
+        "rating_count": 10300,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 7,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "B74VU35TKO",
+        "name": "Organic Slim Milk",
+        "brand": "Akshayakalpa",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/c3e46fc8-994b-4fee-8eb8-523ece657dcb_41297_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/d7337916-62d6-4f81-8dd9-3c9606891782_41297_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/f417e096-4f9d-4bb7-a64c-77ae5bfc370d_41297_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/f886b058-8bc7-41fd-a4c8-be30ac3b1cee_41297_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/69a6cc24-718b-4e65-bd43-58976d5d0b78_41297_5.png"
+        ],
+        "mrp": "441",
+        "offer_price": "441",
+        "quantity": "1 ltr x 3",
+        "deeplink": "https://www.swiggy.com/instamart/p/--B74VU35TKO",
+        "rating": 4.5,
+        "rating_count": 582,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 8,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "B74VU35TKO",
+        "name": "Organic Slim Milk",
+        "brand": "Akshayakalpa",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/c3e46fc8-994b-4fee-8eb8-523ece657dcb_41297_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/d7337916-62d6-4f81-8dd9-3c9606891782_41297_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/f417e096-4f9d-4bb7-a64c-77ae5bfc370d_41297_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/f886b058-8bc7-41fd-a4c8-be30ac3b1cee_41297_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/69a6cc24-718b-4e65-bd43-58976d5d0b78_41297_5.png"
+        ],
+        "mrp": "294",
+        "offer_price": "294",
+        "quantity": "1 ltr x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--B74VU35TKO",
+        "rating": 4.5,
+        "rating_count": 582,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 8,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "B74VU35TKO",
+        "name": "Organic Slim Milk",
+        "brand": "Akshayakalpa",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/c3e46fc8-994b-4fee-8eb8-523ece657dcb_41297_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/d7337916-62d6-4f81-8dd9-3c9606891782_41297_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/f417e096-4f9d-4bb7-a64c-77ae5bfc370d_41297_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/f886b058-8bc7-41fd-a4c8-be30ac3b1cee_41297_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/69a6cc24-718b-4e65-bd43-58976d5d0b78_41297_5.png"
+        ],
+        "mrp": "147",
+        "offer_price": "147",
+        "quantity": "1 ltr",
+        "deeplink": "https://www.swiggy.com/instamart/p/--B74VU35TKO",
+        "rating": 4.5,
+        "rating_count": 582,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 8,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "B74VU35TKO",
+        "name": "Organic Slim Milk",
+        "brand": "Akshayakalpa",
+        "available": false,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/c3e46fc8-994b-4fee-8eb8-523ece657dcb_41297_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/d7337916-62d6-4f81-8dd9-3c9606891782_41297_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/f417e096-4f9d-4bb7-a64c-77ae5bfc370d_41297_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/f886b058-8bc7-41fd-a4c8-be30ac3b1cee_41297_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/69a6cc24-718b-4e65-bd43-58976d5d0b78_41297_5.png"
+        ],
+        "mrp": "1764",
+        "offer_price": "1764",
+        "quantity": "1 ltr x 12",
+        "deeplink": "https://www.swiggy.com/instamart/p/--B74VU35TKO",
+        "rating": 4.5,
+        "rating_count": 582,
+        "inventory": 0,
+        "is_ad": true,
+        "rank": 8,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "B74VU35TKO",
+        "name": "Organic Slim Milk",
+        "brand": "Akshayakalpa",
+        "available": false,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/c3e46fc8-994b-4fee-8eb8-523ece657dcb_41297_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/d7337916-62d6-4f81-8dd9-3c9606891782_41297_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/f417e096-4f9d-4bb7-a64c-77ae5bfc370d_41297_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/f886b058-8bc7-41fd-a4c8-be30ac3b1cee_41297_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/69a6cc24-718b-4e65-bd43-58976d5d0b78_41297_5.png"
+        ],
+        "mrp": "588",
+        "offer_price": "588",
+        "quantity": "1 ltr x 4",
+        "deeplink": "https://www.swiggy.com/instamart/p/--B74VU35TKO",
+        "rating": 4.5,
+        "rating_count": 582,
+        "inventory": 0,
+        "is_ad": true,
+        "rank": 8,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "FDLL0YWLB0",
+        "name": "Amrutha Farm Fresh Organic Cow Milk",
+        "brand": "Akshayakalpa",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/d4f2ed08-5c3e-477d-9cea-68400a3775db_M00D9F3B19_MN_17122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/9/21/82d5983f-b63e-4419-bbfa-a133a9280881_3373_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/9/21/34f102f3-d36b-4c38-8f5c-1a270ac280e0_3373_3.png"
+        ],
+        "mrp": "56",
+        "offer_price": "56",
+        "quantity": "500 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--FDLL0YWLB0",
+        "rating": 4.6,
+        "rating_count": 12200,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 9,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "FDLL0YWLB0",
+        "name": "Amrutha Farm Fresh Organic Cow Milk",
+        "brand": "Akshayakalpa",
+        "available": false,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/d4f2ed08-5c3e-477d-9cea-68400a3775db_M00D9F3B19_MN_17122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/9/21/82d5983f-b63e-4419-bbfa-a133a9280881_3373_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/9/21/34f102f3-d36b-4c38-8f5c-1a270ac280e0_3373_3.png"
+        ],
+        "mrp": "224",
+        "offer_price": "224",
+        "quantity": "500 ml x 4",
+        "deeplink": "https://www.swiggy.com/instamart/p/--FDLL0YWLB0",
+        "rating": 4.6,
+        "rating_count": 12200,
+        "inventory": 0,
+        "is_ad": false,
+        "rank": 9,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "FDLL0YWLB0",
+        "name": "Amrutha Farm Fresh Organic Cow Milk",
+        "brand": "Akshayakalpa",
+        "available": false,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/d4f2ed08-5c3e-477d-9cea-68400a3775db_M00D9F3B19_MN_17122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/9/21/82d5983f-b63e-4419-bbfa-a133a9280881_3373_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/9/21/34f102f3-d36b-4c38-8f5c-1a270ac280e0_3373_3.png"
+        ],
+        "mrp": "168",
+        "offer_price": "168",
+        "quantity": "500 ml x 3",
+        "deeplink": "https://www.swiggy.com/instamart/p/--FDLL0YWLB0",
+        "rating": 4.6,
+        "rating_count": 12200,
+        "inventory": 0,
+        "is_ad": false,
+        "rank": 9,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "0IL1YRI7UO",
+        "name": "whole Milk Powder",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/3/2/00cbce8b-d4e5-4ff4-87af-6fd041e30497_NPI-103176_1_20260302_073008.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/3/2/d4887099-00d2-44de-ace7-e4b6743bf21c_NPI-103176_2_20260302_073009.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/3/2/c5663adb-4fe0-41ae-8b49-78c8ad88529a_NPI-103176_3_20260302_073009.png"
+        ],
+        "mrp": "280",
+        "offer_price": "280",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--0IL1YRI7UO",
+        "rating": 4.6,
+        "rating_count": 111,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 10,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "71KUIARPTF",
+        "name": "Gold Pasteurised Full Cream Milk",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/51a2cd89-2a42-4b2b-ac97-95288e02952d_TYF3262KU8_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/krzl1xq5cwewvy5alc9m",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/dldlhpf0hwljehttvi9n",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/c3equuu48ecai632yhox"
+        ],
+        "mrp": "136",
+        "offer_price": "136",
+        "quantity": "500 ml x 4",
+        "deeplink": "https://www.swiggy.com/instamart/p/--71KUIARPTF",
+        "rating": 4.5,
+        "rating_count": 473300,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 11,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "71KUIARPTF",
+        "name": "Gold Pasteurised Full Cream Milk",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/51a2cd89-2a42-4b2b-ac97-95288e02952d_TYF3262KU8_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/krzl1xq5cwewvy5alc9m",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/dldlhpf0hwljehttvi9n",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/c3equuu48ecai632yhox"
+        ],
+        "mrp": "34",
+        "offer_price": "34",
+        "quantity": "500 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--71KUIARPTF",
+        "rating": 4.5,
+        "rating_count": 473300,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 11,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "59CM4UVLZS",
+        "name": "Cow Milk",
+        "brand": "Country Delight",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/12/26/e49443ac-1792-49a0-9330-6b90a4687027_381178_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/6/19/112bd4ca-c662-482c-94e4-5b230044f5a1_381178_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/6/19/73b8d0a7-cd7d-4df2-9621-1f371ea3885f_381178_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/6/19/2ae47094-64b3-499d-91ff-66875bf74c56_381178_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/6/19/6a29ae09-cb8c-438c-b01d-13d5b8fbf337_381178_5.png"
+        ],
+        "mrp": "48",
+        "offer_price": "47",
+        "quantity": "450 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--59CM4UVLZS",
+        "rating": 4.3,
+        "rating_count": 26300,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 12,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "59CM4UVLZS",
+        "name": "Cow Milk",
+        "brand": "Country Delight",
+        "available": false,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/12/26/e49443ac-1792-49a0-9330-6b90a4687027_381178_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/6/19/112bd4ca-c662-482c-94e4-5b230044f5a1_381178_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/6/19/73b8d0a7-cd7d-4df2-9621-1f371ea3885f_381178_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/6/19/2ae47094-64b3-499d-91ff-66875bf74c56_381178_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/6/19/6a29ae09-cb8c-438c-b01d-13d5b8fbf337_381178_5.png"
+        ],
+        "mrp": "96",
+        "offer_price": "94",
+        "quantity": "450 ml x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--59CM4UVLZS",
+        "rating": 4.3,
+        "rating_count": 26300,
+        "inventory": 0,
+        "is_ad": true,
+        "rank": 12,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "LB3ZS2R9VC",
+        "name": "Shubam Milk",
+        "brand": "Nandini",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/b816eaab-cccf-4cf0-8935-23b465e49232_DOQWASOGZL_MN_17122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/gpi1i1rmexem3f2aohls",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/jo6meqy4flvj3jjvs6u1"
+        ],
+        "mrp": "52",
+        "offer_price": "52",
+        "quantity": "1 ltr",
+        "deeplink": "https://www.swiggy.com/instamart/p/--LB3ZS2R9VC",
+        "rating": 4.4,
+        "rating_count": 17700,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 13,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "PSHOXYIK8Y",
+        "name": "Buffalo Milk",
+        "brand": "Country Delight",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/12/26/9d57c62c-d381-47fe-b76f-61a1fce172af_668805_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/6/19/772b7a17-ece6-4249-99c3-ec6365deb768_668805_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/6/19/7c6f5e13-4678-4e22-9e49-403bded104e2_668805_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/6/19/63e543ed-8538-442d-a830-977ea716b34c_668805_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/6/19/2b514357-fd09-4050-b122-d52a1c6ad1d3_668805_5.png"
+        ],
+        "mrp": "118",
+        "offer_price": "112",
+        "quantity": "450 ml x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--PSHOXYIK8Y",
+        "rating": 4.3,
+        "rating_count": 19600,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 14,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "PSHOXYIK8Y",
+        "name": "Buffalo Milk",
+        "brand": "Country Delight",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/12/26/9d57c62c-d381-47fe-b76f-61a1fce172af_668805_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/6/19/772b7a17-ece6-4249-99c3-ec6365deb768_668805_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/6/19/7c6f5e13-4678-4e22-9e49-403bded104e2_668805_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/6/19/63e543ed-8538-442d-a830-977ea716b34c_668805_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/6/19/2b514357-fd09-4050-b122-d52a1c6ad1d3_668805_5.png"
+        ],
+        "mrp": "59",
+        "offer_price": "56",
+        "quantity": "450 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--PSHOXYIK8Y",
+        "rating": 4.3,
+        "rating_count": 19600,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 14,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "7JPJELLPZZ",
+        "name": "Taaza Tetra",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/18ada512-645a-4057-a388-9749180d8ee2_31VQRTD5DH_MN_17122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/exfn9jcxgtqhe1yxw8bt",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/ubhxc7fa8fwjqlmyer3a",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/iii2qw1cfg31fqnwrv8f",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/h5tv7fvsqb6uxumkgpwr"
+        ],
+        "mrp": "17",
+        "offer_price": "17",
+        "quantity": "200 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--7JPJELLPZZ",
+        "rating": 4.6,
+        "rating_count": 83700,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 15,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "LJTFFE6QTK",
+        "name": "Calci+ Milk Tetra",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/c6f4e147-1809-41e9-8ce2-25674f17c406_QZRG4BQF0F_MN_17122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/3/8531f52d-f04e-41c4-86b3-bf27e69fdf45_976073_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/3/1ef93149-beb5-4b05-b4c2-85ede76b75a2_976073_3.png"
+        ],
+        "mrp": "26",
+        "offer_price": "26",
+        "quantity": "250 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--LJTFFE6QTK",
+        "rating": 4.4,
+        "rating_count": 1400,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 16,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "UYSFKHAOBP",
+        "name": "Toned Milk",
+        "brand": "Nandini",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/5351bceb-166a-4960-b9bb-e2f15ec0ba81_DWOOTHGDRA_MN_17122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/svxctvwqzuucabtq1go4",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/lqneyc512kngmrfgrdrs"
+        ],
+        "mrp": "46",
+        "offer_price": "46",
+        "quantity": "1 ltr",
+        "deeplink": "https://www.swiggy.com/instamart/p/--UYSFKHAOBP",
+        "rating": 4.3,
+        "rating_count": 11300,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 17,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "F2SX3E5CRA",
+        "name": "Dairy Whitener",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/c55f7e66-1cf0-44bc-a3a0-0976749dee68_4DTPNNSJU1_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/pk3ijq5izhrpdamohpwo",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/m1pvhftsyistecvojxdu"
+        ],
+        "mrp": "510",
+        "offer_price": "510",
+        "quantity": "500 g x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--F2SX3E5CRA",
+        "rating": 4.7,
+        "rating_count": 10800,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 18,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "F2SX3E5CRA",
+        "name": "Dairy Whitener",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/c55f7e66-1cf0-44bc-a3a0-0976749dee68_4DTPNNSJU1_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/pk3ijq5izhrpdamohpwo",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/m1pvhftsyistecvojxdu"
+        ],
+        "mrp": "255",
+        "offer_price": "255",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--F2SX3E5CRA",
+        "rating": 4.7,
+        "rating_count": 10800,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 18,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "JKFJW8ZUYW",
+        "name": "Taaza Milky Milk",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/b42b731e-b555-4536-913a-265af70ec9e4_SKS75T1GV1_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/fliz2edmthuzurdyj6e0",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/bseodotyugo0abupibsf"
+        ],
+        "mrp": "29",
+        "offer_price": "29",
+        "quantity": "500 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--JKFJW8ZUYW",
+        "rating": 4.4,
+        "rating_count": 482000,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 19,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "JKFJW8ZUYW",
+        "name": "Taaza Milky Milk",
+        "brand": "Amul",
+        "available": false,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/b42b731e-b555-4536-913a-265af70ec9e4_SKS75T1GV1_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/fliz2edmthuzurdyj6e0",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/bseodotyugo0abupibsf"
+        ],
+        "mrp": "116",
+        "offer_price": "116",
+        "quantity": "500 ml x 4",
+        "deeplink": "https://www.swiggy.com/instamart/p/--JKFJW8ZUYW",
+        "rating": 4.4,
+        "rating_count": 482000,
+        "inventory": 0,
+        "is_ad": false,
+        "rank": 19,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "AVXJ1I6L5L",
+        "name": "Camel Milk",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/bc718d6c-567a-4243-9f99-0a5132df0796_DUJW114N99_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/22/09aca878-ade4-4187-99f0-16e8cdaf2336_602764_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/22/d41b9cd2-6c75-402d-b7f1-65c93426e350_602764_3.png"
+        ],
+        "mrp": "25",
+        "offer_price": "25",
+        "quantity": "200 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--AVXJ1I6L5L",
+        "rating": 4.2,
+        "rating_count": 456,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 20,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "BQ5YQH8TEN",
+        "name": "Taaza Toned Milk",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/1b89bfa5-dc48-4456-8cbd-85e67bdf40d1_HH5FTSMTW0_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/dpugdlcc1plqtsqihd6y",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/a7ter01yj5omspen5khx",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/uuh8gjmg0nlpojgte0vh",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/fcayjyeip6tvx2szkj2j"
+        ],
+        "mrp": "77",
+        "offer_price": "77",
+        "quantity": "1 ltr",
+        "deeplink": "https://www.swiggy.com/instamart/p/--BQ5YQH8TEN",
+        "rating": 4.6,
+        "rating_count": 70800,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 21,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "BQ5YQH8TEN",
+        "name": "Taaza Toned Milk",
+        "brand": "Amul",
+        "available": false,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/1b89bfa5-dc48-4456-8cbd-85e67bdf40d1_HH5FTSMTW0_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/dpugdlcc1plqtsqihd6y",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/a7ter01yj5omspen5khx",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/uuh8gjmg0nlpojgte0vh",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/fcayjyeip6tvx2szkj2j"
+        ],
+        "mrp": "924",
+        "offer_price": "924",
+        "quantity": "1 ltr x 12",
+        "deeplink": "https://www.swiggy.com/instamart/p/--BQ5YQH8TEN",
+        "rating": 4.6,
+        "rating_count": 70800,
+        "inventory": 0,
+        "is_ad": false,
+        "rank": 21,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "BQ5YQH8TEN",
+        "name": "Taaza Toned Milk",
+        "brand": "Amul",
+        "available": false,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/1b89bfa5-dc48-4456-8cbd-85e67bdf40d1_HH5FTSMTW0_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/dpugdlcc1plqtsqihd6y",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/a7ter01yj5omspen5khx",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/uuh8gjmg0nlpojgte0vh",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/fcayjyeip6tvx2szkj2j"
+        ],
+        "mrp": "462",
+        "offer_price": "462",
+        "quantity": "1 ltr x 6",
+        "deeplink": "https://www.swiggy.com/instamart/p/--BQ5YQH8TEN",
+        "rating": 4.6,
+        "rating_count": 70800,
+        "inventory": 0,
+        "is_ad": false,
+        "rank": 21,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "BQ5YQH8TEN",
+        "name": "Taaza Toned Milk",
+        "brand": "Amul",
+        "available": false,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/1b89bfa5-dc48-4456-8cbd-85e67bdf40d1_HH5FTSMTW0_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/dpugdlcc1plqtsqihd6y",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/a7ter01yj5omspen5khx",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/uuh8gjmg0nlpojgte0vh",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/fcayjyeip6tvx2szkj2j"
+        ],
+        "mrp": "308",
+        "offer_price": "308",
+        "quantity": "1 ltr x 4",
+        "deeplink": "https://www.swiggy.com/instamart/p/--BQ5YQH8TEN",
+        "rating": 4.6,
+        "rating_count": 70800,
+        "inventory": 0,
+        "is_ad": false,
+        "rank": 21,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "945NLA45I2",
+        "name": "High Protein Milk - No added Whey. Made from Tested Milk (No Antibiotics, No Hormones, No Preservatives)",
+        "brand": "Sid's Farm",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/69defe3e-f61b-4bac-b60a-1cd2c053f9a9_KEY08K6F7S_MN_17122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/7/16/56fd9895-5c67-4604-9181-15a81687bb50_600560_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/7/16/53d3878b-3831-4267-8fea-74934f3f2c17_600560_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/4/2/3608fe23-d692-466d-a4ed-b9ffb9782b3a_4_1daed190-ee8d-40e7-8b8a-c50fb2606556.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/4/2/fe1701d9-b921-4aef-90af-fad56e4ad7f9_1_a00c385b-6807-4e55-bf8d-7a9028944576.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/4/2/e5f1d7aa-496d-4cf8-950e-ba510847f7ac_2_9ac9d1ce-feea-4eda-a1ed-36793702c740.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/4/2/e9e7cd34-0d9a-4837-93b3-bab330e6aeac_11_a0138db0-4984-44db-875e-21d8a8f7bad1.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/4/2/9ae69379-8e3b-4624-b16b-3676e1957726_8_fb9e786b-eecf-4c9c-b833-c68f10df31c9.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/7/16/d03cee7e-5eb0-400b-8648-fe129ecb4e02_600560_8.png"
+        ],
+        "mrp": "99",
+        "offer_price": "89",
+        "quantity": "250 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--945NLA45I2",
+        "rating": 3.5,
+        "rating_count": 1700,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 22,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "CM7X2ZPHQY",
+        "name": "GoodLife Toned Milk",
+        "brand": "Nandini",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/7b89b030-72fb-4a4a-8743-287bdf12d6a2_LDKB3T3EOY_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/zskvysfayu0blj1klzu5",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/plznva9ewhsl3dom9c7h",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/wviseugtmq61xqu9epym",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/huc8fjkx7eyxe3e202a9"
+        ],
+        "mrp": "144",
+        "offer_price": "144",
+        "quantity": "500 ml x 4",
+        "deeplink": "https://www.swiggy.com/instamart/p/--CM7X2ZPHQY",
+        "rating": 4.7,
+        "rating_count": 32299,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 23,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "CM7X2ZPHQY",
+        "name": "GoodLife Toned Milk",
+        "brand": "Nandini",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/7b89b030-72fb-4a4a-8743-287bdf12d6a2_LDKB3T3EOY_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/zskvysfayu0blj1klzu5",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/plznva9ewhsl3dom9c7h",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/wviseugtmq61xqu9epym",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/huc8fjkx7eyxe3e202a9"
+        ],
+        "mrp": "72",
+        "offer_price": "72",
+        "quantity": "500 ml x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--CM7X2ZPHQY",
+        "rating": 4.7,
+        "rating_count": 32299,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 23,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "CM7X2ZPHQY",
+        "name": "GoodLife Toned Milk",
+        "brand": "Nandini",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/7b89b030-72fb-4a4a-8743-287bdf12d6a2_LDKB3T3EOY_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/zskvysfayu0blj1klzu5",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/plznva9ewhsl3dom9c7h",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/wviseugtmq61xqu9epym",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/huc8fjkx7eyxe3e202a9"
+        ],
+        "mrp": "36",
+        "offer_price": "36",
+        "quantity": "500 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--CM7X2ZPHQY",
+        "rating": 4.7,
+        "rating_count": 32299,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 23,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "Y8SGY62Q4A",
+        "name": "High Protein Milk",
+        "brand": "Epigamia",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/7/15/02b54389-1b84-498f-8dc5-7a4d2a7e16b3_01_MN_e4166b03-622f-4cbc-bbf4-90c7aad79f1e.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/8/26/e607a7d9-8e4c-466f-a00a-2c7a52357106_05_BK_4af6e928-08a9-46c5-ba7c-07a415b77e85.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/7/15/e7514e18-2769-4e05-aa7a-edb9a94a6aff_06_AL4_ddc25a41-1d78-40d5-9b50-df2cec23c9e9.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/8/26/388ae3f6-249a-47b5-9555-d42c4a494593_02_AL1_a422d2b1-3fd4-4570-b347-136408933340.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/8/26/05d66cb9-3fc8-45c5-a3df-d175a7d2c43b_03_AL2_084e437a-1e6e-44ed-ba54-95107729744e.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/8/26/ba1fcae7-94fd-4ef8-a23b-8c47c36f45ef_04_AL3_10c2f73f-c22b-4b3b-99cf-0dc2089143aa.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/2/16/c38e2aa3-26ef-492c-bc69-430a85817f90_NPI-097409_7_20260216_101017.png"
+        ],
+        "mrp": "125",
+        "offer_price": "99",
+        "quantity": "250 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--Y8SGY62Q4A",
+        "rating": 4.0,
+        "rating_count": 125,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 24,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "VX2FARCOT5",
+        "name": "Toned Milk",
+        "brand": "Arokya",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/009b5e3c-e70f-4173-b397-aa78d963e24f_SY3KDF99TR_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/8/31/f703294f-8dde-4fdf-8edb-bd9f603c13f3_7285_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/8/31/2854ec0b-52e0-4f0c-9171-143d7ea98ab0_7285_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/8/31/e27791ce-ca2d-44b2-8af5-779ac1b809e6_7285_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/8/31/58856e83-f4f6-4b0b-b928-bd8579f17ee7_7285_5.png"
+        ],
+        "mrp": "52",
+        "offer_price": "52",
+        "quantity": "500 ml x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--VX2FARCOT5",
+        "rating": 4.5,
+        "rating_count": 85100,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 25,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "VX2FARCOT5",
+        "name": "Toned Milk",
+        "brand": "Arokya",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/009b5e3c-e70f-4173-b397-aa78d963e24f_SY3KDF99TR_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/8/31/f703294f-8dde-4fdf-8edb-bd9f603c13f3_7285_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/8/31/2854ec0b-52e0-4f0c-9171-143d7ea98ab0_7285_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/8/31/e27791ce-ca2d-44b2-8af5-779ac1b809e6_7285_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/8/31/58856e83-f4f6-4b0b-b928-bd8579f17ee7_7285_5.png"
+        ],
+        "mrp": "26",
+        "offer_price": "26",
+        "quantity": "500 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--VX2FARCOT5",
+        "rating": 4.5,
+        "rating_count": 85100,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 25,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "8VYCZWPEBZ",
+        "name": "Pasteurised Cow Milk",
+        "brand": "Nandini",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/61d5c09b-f412-45cc-a575-425f03ab3e9f_HMHT69L0NR_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/6/27/fa8b7aec-f2ce-457b-8930-d0aa204d370b_milk_HMHT69L0NR_AL1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/6/27/52d01c73-d6f0-444a-adfa-4361588f08bd_milk_HMHT69L0NR_AL2.png"
+        ],
+        "mrp": "26",
+        "offer_price": "26",
+        "quantity": "500 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--8VYCZWPEBZ",
+        "rating": 4.4,
+        "rating_count": 10000,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 26,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "15K7MDNGNV",
+        "name": "Happy Full Cream Milk",
+        "brand": "Heritage",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/8e79f3bf-df99-4922-9169-0c70d4e57b3b_BZG9BW3AI5_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/ncwweydtwxuct2symuxu",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/xrpqfzleo83clf3zz4z5"
+        ],
+        "mrp": "38",
+        "offer_price": "38",
+        "quantity": "500 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--15K7MDNGNV",
+        "rating": 4.4,
+        "rating_count": 48700,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 27,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "15K7MDNGNV",
+        "name": "Happy Full Cream Milk",
+        "brand": "Heritage",
+        "available": false,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/8e79f3bf-df99-4922-9169-0c70d4e57b3b_BZG9BW3AI5_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/ncwweydtwxuct2symuxu",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/xrpqfzleo83clf3zz4z5"
+        ],
+        "mrp": "152",
+        "offer_price": "152",
+        "quantity": "500 ml x 4",
+        "deeplink": "https://www.swiggy.com/instamart/p/--15K7MDNGNV",
+        "rating": 4.4,
+        "rating_count": 48700,
+        "inventory": 0,
+        "is_ad": false,
+        "rank": 27,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "27O1Z62WJD",
+        "name": "Nourish + Milk",
+        "brand": "Heritage",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/16/6252d922-7ab0-4791-9098-fb14ca4304f8_NPI-072916_1_20251216_110216.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/16/d4c4adf7-4d78-431a-8aed-18988e61c2eb_NPI-072916_2_20251216_110216.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/16/cf69396f-e887-48fc-8925-83b71bb75fc7_NPI-072916_3_20251216_110217.png"
+        ],
+        "mrp": "31",
+        "offer_price": "30",
+        "quantity": "500 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--27O1Z62WJD",
+        "rating": 4.4,
+        "rating_count": 5100,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 28,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "J8I0IN3V2G",
+        "name": "GoodLife Toned Milk",
+        "brand": "Nandini",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/20/3d371078-9e6c-4e63-8f38-101a81596756_mn_bg_removed_AL4_4d9b2892-00c5-4996-9490-e43aef7c799f.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/20/0c14df79-b631-40e2-b8e6-bda80efb989d_1_bd50411b-f8a0-4a0c-b952-93bcfd8be61b.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/20/b8794c8b-15f7-4b3a-a88a-e101ed69ff6c_2_28ce0e9f-d67f-47e9-b10a-a8cc32c541dc.png"
+        ],
+        "mrp": "32",
+        "offer_price": "32",
+        "quantity": "500 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--J8I0IN3V2G",
+        "rating": 4.4,
+        "rating_count": 9400,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 29,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "MZ6NT1SJU2",
+        "name": "Full Cream Milk",
+        "brand": "Arokya",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/3ee69dc2-b1fa-4c1d-99a5-28a9ccf73574_6MC1X7VD3Y_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/8/31/c09018c6-4c6a-4002-8b06-c8ff5656a44f_7287_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/8/31/2e34a197-2b52-48be-9257-8818ae47704f_7287_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/8/31/bb2ed051-f77d-4c71-8b62-a984a0d14bf0_7287_4.png"
+        ],
+        "mrp": "38",
+        "offer_price": "38",
+        "quantity": "500 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--MZ6NT1SJU2",
+        "rating": 4.5,
+        "rating_count": 67500,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 30,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "DVK7YILJZU",
+        "name": "Lactose Free Milk",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/8/19/3b1af9a7-09da-41ce-a367-95827213d9ea_mn_bg_removed_AL9_f227c599-ec9e-4a62-9397-c1596c2b551e.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/8/19/b1b2f233-2a62-4de4-9adb-9e2381e0718c_1_ddc96926-ca66-40a5-b5fb-1e95ffd3aede.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/8/19/c354fdab-8c8e-4cb9-9bd9-df7d72d906ff_1200x1200_7f444a34-de54-4aca-9f48-f4b590c660db.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/8/19/4a8b70b2-14e3-47cd-ab18-762050884ff1_1_4a18b12b-8e17-451c-82f6-ea38e20ab959.png"
+        ],
+        "mrp": "104",
+        "offer_price": "104",
+        "quantity": "250 ml x 4",
+        "deeplink": "https://www.swiggy.com/instamart/p/--DVK7YILJZU",
+        "rating": 4.6,
+        "rating_count": 51400,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 31,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "DVK7YILJZU",
+        "name": "Lactose Free Milk",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/8/19/3b1af9a7-09da-41ce-a367-95827213d9ea_mn_bg_removed_AL9_f227c599-ec9e-4a62-9397-c1596c2b551e.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/8/19/b1b2f233-2a62-4de4-9adb-9e2381e0718c_1_ddc96926-ca66-40a5-b5fb-1e95ffd3aede.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/8/19/c354fdab-8c8e-4cb9-9bd9-df7d72d906ff_1200x1200_7f444a34-de54-4aca-9f48-f4b590c660db.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/8/19/4a8b70b2-14e3-47cd-ab18-762050884ff1_1_4a18b12b-8e17-451c-82f6-ea38e20ab959.png"
+        ],
+        "mrp": "52",
+        "offer_price": "52",
+        "quantity": "250 ml x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--DVK7YILJZU",
+        "rating": 4.6,
+        "rating_count": 51400,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 31,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "DVK7YILJZU",
+        "name": "Lactose Free Milk",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/8/19/3b1af9a7-09da-41ce-a367-95827213d9ea_mn_bg_removed_AL9_f227c599-ec9e-4a62-9397-c1596c2b551e.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/8/19/b1b2f233-2a62-4de4-9adb-9e2381e0718c_1_ddc96926-ca66-40a5-b5fb-1e95ffd3aede.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/8/19/c354fdab-8c8e-4cb9-9bd9-df7d72d906ff_1200x1200_7f444a34-de54-4aca-9f48-f4b590c660db.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/8/19/4a8b70b2-14e3-47cd-ab18-762050884ff1_1_4a18b12b-8e17-451c-82f6-ea38e20ab959.png"
+        ],
+        "mrp": "26",
+        "offer_price": "26",
+        "quantity": "250 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--DVK7YILJZU",
+        "rating": 4.6,
+        "rating_count": 51400,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 31,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "EYOG0ZUHE5",
+        "name": "Gold Homogenised Standardised Full Cream Milk",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/da6c9f08-0c84-48b5-8685-079682b00444_Q0MX54RW84_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/enocjxfm74msd8spa46g",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/jcazhnubnhpyeonntm6o",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/m9ilds1h0si0q3ypnavm",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/dwktfhuxck95fta0y0q1"
+        ],
+        "mrp": "996",
+        "offer_price": "996",
+        "quantity": "1 ltr x 12",
+        "deeplink": "https://www.swiggy.com/instamart/p/--EYOG0ZUHE5",
+        "rating": 4.6,
+        "rating_count": 42600,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 32,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "EYOG0ZUHE5",
+        "name": "Gold Homogenised Standardised Full Cream Milk",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/da6c9f08-0c84-48b5-8685-079682b00444_Q0MX54RW84_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/enocjxfm74msd8spa46g",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/jcazhnubnhpyeonntm6o",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/m9ilds1h0si0q3ypnavm",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/dwktfhuxck95fta0y0q1"
+        ],
+        "mrp": "166",
+        "offer_price": "166",
+        "quantity": "1 ltr x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--EYOG0ZUHE5",
+        "rating": 4.6,
+        "rating_count": 42600,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 32,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "EYOG0ZUHE5",
+        "name": "Gold Homogenised Standardised Full Cream Milk",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/da6c9f08-0c84-48b5-8685-079682b00444_Q0MX54RW84_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/enocjxfm74msd8spa46g",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/jcazhnubnhpyeonntm6o",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/m9ilds1h0si0q3ypnavm",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/dwktfhuxck95fta0y0q1"
+        ],
+        "mrp": "83",
+        "offer_price": "83",
+        "quantity": "1 ltr",
+        "deeplink": "https://www.swiggy.com/instamart/p/--EYOG0ZUHE5",
+        "rating": 4.6,
+        "rating_count": 42600,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 32,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "PQEFTLHDGO",
+        "name": "Moti Toned Milk",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/72474e26-1849-43b9-bbcd-1b7efc12622f_W6MKHU9IKH_MN_17122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/swfjsyiqsd6fakngxp4x",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/nsvxrdw9gozodexxasbw"
+        ],
+        "mrp": "60",
+        "offer_price": "60",
+        "quantity": "450 ml x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--PQEFTLHDGO",
+        "rating": 4.4,
+        "rating_count": 89100,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 33,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "PQEFTLHDGO",
+        "name": "Moti Toned Milk",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/72474e26-1849-43b9-bbcd-1b7efc12622f_W6MKHU9IKH_MN_17122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/swfjsyiqsd6fakngxp4x",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/nsvxrdw9gozodexxasbw"
+        ],
+        "mrp": "30",
+        "offer_price": "30",
+        "quantity": "450 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--PQEFTLHDGO",
+        "rating": 4.4,
+        "rating_count": 89100,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 33,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "DSZMXMZGXL",
+        "name": "Special Milk",
+        "brand": "Heritage",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/12/1/4be60113-ff1e-4765-a2e5-73ecff9c7a03_2676_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/12/1/4bffd160-d636-4e44-89f1-93fa26b84b5b_2676_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/12/1/3564396d-6579-4520-93cb-df0b19f3dd9f_2676_3.png"
+        ],
+        "mrp": "136",
+        "offer_price": "132",
+        "quantity": "450 ml x 4",
+        "deeplink": "https://www.swiggy.com/instamart/p/--DSZMXMZGXL",
+        "rating": 4.5,
+        "rating_count": 34200,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 34,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "DSZMXMZGXL",
+        "name": "Special Milk",
+        "brand": "Heritage",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/12/1/4be60113-ff1e-4765-a2e5-73ecff9c7a03_2676_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/12/1/4bffd160-d636-4e44-89f1-93fa26b84b5b_2676_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/12/1/3564396d-6579-4520-93cb-df0b19f3dd9f_2676_3.png"
+        ],
+        "mrp": "68",
+        "offer_price": "66",
+        "quantity": "450 ml x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--DSZMXMZGXL",
+        "rating": 4.5,
+        "rating_count": 34200,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 34,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "DSZMXMZGXL",
+        "name": "Special Milk",
+        "brand": "Heritage",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/12/1/4be60113-ff1e-4765-a2e5-73ecff9c7a03_2676_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/12/1/4bffd160-d636-4e44-89f1-93fa26b84b5b_2676_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/12/1/3564396d-6579-4520-93cb-df0b19f3dd9f_2676_3.png"
+        ],
+        "mrp": "34",
+        "offer_price": "33",
+        "quantity": "450 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--DSZMXMZGXL",
+        "rating": 4.5,
+        "rating_count": 34200,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 34,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "7BKJ3HSX5I",
+        "name": "Taaza Toned Milk",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/db5b6f93-7ceb-4986-a273-ba651b07d274_R02P751E73_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/13/260356b4-42e8-4443-9715-d991c79799e3_2047_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/13/f0e35d76-3a58-4039-a585-2295f43ea888_2047_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/13/81dfe11b-8c41-4e24-9fde-b6acebef9a09_2047_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/gtbvnjddcwn5m82rde6b"
+        ],
+        "mrp": "40",
+        "offer_price": "40",
+        "quantity": "500 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--7BKJ3HSX5I",
+        "rating": 4.6,
+        "rating_count": 5600,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 35,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "ZY1CM5VNN9",
+        "name": "Organic Cow Milk",
+        "brand": "Akshayakalpa",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/3/16/55e584d2-2c34-4f28-b307-cc5c05288626_3372_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/3/16/5f69be9f-b04d-4c21-860e-bcf7ad397d4b_3372_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/3/16/4a75464c-1ae1-4da2-b9e3-afb99b27407f_3372_3.png"
+        ],
+        "mrp": "50",
+        "offer_price": "50",
+        "quantity": "500 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--ZY1CM5VNN9",
+        "rating": 4.6,
+        "rating_count": 188,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 36,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "BLVWA5AFBN",
+        "name": "Tested Cow Milk (No Antibiotics, No Hormones, No Preservatives)",
+        "brand": "Sid's Farm",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/5da67ea1-96c5-412e-9f66-4b7e944239cb_8JLT1KJL54_MN_17122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/17/177e6e3c-dd75-4ab3-8dd2-aaff957135ca_878036_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/4/2/5c6a4e66-b55e-4eef-8579-bcfafbdee2bf_2_AL1_7cb02b0d-f62c-43fd-96cd-a9f2021322a0.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/4/2/1c6aea0b-0901-4954-b88b-2840647df40e_3_AL2_125ceb69-4038-4387-a03a-85857bf196bb.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/4/2/f5d67090-af4f-4258-bbaf-89bb7f9ceac9_4_AL3_b09bac86-d62e-45d0-b606-d17135fb45c1.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/4/2/9ae69379-8e3b-4624-b16b-3676e1957726_8_fb9e786b-eecf-4c9c-b833-c68f10df31c9.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/4/2/b9af6fa4-204d-4048-98e7-f97cb206d0c9_bar_3c87c58f-f0b3-439f-824e-2dc51bf020df.png"
+        ],
+        "mrp": "44",
+        "offer_price": "44",
+        "quantity": "500 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--BLVWA5AFBN",
+        "rating": 4.3,
+        "rating_count": 10300,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 37,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "E7OE5VF6IS",
+        "name": "Tested Toned Milk (No Antibiotics, No Hormones, No Preservatives)",
+        "brand": "Sid's Farm",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/cc7c8dd6-3a03-465b-9161-5817ecf94b6d_FJ9IOS7CIC_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/6/26/d43dc216-8cd8-40ba-99e8-972fda8d98bc_210737_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/4/2/8e0cc1ba-6abe-4e16-b801-45d9ee81e5ce_2_AL1_457a6681-48f1-457f-88ba-a3378ab5dd05.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/4/2/e9af9fa8-1600-41f7-8e29-548ccafd9437_3_AL2_a4ba52f8-daeb-4703-a65e-28955a007617.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/4/2/6224b9b9-e3a6-4af2-989c-e72bf97f6dfd_4_AL3_0498e0fd-7f9f-4905-b115-f38fbe2e4983.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/4/2/9ae69379-8e3b-4624-b16b-3676e1957726_8_fb9e786b-eecf-4c9c-b833-c68f10df31c9.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/4/2/3a8225cd-dcad-4bea-8be3-0cbfa9441745_10_AL8_ac8dc705-0830-454a-863c-a6d48d90aab5.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/6/26/25967df8-f7bd-47a0-b4c9-fac7d8432f84_210737_6.png"
+        ],
+        "mrp": "72",
+        "offer_price": "72",
+        "quantity": "500 ml x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--E7OE5VF6IS",
+        "rating": 4.1,
+        "rating_count": 10800,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 38,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "E7OE5VF6IS",
+        "name": "Tested Toned Milk (No Antibiotics, No Hormones, No Preservatives)",
+        "brand": "Sid's Farm",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/cc7c8dd6-3a03-465b-9161-5817ecf94b6d_FJ9IOS7CIC_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/6/26/d43dc216-8cd8-40ba-99e8-972fda8d98bc_210737_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/4/2/8e0cc1ba-6abe-4e16-b801-45d9ee81e5ce_2_AL1_457a6681-48f1-457f-88ba-a3378ab5dd05.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/4/2/e9af9fa8-1600-41f7-8e29-548ccafd9437_3_AL2_a4ba52f8-daeb-4703-a65e-28955a007617.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/4/2/6224b9b9-e3a6-4af2-989c-e72bf97f6dfd_4_AL3_0498e0fd-7f9f-4905-b115-f38fbe2e4983.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/4/2/9ae69379-8e3b-4624-b16b-3676e1957726_8_fb9e786b-eecf-4c9c-b833-c68f10df31c9.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/4/2/3a8225cd-dcad-4bea-8be3-0cbfa9441745_10_AL8_ac8dc705-0830-454a-863c-a6d48d90aab5.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/6/26/25967df8-f7bd-47a0-b4c9-fac7d8432f84_210737_6.png"
+        ],
+        "mrp": "36",
+        "offer_price": "36",
+        "quantity": "500 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--E7OE5VF6IS",
+        "rating": 4.1,
+        "rating_count": 10800,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 38,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "G3UN48UFZ6",
+        "name": "Toned Milk",
+        "brand": "Thirumala",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/2a4ccff5-41b3-4d95-8f57-f7e38dd0a363_QRMK9UXYP9_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/8/4a3048f6-e342-4c1a-a441-368e0ba92d45_629279_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/8/9838cd51-5f0f-4737-b634-28a2b6a8e54d_629279_3.png"
+        ],
+        "mrp": "29",
+        "offer_price": "27",
+        "quantity": "500 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--G3UN48UFZ6",
+        "rating": 4.3,
+        "rating_count": 7100,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 39,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "TSGS0BDWMH",
+        "name": "Sampurna Cow Milk",
+        "brand": "Heritage",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/83a769af-ab72-410c-8acf-87a579691042_TQ70KFPS4H_MN_17122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/8/21/16400617-fe35-48d9-aebd-703a7cbf28f6_NPI-021222_2_20250821_050412.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/8/21/f8818122-f23a-4c0c-b409-cd5227c2bbb0_NPI-021222_3_20250821_050412.png"
+        ],
+        "mrp": "64",
+        "offer_price": "62",
+        "quantity": "500 ml x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--TSGS0BDWMH",
+        "rating": 4.5,
+        "rating_count": 10100,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 40,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "TSGS0BDWMH",
+        "name": "Sampurna Cow Milk",
+        "brand": "Heritage",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/83a769af-ab72-410c-8acf-87a579691042_TQ70KFPS4H_MN_17122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/8/21/16400617-fe35-48d9-aebd-703a7cbf28f6_NPI-021222_2_20250821_050412.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/8/21/f8818122-f23a-4c0c-b409-cd5227c2bbb0_NPI-021222_3_20250821_050412.png"
+        ],
+        "mrp": "32",
+        "offer_price": "31",
+        "quantity": "500 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--TSGS0BDWMH",
+        "rating": 4.5,
+        "rating_count": 10100,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 40,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "5CFV5GSL3B",
+        "name": "A2 Pasteurised Organic Milk",
+        "brand": "MILKING",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/7/2/178c1ac8-7f32-42cb-b900-18212d58ee31_8.1MilkingOrganicA2pasteurisedmilk500mlFront_7bed4556-ed7c-45b6-b67c-2676373e7678.jpeg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/7/21/4d0f9074-490a-4247-ba45-f1008264c476_8.2MilkingOrganicA2pasteurisedmilk500mlBack_BK_2ceb5fff-844b-475a-9da3-e3eaf2f53ec9.jpeg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/4/20/e100e2d1-4793-4aef-8fa7-ca4e3eaad2b3_ZKWU7U3F6H_3_b3214439-915d-4abc-b814-cc03851901bc.png"
+        ],
+        "mrp": "45",
+        "offer_price": "35",
+        "quantity": "500 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--5CFV5GSL3B",
+        "rating": 4.5,
+        "rating_count": 2400,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 41,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "F9UK3KLPCI",
+        "name": "22g Low Fat High Protein Milk",
+        "brand": "Country Delight",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/11/ffc1698f-7024-4714-bae9-d572dabf1a28_665643_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/11/3d329738-72d8-4958-9abf-6e9d6b3fe1c7_665643_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/11/36ca67ac-6cbd-49ac-ad56-21450a091a2b_665643_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/11/30acb709-a7ee-4f72-b1dc-38eb89637a58_665643_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/11/14e71665-f250-4052-8655-74294471fc21_665643_5.png"
+        ],
+        "mrp": "104",
+        "offer_price": "74",
+        "quantity": "400 ml x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--F9UK3KLPCI",
+        "rating": 4.1,
+        "rating_count": 11600,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 42,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "F9UK3KLPCI",
+        "name": "22g Low Fat High Protein Milk",
+        "brand": "Country Delight",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/11/ffc1698f-7024-4714-bae9-d572dabf1a28_665643_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/11/3d329738-72d8-4958-9abf-6e9d6b3fe1c7_665643_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/11/36ca67ac-6cbd-49ac-ad56-21450a091a2b_665643_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/11/30acb709-a7ee-4f72-b1dc-38eb89637a58_665643_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/11/14e71665-f250-4052-8655-74294471fc21_665643_5.png"
+        ],
+        "mrp": "52",
+        "offer_price": "37",
+        "quantity": "400 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--F9UK3KLPCI",
+        "rating": 4.1,
+        "rating_count": 11600,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 42,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "1AWLPDXXZM",
+        "name": "Low Fat Cow Milk",
+        "brand": "Country Delight",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/26/09173c98-c014-4d85-b2cb-897999332604_NPI-146882_1_20260624_122420.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/26/0facf083-8476-44c9-93db-73ea31ae51ca_NPI-146882_2_20260624_122421.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/26/b4573548-380f-4a73-9492-84e53128d4d9_NPI-146882_3_20260624_122421.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/26/35679988-0012-4008-bc89-16193e861233_NPI-146882_4_20260624_122422.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/26/e9dffc80-83aa-4205-9620-59d77d94041d_NPI-146882_5_20260624_122422.png"
+        ],
+        "mrp": "41",
+        "offer_price": "29",
+        "quantity": "400 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--1AWLPDXXZM",
+        "rating": 4.0,
+        "rating_count": 1500,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 43,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "QKNWE5SZFE",
+        "name": "Gold Premium Milk",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/aa849e06-7d28-4c88-ac56-d2861d4ae979_U9VI98A4I5_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/5/2/df18d4a2-94d8-4cbb-8ef0-03b4114ac6d1_201322_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/5/2/2c8f3371-0af2-4208-8c64-e26f281dba01_201322_3.png"
+        ],
+        "mrp": "95",
+        "offer_price": "95",
+        "quantity": "1 ltr",
+        "deeplink": "https://www.swiggy.com/instamart/p/--QKNWE5SZFE",
+        "rating": 3.9,
+        "rating_count": 2400,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 44,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "IGOBEVQP4L",
+        "name": "Organic Cow Milk",
+        "brand": "Heritage",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/26/1560a7f4-f9ca-4676-8b7d-fc809f5a0ed5_543721_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/26/4c2e8462-16a9-4fca-8c83-65d1c3e0f246_543721_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/26/6a8bc8e7-b4e1-462f-8aa6-71e960104f18_543721_3.png"
+        ],
+        "mrp": "45",
+        "offer_price": "40",
+        "quantity": "500 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--IGOBEVQP4L",
+        "rating": 4.5,
+        "rating_count": 1900,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 45,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "WSMBT2E1K0",
+        "name": "22g Protein Toned Milk",
+        "brand": "Sid's Farm",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/5/29/cebee536-53b8-42ea-aa65-3a36c28a6f8e_NPI-139410_1_20260525_130201.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/5/29/ea6d0b4d-4bf7-47a6-9014-fafd58ce16f4_NPI-139410_2_20260525_130202.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/5/29/d75a902c-3f4c-4783-8785-59d906ebace5_NPI-139410_3_20260525_130202.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/5/29/8014f15e-7c46-42d5-8691-c2317e6e9517_NPI-139410_4_20260525_130202.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/5/29/f8252832-a34a-4ed4-aa02-c04629564cb1_NPI-139410_5_20260525_130203.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/5/29/86a9bdaa-82f3-4ad4-b88c-826b4e08ff69_NPI-139410_6_20260525_130203.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/5/29/40535d51-3d2c-434b-9716-a966aec3ca70_NPI-139410_7_20260525_130203.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/5/29/e2a05c43-2895-44d1-a186-dc4e8ed66f4c_NPI-139410_8_20260525_130204.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/5/29/73349464-831d-470b-8d3f-f46f1d51847b_NPI-139410_9_20260525_130204.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/5/29/ff36eeef-f35f-467c-a407-c79f90a7bdab_NPI-139410_10_20260525_130204.png"
+        ],
+        "mrp": "42",
+        "offer_price": "42",
+        "quantity": "500 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--WSMBT2E1K0",
+        "rating": 4.1,
+        "rating_count": 225,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 46,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "100GCPNJGO",
+        "name": "Uht Cow Milk",
+        "brand": "Heritage",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/f4a5c5df-9d55-445e-a9b1-78ef2615b263_K9TW31NTSK_MN_17122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/27/27e939f9-411a-43bb-a870-ce638f9041f0_milk_K9TW31NTSK_AL1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/27/45c81ea7-8e4a-4d00-8730-3df29234e15a_milk_K9TW31NTSK_AL2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/27/1c661a6c-cc29-40c9-831c-d74ff6db3523_milk_K9TW31NTSK_AL3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/27/a0be3d6a-5589-41c3-8ace-4277ed3859c2_milk_K9TW31NTSK_AL4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/27/9b0b7c3e-4b02-4a83-8a6e-16ae064e57c6_milk_K9TW31NTSK_AL5.png"
+        ],
+        "mrp": "75",
+        "offer_price": "72",
+        "quantity": "1 ltr",
+        "deeplink": "https://www.swiggy.com/instamart/p/--100GCPNJGO",
+        "rating": 4.5,
+        "rating_count": 3700,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 47,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "N584YSCRZQ",
+        "name": "A+ Slim Skimmed Milk",
+        "brand": "Nestle",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/67cb9666-669b-4483-ba10-9bb09e7907b4_6CHUPUMN1A_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/2f5cd80a3bd286f8eb5888656b3df907",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/76bb5d76f97df57f10a0ed2f60883507",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/b978a2b104bfe63cbfec9560a161dc67",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/0960e80a745e5542e963b50811532e4b",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/8b8bba7a3fb5f93cd76877cc3d87fe5e"
+        ],
+        "mrp": "594",
+        "offer_price": "535",
+        "quantity": "1 ltr x 6",
+        "deeplink": "https://www.swiggy.com/instamart/p/--N584YSCRZQ",
+        "rating": 4.5,
+        "rating_count": 3000,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 48,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "N584YSCRZQ",
+        "name": "A+ Slim Skimmed Milk",
+        "brand": "Nestle",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/67cb9666-669b-4483-ba10-9bb09e7907b4_6CHUPUMN1A_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/2f5cd80a3bd286f8eb5888656b3df907",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/76bb5d76f97df57f10a0ed2f60883507",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/b978a2b104bfe63cbfec9560a161dc67",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/0960e80a745e5542e963b50811532e4b",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/8b8bba7a3fb5f93cd76877cc3d87fe5e"
+        ],
+        "mrp": "198",
+        "offer_price": "188",
+        "quantity": "1 ltr x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--N584YSCRZQ",
+        "rating": 4.5,
+        "rating_count": 3000,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 48,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "N584YSCRZQ",
+        "name": "A+ Slim Skimmed Milk",
+        "brand": "Nestle",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/67cb9666-669b-4483-ba10-9bb09e7907b4_6CHUPUMN1A_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/2f5cd80a3bd286f8eb5888656b3df907",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/76bb5d76f97df57f10a0ed2f60883507",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/b978a2b104bfe63cbfec9560a161dc67",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/0960e80a745e5542e963b50811532e4b",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/8b8bba7a3fb5f93cd76877cc3d87fe5e"
+        ],
+        "mrp": "99",
+        "offer_price": "99",
+        "quantity": "1 ltr",
+        "deeplink": "https://www.swiggy.com/instamart/p/--N584YSCRZQ",
+        "rating": 4.5,
+        "rating_count": 3000,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 48,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      }
+    ]
+  }
+}

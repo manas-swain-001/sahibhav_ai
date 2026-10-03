@@ -1,0 +1,764 @@
+{
+  "status": "success",
+  "request_id": "46f205d2-2bfa-4dcc-8cd5-03ddc3b2e663",
+  "credits_remaining": 82,
+  "data": {
+    "query": "milk",
+    "platform": "Zepto",
+    "lat": 12.9716,
+    "lon": 77.6412,
+    "total_results": 30,
+    "products": [
+      {
+        "id": "0cfdcd21-abb4-4151-bd80-f833942fa524",
+        "name": "Standardized Fresh Milk | Pouch",
+        "brand": "Nandini",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c32f5508-9bf8-4e1a-a184-476825d4559a.png"
+        ],
+        "mrp": 27.0,
+        "offer_price": 27.0,
+        "quantity": "1 pack (500 ml)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/0cfdcd21-abb4-4151-bd80-f833942fa524",
+        "rating": 4.6,
+        "rating_count": 394217,
+        "inventory": 11,
+        "is_ad": false,
+        "rank": 1,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "b01c94d5-7fa9-4119-b157-5e401def1280",
+        "name": "Goodlife Toned UHT Milk (Fino Pouch)",
+        "brand": "Nandini",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ee03a2cd-f776-4bd0-a594-49faebe20c8b.jpg"
+        ],
+        "mrp": 32.0,
+        "offer_price": 32.0,
+        "quantity": "1 pack (500 ml)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/b01c94d5-7fa9-4119-b157-5e401def1280",
+        "rating": 4.6,
+        "rating_count": 50947,
+        "inventory": 348,
+        "is_ad": false,
+        "rank": 2,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "fdf82a8b-a576-417f-b6df-a40d37e25634",
+        "name": "Toned Fresh Milk | Pouch",
+        "brand": "Heritage",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/58207565-7da6-44ce-bed6-860ecd56ba23.jpeg"
+        ],
+        "mrp": 28.0,
+        "offer_price": 28.0,
+        "quantity": "1 pack (500 ml)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/fdf82a8b-a576-417f-b6df-a40d37e25634",
+        "rating": 4.8,
+        "rating_count": 431846,
+        "inventory": 10,
+        "is_ad": false,
+        "rank": 3,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "51d55eac-ca29-4532-9b32-9b7d317f346a",
+        "name": "Gold Full Cream Fresh Milk | Pouch",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1c44f728-7e7e-4f59-9248-5569a3b36672.jpeg"
+        ],
+        "mrp": 34.0,
+        "offer_price": 34.0,
+        "quantity": "1 pack (500 ml)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/51d55eac-ca29-4532-9b32-9b7d317f346a",
+        "rating": 4.9,
+        "rating_count": 1581833,
+        "inventory": 15,
+        "is_ad": false,
+        "rank": 4,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "17ce1910-171f-4aac-8fcb-86d96d679487",
+        "name": "Good Life Toned UHT Milk (Fino Pouch)",
+        "brand": "Nandini",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d7b61045-b176-4cef-81b2-5ac0dccffa92.jpg"
+        ],
+        "mrp": 15.0,
+        "offer_price": 15.0,
+        "quantity": "1 pack (180 ml)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/17ce1910-171f-4aac-8fcb-86d96d679487",
+        "rating": 4.6,
+        "rating_count": 29865,
+        "inventory": 197,
+        "is_ad": false,
+        "rank": 5,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "2a231315-2b07-4de0-af4a-3a4f9c48ad0c",
+        "name": "Taaza Homogenised Toned Milk (Tetra Pack)",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/860850ec-1695-463f-b983-b98f00ae9e24.jpeg"
+        ],
+        "mrp": 17.0,
+        "offer_price": 17.0,
+        "quantity": "1 pack (200 ml)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/2a231315-2b07-4de0-af4a-3a4f9c48ad0c",
+        "rating": 4.6,
+        "rating_count": 165508,
+        "inventory": 101,
+        "is_ad": false,
+        "rank": 6,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "745ea592-6192-4dfc-8a18-c2396be123a2",
+        "name": "Special Long Life Toned Milk (Pouch)",
+        "brand": "Heritage",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/446d908b-8b03-47c7-878d-9c0b1986feee.jpeg"
+        ],
+        "mrp": 34.0,
+        "offer_price": 33.0,
+        "quantity": "1 pack (450 ml)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/745ea592-6192-4dfc-8a18-c2396be123a2",
+        "rating": 4.6,
+        "rating_count": 90222,
+        "inventory": 33,
+        "is_ad": false,
+        "rank": 7,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "b76a82b8-8c7d-4b3a-aa17-754fa3bfc0d4",
+        "name": "Goodlife Toned Milk UHT (Tetra Pack Brick)",
+        "brand": "Nandini",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d2e9065c-ca58-4e2d-97bb-c7dcda1beac1.png"
+        ],
+        "mrp": 70.0,
+        "offer_price": 70.0,
+        "quantity": "1 pack (1 L)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/b76a82b8-8c7d-4b3a-aa17-754fa3bfc0d4",
+        "rating": 4.7,
+        "rating_count": 40951,
+        "inventory": 87,
+        "is_ad": false,
+        "rank": 8,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "bc55e919-e7a5-4a6b-ad5e-6e6711869715",
+        "name": "Toned Fresh Milk | Pouch",
+        "brand": "Nandini",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c777890c-d1ef-4b31-9a6c-226e6e3f2fca.jpeg"
+        ],
+        "mrp": 46.0,
+        "offer_price": 46.0,
+        "quantity": "1 pack (1 L)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/bc55e919-e7a5-4a6b-ad5e-6e6711869715",
+        "rating": 4.5,
+        "rating_count": 15443,
+        "inventory": 7,
+        "is_ad": false,
+        "rank": 9,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "1638f685-befc-478e-95f8-2d92213866e7",
+        "name": "Moti Toned Milk | 90 Days Shelf life",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/74226ac6-b295-4a42-89d3-93ad2d2c14c8.jpeg"
+        ],
+        "mrp": 30.0,
+        "offer_price": 30.0,
+        "quantity": "1 pack (450 ml)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/1638f685-befc-478e-95f8-2d92213866e7",
+        "rating": 4.6,
+        "rating_count": 184945,
+        "inventory": 36,
+        "is_ad": false,
+        "rank": 10,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "9d447ba5-1d35-46e1-bc64-e932135d026f",
+        "name": "Taaza Toned Fresh Milk | Pouch",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2e8a0f88-1038-4fd3-8093-7085a49b473c.jpeg"
+        ],
+        "mrp": 29.0,
+        "offer_price": 29.0,
+        "quantity": "1 pack (500 ml)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/9d447ba5-1d35-46e1-bc64-e932135d026f",
+        "rating": 4.7,
+        "rating_count": 1214721,
+        "inventory": 11,
+        "is_ad": false,
+        "rank": 11,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "edc180a1-cb0b-4824-b10e-1c306f1aacae",
+        "name": "Toned Fresh Milk | Pouch",
+        "brand": "Arokya ",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c090fe1e-83c1-4f7b-a854-59f569975224.jpeg"
+        ],
+        "mrp": 26.0,
+        "offer_price": 26.0,
+        "quantity": "1 pack (500 ml)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/edc180a1-cb0b-4824-b10e-1c306f1aacae",
+        "rating": 4.6,
+        "rating_count": 133925,
+        "inventory": 2,
+        "is_ad": false,
+        "rank": 12,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "23037033-b0ab-4109-82b6-30f3a2a2cf84",
+        "name": "Lactose Free Milk (Tetra Pack)",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/5d491c1a-25b5-4863-8dd8-0138202e6804.jpg"
+        ],
+        "mrp": 26.0,
+        "offer_price": 26.0,
+        "quantity": "1 pack (250 ml)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/23037033-b0ab-4109-82b6-30f3a2a2cf84",
+        "rating": 4.6,
+        "rating_count": 46050,
+        "inventory": 64,
+        "is_ad": false,
+        "rank": 13,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "7790e233-c829-422b-bf16-45eefe9b5bd5",
+        "name": "Goodlife Milk UHT (Pouch Brik)",
+        "brand": "Nandini",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/82e9dc66-09b6-44d7-852d-87e62a6f18b0.jpeg"
+        ],
+        "mrp": 36.0,
+        "offer_price": 36.0,
+        "quantity": "1 pack (500 ml)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/7790e233-c829-422b-bf16-45eefe9b5bd5",
+        "rating": 4.9,
+        "rating_count": 27900,
+        "inventory": 113,
+        "is_ad": false,
+        "rank": 14,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "d5b5de34-86b1-4b15-aa27-b8e52893cc53",
+        "name": "Standardized Fresh Milk | Pouch",
+        "brand": "Nandini",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c15d3868-a954-4d04-b4e7-8b78820053a9.png"
+        ],
+        "mrp": 52.0,
+        "offer_price": 52.0,
+        "quantity": "1 pack (1 L)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/d5b5de34-86b1-4b15-aa27-b8e52893cc53",
+        "rating": 3.8,
+        "rating_count": 31052,
+        "inventory": 4,
+        "is_ad": false,
+        "rank": 15,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "84eae511-5edb-4a22-875e-5aa94976c2d6",
+        "name": "Taaza Homogenised Toned Milk (Tetra Pack)",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6aa4c577-ebeb-4647-bb58-dcb9b07541ac.jpeg"
+        ],
+        "mrp": 77.0,
+        "offer_price": 77.0,
+        "quantity": "1 pack (1 L)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/84eae511-5edb-4a22-875e-5aa94976c2d6",
+        "rating": 4.7,
+        "rating_count": 92247,
+        "inventory": 41,
+        "is_ad": false,
+        "rank": 16,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "d3db9200-f330-4c52-996c-e231fcceaed0",
+        "name": "Amrutha A2 Pasteurized Organic Fresh Milk | Pouch",
+        "brand": "Akshayakalpa",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2ebc8ab5-2df8-4e59-a11c-46f435e07e62.jpg"
+        ],
+        "mrp": 50.0,
+        "offer_price": 50.0,
+        "quantity": "1 pack (500 ml)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/d3db9200-f330-4c52-996c-e231fcceaed0",
+        "rating": 4.6,
+        "rating_count": 27320,
+        "inventory": 8,
+        "is_ad": false,
+        "rank": 17,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "0d2d70a4-1469-45a3-b1c4-4ffe692f86ae",
+        "name": "Amrutha - A2 Farm Organic Cow Fresh Milk | Pouch",
+        "brand": "Akshayakalpa",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1ddd6902-4e06-420e-8a13-feede7fe21c4.jpg"
+        ],
+        "mrp": 56.0,
+        "offer_price": 56.0,
+        "quantity": "1 pack (500 ml)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/0d2d70a4-1469-45a3-b1c4-4ffe692f86ae",
+        "rating": 4.6,
+        "rating_count": 5404,
+        "inventory": 6,
+        "is_ad": false,
+        "rank": 18,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "59d1353e-4ced-4e45-8406-62d74c55743d",
+        "name": "Nourish+ Fresh Milk | 18g Protein | Pouch",
+        "brand": "Heritage",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/933e23dd-cfde-4ed3-87dd-ca3cc6d1cbad.jpeg"
+        ],
+        "mrp": 31.0,
+        "offer_price": 29.0,
+        "quantity": "1 pack (500 ml)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/59d1353e-4ced-4e45-8406-62d74c55743d",
+        "rating": 4.5,
+        "rating_count": 6299,
+        "inventory": 10,
+        "is_ad": false,
+        "rank": 19,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "7f99a529-4d3a-41bb-b7d2-cb426f5189b8",
+        "name": "Full Cream Fresh Milk | Pouch",
+        "brand": "Heritage",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/928a91a3-c1e2-4a99-835b-037b72ad2d00.jpeg"
+        ],
+        "mrp": 38.0,
+        "offer_price": 38.0,
+        "quantity": "1 pack (475 ml or 500 ml)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/7f99a529-4d3a-41bb-b7d2-cb426f5189b8",
+        "rating": 4.7,
+        "rating_count": 90554,
+        "inventory": 2,
+        "is_ad": false,
+        "rank": 20,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "9cd6367f-6ae0-45f4-b529-625ad8b01069",
+        "name": "Organic Pasteurized Cow Fresh Milk | Pouch",
+        "brand": "Akshayakalpa",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/cc814c93-061d-4ee9-be95-f35211560532.jpg"
+        ],
+        "mrp": 48.0,
+        "offer_price": 48.0,
+        "quantity": "1 pack (500 ml)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/9cd6367f-6ae0-45f4-b529-625ad8b01069",
+        "rating": 4.5,
+        "rating_count": 15413,
+        "inventory": 3,
+        "is_ad": false,
+        "rank": 21,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "df9f14b1-156c-4b88-abdd-438419ddc4cf",
+        "name": "Standardized Fresh Milk | Pouch",
+        "brand": "Arokya ",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e9ebfed2-9058-4eaa-950b-1c24c4e85bf5.jpeg"
+        ],
+        "mrp": 33.0,
+        "offer_price": 33.0,
+        "quantity": "1 pack (500 ml)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/df9f14b1-156c-4b88-abdd-438419ddc4cf",
+        "rating": 4.6,
+        "rating_count": 24245,
+        "inventory": 4,
+        "is_ad": false,
+        "rank": 22,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "ff393466-31a4-4aba-a51b-a787c39ef57e",
+        "name": "Gold Homogenised Standardised Milk (Tetra Pack)",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/dbeabd64-f310-49c8-9032-e25fc098ea86.jpeg"
+        ],
+        "mrp": 83.0,
+        "offer_price": 83.0,
+        "quantity": "1 pack (1 L)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/ff393466-31a4-4aba-a51b-a787c39ef57e",
+        "rating": 4.6,
+        "rating_count": 47855,
+        "inventory": 19,
+        "is_ad": false,
+        "rank": 23,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "11cca7b6-7d07-4e6e-a799-0fcf85f7b5da",
+        "name": "Slim Trim Skimmed Milk (Tetra Pack)",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7951a63f-8b0d-40c4-9a78-1c104b9ab404.jpeg"
+        ],
+        "mrp": 85.0,
+        "offer_price": 85.0,
+        "quantity": "1 pack (1 L)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/11cca7b6-7d07-4e6e-a799-0fcf85f7b5da",
+        "rating": 4.6,
+        "rating_count": 15831,
+        "inventory": 7,
+        "is_ad": false,
+        "rank": 24,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "a46ee3f6-6822-455b-8f54-a771880c35cb",
+        "name": "Farm Fresh Toned Tetra pack Milk",
+        "brand": "Heritage",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/21463758-8477-4e76-a277-b9d15d166105.jpeg"
+        ],
+        "mrp": 75.0,
+        "offer_price": 72.0,
+        "quantity": "1 pack (1 L)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/a46ee3f6-6822-455b-8f54-a771880c35cb",
+        "rating": 4.6,
+        "rating_count": 5068,
+        "inventory": 3,
+        "is_ad": false,
+        "rank": 25,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "053a43dd-d1bd-48cc-bcb5-754a270c53f2",
+        "name": "Goodlife Slim Skimmed Milk UHT (Tetra Pack Brik)",
+        "brand": "Nandini",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/dfe6befc-1283-4c64-8175-d5e689d37b54.jpg"
+        ],
+        "mrp": 73.0,
+        "offer_price": 73.0,
+        "quantity": "1 pack (1 L)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/053a43dd-d1bd-48cc-bcb5-754a270c53f2",
+        "rating": 4.7,
+        "rating_count": 3551,
+        "inventory": 6,
+        "is_ad": false,
+        "rank": 26,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "205272e0-ba4c-4b0b-9165-a57fe603a9b5",
+        "name": "Goodlife Slim Skimmed Milk UHT (Tetra Pack)",
+        "brand": "Nandini",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6962ed05-02b8-47d3-84b5-923096ece102.jpeg"
+        ],
+        "mrp": 37.0,
+        "offer_price": 37.0,
+        "quantity": "1 pack (500 ml)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/205272e0-ba4c-4b0b-9165-a57fe603a9b5",
+        "rating": 4.6,
+        "rating_count": 5442,
+        "inventory": 16,
+        "is_ad": false,
+        "rank": 27,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "cfc168c0-bb8d-4614-bcb4-bd1f115c048e",
+        "name": "Organic Cow Milk - Uht",
+        "brand": "Akshayakalpa",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/65c690b2-3e98-4d8e-97f1-fcadf6c00260.jpg"
+        ],
+        "mrp": 142.0,
+        "offer_price": 142.0,
+        "quantity": "1 pack (1 L)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/cfc168c0-bb8d-4614-bcb4-bd1f115c048e",
+        "rating": 4.7,
+        "rating_count": 2235,
+        "inventory": 4,
+        "is_ad": false,
+        "rank": 28,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "ed495088-935c-44a9-919b-b667fde1ac87",
+        "name": "Cow Fresh Milk | Pouch",
+        "brand": "Country Delight",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e7f38d06-117c-469b-ab0a-a67cdabf6ac5.jpeg"
+        ],
+        "mrp": 48.0,
+        "offer_price": 47.0,
+        "quantity": "1 pack (450 ml)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/ed495088-935c-44a9-919b-b667fde1ac87",
+        "rating": 4.5,
+        "rating_count": 13966,
+        "inventory": 2,
+        "is_ad": false,
+        "rank": 29,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "a79f8c06-08d8-4b4f-834b-17205aefa4b7",
+        "name": "Tested Toned Milk (No Antibiotics . No Hormones . No Preservatives)",
+        "brand": "Sid's Farm",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/5c45a95b-1fd6-44ab-8137-c40dcafb4a08.jpg"
+        ],
+        "mrp": 36.0,
+        "offer_price": 36.0,
+        "quantity": "1 pc (500 ml)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/a79f8c06-08d8-4b4f-834b-17205aefa4b7",
+        "rating": 4.4,
+        "rating_count": 13776,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 30,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      }
+    ]
+  }
+}

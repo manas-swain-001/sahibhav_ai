@@ -1,0 +1,2691 @@
+{
+  "status": "success",
+  "request_id": "09f91048-1293-48b6-bef4-c93c9f58d1c6",
+  "credits_remaining": 73,
+  "data": {
+    "query": "butter",
+    "platform": "Swiggy",
+    "lat": 12.9716,
+    "lon": 77.6412,
+    "total_results": 91,
+    "products": [
+      {
+        "id": "TN0BERMP8A",
+        "name": "Pasteurised Butter",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/17/450803f3-4b07-49e3-b2f2-ce445c4d45dd_126_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/17/e23ba089-96f4-4653-a9a7-f1ec890255ef_126_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/17/074ac313-7d8f-4325-9e88-e4bf62f26ac1_126_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/17/19f6c687-a7bb-468b-9161-74687da0457b_126_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/zcreknzv9cxiqxidpqay",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/en0kisjjj4pi2efthmmf"
+        ],
+        "mrp": "252",
+        "offer_price": "252",
+        "quantity": "100 g x 4",
+        "deeplink": "https://www.swiggy.com/instamart/p/--TN0BERMP8A",
+        "rating": 4.6,
+        "rating_count": 228200,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "TN0BERMP8A",
+        "name": "Pasteurised Butter",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/17/450803f3-4b07-49e3-b2f2-ce445c4d45dd_126_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/17/e23ba089-96f4-4653-a9a7-f1ec890255ef_126_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/17/074ac313-7d8f-4325-9e88-e4bf62f26ac1_126_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/17/19f6c687-a7bb-468b-9161-74687da0457b_126_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/zcreknzv9cxiqxidpqay",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/en0kisjjj4pi2efthmmf"
+        ],
+        "mrp": "189",
+        "offer_price": "189",
+        "quantity": "100 g x 3",
+        "deeplink": "https://www.swiggy.com/instamart/p/--TN0BERMP8A",
+        "rating": 4.6,
+        "rating_count": 228200,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "TN0BERMP8A",
+        "name": "Pasteurised Butter",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/17/450803f3-4b07-49e3-b2f2-ce445c4d45dd_126_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/17/e23ba089-96f4-4653-a9a7-f1ec890255ef_126_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/17/074ac313-7d8f-4325-9e88-e4bf62f26ac1_126_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/17/19f6c687-a7bb-468b-9161-74687da0457b_126_4.png"
+        ],
+        "mrp": "63",
+        "offer_price": "63",
+        "quantity": "100 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--TN0BERMP8A",
+        "rating": 4.6,
+        "rating_count": 228200,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "VR0BXVSR52",
+        "name": "Table Salted Butter",
+        "brand": "Milky Mist",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/668c2512-5d54-4167-87c2-7dc0f5a87e4b_OTLML2WHG1_MN_17122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/15/8e6bb4b1-770f-4ebc-b093-8666c7fb550b_2698_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/15/9977ca36-e61e-41ef-863e-5a004bac2f75_2698_3.png"
+        ],
+        "mrp": "170",
+        "offer_price": "164",
+        "quantity": "100 g x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--VR0BXVSR52",
+        "rating": 4.6,
+        "rating_count": 2200,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 2,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "VR0BXVSR52",
+        "name": "Table Salted Butter",
+        "brand": "Milky Mist",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/668c2512-5d54-4167-87c2-7dc0f5a87e4b_OTLML2WHG1_MN_17122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/15/8e6bb4b1-770f-4ebc-b093-8666c7fb550b_2698_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/15/9977ca36-e61e-41ef-863e-5a004bac2f75_2698_3.png"
+        ],
+        "mrp": "85",
+        "offer_price": "82",
+        "quantity": "100 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--VR0BXVSR52",
+        "rating": 4.6,
+        "rating_count": 2200,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 2,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "VR0BXVSR52",
+        "name": "Table Salted Butter",
+        "brand": "Milky Mist",
+        "available": false,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/668c2512-5d54-4167-87c2-7dc0f5a87e4b_OTLML2WHG1_MN_17122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/15/8e6bb4b1-770f-4ebc-b093-8666c7fb550b_2698_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/15/9977ca36-e61e-41ef-863e-5a004bac2f75_2698_3.png"
+        ],
+        "mrp": "425",
+        "offer_price": "410",
+        "quantity": "100 g x 5",
+        "deeplink": "https://www.swiggy.com/instamart/p/--VR0BXVSR52",
+        "rating": 4.6,
+        "rating_count": 2200,
+        "inventory": 0,
+        "is_ad": true,
+        "rank": 2,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "VR0BXVSR52",
+        "name": "Table Salted Butter",
+        "brand": "Milky Mist",
+        "available": false,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/668c2512-5d54-4167-87c2-7dc0f5a87e4b_OTLML2WHG1_MN_17122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/15/8e6bb4b1-770f-4ebc-b093-8666c7fb550b_2698_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/15/9977ca36-e61e-41ef-863e-5a004bac2f75_2698_3.png"
+        ],
+        "mrp": "340",
+        "offer_price": "328",
+        "quantity": "100 g x 4",
+        "deeplink": "https://www.swiggy.com/instamart/p/--VR0BXVSR52",
+        "rating": 4.6,
+        "rating_count": 2200,
+        "inventory": 0,
+        "is_ad": true,
+        "rank": 2,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "VR0BXVSR52",
+        "name": "Table Salted Butter",
+        "brand": "Milky Mist",
+        "available": false,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/668c2512-5d54-4167-87c2-7dc0f5a87e4b_OTLML2WHG1_MN_17122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/15/8e6bb4b1-770f-4ebc-b093-8666c7fb550b_2698_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/15/9977ca36-e61e-41ef-863e-5a004bac2f75_2698_3.png"
+        ],
+        "mrp": "255",
+        "offer_price": "246",
+        "quantity": "100 g x 3",
+        "deeplink": "https://www.swiggy.com/instamart/p/--VR0BXVSR52",
+        "rating": 4.6,
+        "rating_count": 2200,
+        "inventory": 0,
+        "is_ad": true,
+        "rank": 2,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "YESNN6C8XJ",
+        "name": "Unsalted Butter",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/17/6ac5c1b4-5cd3-4cb5-a3f1-6c5234772c9a_2831_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/17/44da1c2b-d85b-4b9c-80ae-1917bc7aca58_2831_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/17/0c5864ef-b73b-42e3-83e7-5381e282cb0e_2831_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/17/4d37d4a2-a3fa-4521-87b5-830a9e55de8f_2831_4.png"
+        ],
+        "mrp": "260",
+        "offer_price": "260",
+        "quantity": "100 g x 4",
+        "deeplink": "https://www.swiggy.com/instamart/p/--YESNN6C8XJ",
+        "rating": 4.6,
+        "rating_count": 21100,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 3,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "YESNN6C8XJ",
+        "name": "Unsalted Butter",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/17/6ac5c1b4-5cd3-4cb5-a3f1-6c5234772c9a_2831_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/17/44da1c2b-d85b-4b9c-80ae-1917bc7aca58_2831_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/17/0c5864ef-b73b-42e3-83e7-5381e282cb0e_2831_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/17/4d37d4a2-a3fa-4521-87b5-830a9e55de8f_2831_4.png"
+        ],
+        "mrp": "130",
+        "offer_price": "130",
+        "quantity": "100 g x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--YESNN6C8XJ",
+        "rating": 4.6,
+        "rating_count": 21100,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 3,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "YESNN6C8XJ",
+        "name": "Unsalted Butter",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/17/6ac5c1b4-5cd3-4cb5-a3f1-6c5234772c9a_2831_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/17/44da1c2b-d85b-4b9c-80ae-1917bc7aca58_2831_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/17/0c5864ef-b73b-42e3-83e7-5381e282cb0e_2831_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/17/4d37d4a2-a3fa-4521-87b5-830a9e55de8f_2831_4.png"
+        ],
+        "mrp": "65",
+        "offer_price": "65",
+        "quantity": "100 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--YESNN6C8XJ",
+        "rating": 4.6,
+        "rating_count": 21100,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 3,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "TW0P74389H",
+        "name": "Pasteurised Cooking Butter",
+        "brand": "Milky Mist",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/872cffd9-d871-4201-981d-e2a6bc7e8616_8P7IFU634B_MN_17122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/15/04a97ecf-ab71-4404-ab14-52b19fda84b5_6838_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/15/11693e76-68f1-4b94-8060-7e30b48deccb_6838_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/15/a3e2c779-1632-452f-bee8-b52b99915449_6838_4.png"
+        ],
+        "mrp": "800",
+        "offer_price": "778",
+        "quantity": "500 g x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--TW0P74389H",
+        "rating": 4.7,
+        "rating_count": 1600,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 4,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "TW0P74389H",
+        "name": "Pasteurised Cooking Butter",
+        "brand": "Milky Mist",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/872cffd9-d871-4201-981d-e2a6bc7e8616_8P7IFU634B_MN_17122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/15/04a97ecf-ab71-4404-ab14-52b19fda84b5_6838_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/15/11693e76-68f1-4b94-8060-7e30b48deccb_6838_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/15/a3e2c779-1632-452f-bee8-b52b99915449_6838_4.png"
+        ],
+        "mrp": "400",
+        "offer_price": "389",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--TW0P74389H",
+        "rating": 4.7,
+        "rating_count": 1600,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 4,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "PZ0EX6NJ0P",
+        "name": "Salted Cow Butter",
+        "brand": "Sid's Farm",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/7c98c35b-24e6-4141-8d35-5b8e870c3060_SJ26JQQ8MB_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/23/52592d99-e158-4b8d-858c-3aae2e4e41de_71979_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/23/546c3bb5-87a3-47a3-a757-4d154e6c6a00_71979_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/23/91dbaeef-661b-482f-b9d7-1c30165daa07_71979_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/23/3a980bc6-62e4-45da-bf17-60ee1f040c0d_71979_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/23/9876aad2-e5a4-43d8-b544-832f948d5119_71979_6.png"
+        ],
+        "mrp": "90",
+        "offer_price": "90",
+        "quantity": "100 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--PZ0EX6NJ0P",
+        "rating": 4.5,
+        "rating_count": 276,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 5,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "KVRVOFG4OJ",
+        "name": "Khoya (Unsweetened & No Preservatives)",
+        "brand": "NOICE",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/10/10/79a35a5a-2747-44cd-8047-2de13df45be4_605685-Mainimage.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/3/26/0be0a30e-2247-4506-bb07-dba44bcd355d_605685-2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/22/f7ae096c-fc22-4d99-8389-86018c959775_605685-3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/22/b533a75f-44fd-447b-bbfa-b087fccf7136_605685-4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/22/48ac1b66-d263-4114-9b4f-b3ae26a86f7a_605685-5.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/22/a03cb86b-8c0a-427d-a8aa-ca8b7a3699c2_605685-8.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/22/df932ade-be3c-4ad8-b26d-f92f99f44c0b_605685-9.png"
+        ],
+        "mrp": "130",
+        "offer_price": "99",
+        "quantity": "200 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--KVRVOFG4OJ",
+        "rating": 4.3,
+        "rating_count": 290,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 6,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "7GK7GDNRW9",
+        "name": "Organic Table Butter Salted",
+        "brand": "Akshayakalpa",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/2bdf60e0-2778-44fd-bc7b-7e8668a0ad94_6836_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/2edbfe1f-03fd-433d-aa98-e785228a7ac5_6836_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/9b5b6fed-a456-4771-b888-f3dbc2441726_6836_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/84c45536-3b3a-4d2b-b55d-8b084dd18e59_6836_4.png"
+        ],
+        "mrp": "235",
+        "offer_price": "235",
+        "quantity": "200 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--7GK7GDNRW9",
+        "rating": 4.6,
+        "rating_count": 286,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 7,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "7GK7GDNRW9",
+        "name": "Organic Table Butter Salted",
+        "brand": "Akshayakalpa",
+        "available": false,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/2bdf60e0-2778-44fd-bc7b-7e8668a0ad94_6836_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/2edbfe1f-03fd-433d-aa98-e785228a7ac5_6836_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/9b5b6fed-a456-4771-b888-f3dbc2441726_6836_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/84c45536-3b3a-4d2b-b55d-8b084dd18e59_6836_4.png"
+        ],
+        "mrp": "470",
+        "offer_price": "470",
+        "quantity": "200 g x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--7GK7GDNRW9",
+        "rating": 4.6,
+        "rating_count": 286,
+        "inventory": 0,
+        "is_ad": false,
+        "rank": 7,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "1O8GZBAS14",
+        "name": "Organic Cooking Butter Un-salted",
+        "brand": "Akshayakalpa",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/88ead53d-38a0-4e44-92e1-478e9b5ec593_745491_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/bd8b83f5-6d91-4472-9d36-1d0365573859_745491_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/eeee314a-9178-49b6-b0b0-f4e69ee27cae_745491_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/69e4d42b-ecb4-44d5-a42b-dc119660d129_745491_4.png"
+        ],
+        "mrp": "570",
+        "offer_price": "570",
+        "quantity": "100 g x 5",
+        "deeplink": "https://www.swiggy.com/instamart/p/--1O8GZBAS14",
+        "rating": 4.6,
+        "rating_count": 926,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 8,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "1O8GZBAS14",
+        "name": "Organic Cooking Butter Un-salted",
+        "brand": "Akshayakalpa",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/88ead53d-38a0-4e44-92e1-478e9b5ec593_745491_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/bd8b83f5-6d91-4472-9d36-1d0365573859_745491_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/eeee314a-9178-49b6-b0b0-f4e69ee27cae_745491_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/69e4d42b-ecb4-44d5-a42b-dc119660d129_745491_4.png"
+        ],
+        "mrp": "342",
+        "offer_price": "342",
+        "quantity": "100 g x 3",
+        "deeplink": "https://www.swiggy.com/instamart/p/--1O8GZBAS14",
+        "rating": 4.6,
+        "rating_count": 926,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 8,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "1O8GZBAS14",
+        "name": "Organic Cooking Butter Un-salted",
+        "brand": "Akshayakalpa",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/88ead53d-38a0-4e44-92e1-478e9b5ec593_745491_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/bd8b83f5-6d91-4472-9d36-1d0365573859_745491_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/eeee314a-9178-49b6-b0b0-f4e69ee27cae_745491_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/69e4d42b-ecb4-44d5-a42b-dc119660d129_745491_4.png"
+        ],
+        "mrp": "228",
+        "offer_price": "228",
+        "quantity": "100 g x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--1O8GZBAS14",
+        "rating": 4.6,
+        "rating_count": 926,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 8,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "1O8GZBAS14",
+        "name": "Organic Cooking Butter Un-salted",
+        "brand": "Akshayakalpa",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/88ead53d-38a0-4e44-92e1-478e9b5ec593_745491_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/bd8b83f5-6d91-4472-9d36-1d0365573859_745491_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/eeee314a-9178-49b6-b0b0-f4e69ee27cae_745491_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/69e4d42b-ecb4-44d5-a42b-dc119660d129_745491_4.png"
+        ],
+        "mrp": "114",
+        "offer_price": "114",
+        "quantity": "100 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--1O8GZBAS14",
+        "rating": 4.6,
+        "rating_count": 926,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 8,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "BFF03PJNOU",
+        "name": "Table Butter Salted Tub",
+        "brand": "Milky Mist",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/10/10/5676778f-b8a6-4a36-a965-aa4aaac08b3c_NPI-045440_1_20251010_102058.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/10/10/589a75a7-3c47-4ca9-940b-c2cb5c247f62_NPI-045440_2_20251010_102058.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/10/10/2c3ea5f7-2d00-472c-97fe-8dee603db592_NPI-045440_3_20251010_102059.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/10/10/ffce1072-3366-40df-8c7b-8b240731fcf0_NPI-045440_4_20251010_102059.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/10/10/b557ccac-1200-484a-a04e-68d85d07070a_NPI-045440_5_20251010_102059.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/10/10/3e55e8b3-a73e-4caa-a987-461076fec8f1_NPI-045440_6_20251010_102059.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/10/10/d191f7cc-4e26-49b3-8575-dfe438be6da0_NPI-045440_7_20251010_102100.png"
+        ],
+        "mrp": "165",
+        "offer_price": "152",
+        "quantity": "200 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--BFF03PJNOU",
+        "rating": 4.6,
+        "rating_count": 65,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 9,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "0EMYJQNOM4",
+        "name": "Pasteurised Butter",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/17/e8b503c1-1a0e-4f0e-b011-c0330be6124e_127_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/17/0d15887e-e07a-4bf8-b50a-9b81d5d19266_127_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/17/08948048-ca57-4e4a-bb32-21703dc6e064_127_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/17/e5ed11fa-2d05-4991-a85b-f26de18ab159_127_4.png"
+        ],
+        "mrp": "310",
+        "offer_price": "310",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--0EMYJQNOM4",
+        "rating": 4.6,
+        "rating_count": 54300,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 10,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "XDND5ECKUO",
+        "name": "Delicious Margarine",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/251a88fd-ae14-45d3-aa3b-861a87b009a4_SNYQWRPHJ1_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/qc2w0injzx60nnqqusmq",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/l5vhzdujnvlf6yngeml9",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/tie7oiswhdyfapr4j2lu"
+        ],
+        "mrp": "50",
+        "offer_price": "50",
+        "quantity": "100 g x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--XDND5ECKUO",
+        "rating": 4.4,
+        "rating_count": 20700,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 11,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "XDND5ECKUO",
+        "name": "Delicious Margarine",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/251a88fd-ae14-45d3-aa3b-861a87b009a4_SNYQWRPHJ1_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/qc2w0injzx60nnqqusmq",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/l5vhzdujnvlf6yngeml9",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/tie7oiswhdyfapr4j2lu"
+        ],
+        "mrp": "25",
+        "offer_price": "25",
+        "quantity": "100 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--XDND5ECKUO",
+        "rating": 4.4,
+        "rating_count": 20700,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 11,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "XDND5ECKUO",
+        "name": "Delicious Margarine",
+        "brand": "Amul",
+        "available": false,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/251a88fd-ae14-45d3-aa3b-861a87b009a4_SNYQWRPHJ1_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/qc2w0injzx60nnqqusmq",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/l5vhzdujnvlf6yngeml9",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/tie7oiswhdyfapr4j2lu"
+        ],
+        "mrp": "125",
+        "offer_price": "125",
+        "quantity": "100 g x 5",
+        "deeplink": "https://www.swiggy.com/instamart/p/--XDND5ECKUO",
+        "rating": 4.4,
+        "rating_count": 20700,
+        "inventory": 0,
+        "is_ad": false,
+        "rank": 11,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "9BWKSL0S3K",
+        "name": "Organic Cooking Butter - Unsalted",
+        "brand": "Akshayakalpa",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/38272687-ae92-4a05-a745-d1f501cef05d_6837_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/65dfce12-5e4f-4699-9b35-923ae707af92_6837_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/e01a0707-9b9e-4b4d-b3c8-8ffa2249d129_6837_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/38bf8fd9-ed36-4986-b306-3c5d1502ed22_6837_4.png"
+        ],
+        "mrp": "434",
+        "offer_price": "434",
+        "quantity": "200 g x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--9BWKSL0S3K",
+        "rating": 4.5,
+        "rating_count": 666,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 12,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "9BWKSL0S3K",
+        "name": "Organic Cooking Butter - Unsalted",
+        "brand": "Akshayakalpa",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/38272687-ae92-4a05-a745-d1f501cef05d_6837_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/65dfce12-5e4f-4699-9b35-923ae707af92_6837_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/e01a0707-9b9e-4b4d-b3c8-8ffa2249d129_6837_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/24/38bf8fd9-ed36-4986-b306-3c5d1502ed22_6837_4.png"
+        ],
+        "mrp": "217",
+        "offer_price": "217",
+        "quantity": "200 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--9BWKSL0S3K",
+        "rating": 4.5,
+        "rating_count": 666,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 12,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "J05AIVFXWU",
+        "name": "Buffalo Butter salted",
+        "brand": "Sid's Farm",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/8276d143-742d-41d6-bf1c-2bae28d7814a_UVLSCQ3NQB_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/23/7a9805c1-f63b-49e8-a8a6-19e9a4ed9b92_67337_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/23/e0ed2a70-29c6-4f1b-b4d4-45db45b46dde_67337_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/23/3f3f2e8d-6f14-4ef5-8d81-130e00e8b1ee_67337_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/23/4fec6b60-11fa-47c1-a337-b470efe72b21_67337_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/23/e20698ea-6366-455f-b259-ba953a883214_67337_6.png"
+        ],
+        "mrp": "180",
+        "offer_price": "170",
+        "quantity": "100 g x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--J05AIVFXWU",
+        "rating": 4.4,
+        "rating_count": 163,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 13,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "J05AIVFXWU",
+        "name": "Buffalo Butter salted",
+        "brand": "Sid's Farm",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/8276d143-742d-41d6-bf1c-2bae28d7814a_UVLSCQ3NQB_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/23/7a9805c1-f63b-49e8-a8a6-19e9a4ed9b92_67337_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/23/e0ed2a70-29c6-4f1b-b4d4-45db45b46dde_67337_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/23/3f3f2e8d-6f14-4ef5-8d81-130e00e8b1ee_67337_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/23/4fec6b60-11fa-47c1-a337-b470efe72b21_67337_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/23/e20698ea-6366-455f-b259-ba953a883214_67337_6.png"
+        ],
+        "mrp": "90",
+        "offer_price": "85",
+        "quantity": "100 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--J05AIVFXWU",
+        "rating": 4.4,
+        "rating_count": 163,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 13,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "J05AIVFXWU",
+        "name": "Buffalo Butter salted",
+        "brand": "Sid's Farm",
+        "available": false,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/8276d143-742d-41d6-bf1c-2bae28d7814a_UVLSCQ3NQB_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/23/7a9805c1-f63b-49e8-a8a6-19e9a4ed9b92_67337_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/23/e0ed2a70-29c6-4f1b-b4d4-45db45b46dde_67337_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/23/3f3f2e8d-6f14-4ef5-8d81-130e00e8b1ee_67337_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/23/4fec6b60-11fa-47c1-a337-b470efe72b21_67337_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/23/e20698ea-6366-455f-b259-ba953a883214_67337_6.png"
+        ],
+        "mrp": "360",
+        "offer_price": "340",
+        "quantity": "100 g x 4",
+        "deeplink": "https://www.swiggy.com/instamart/p/--J05AIVFXWU",
+        "rating": 4.4,
+        "rating_count": 163,
+        "inventory": 0,
+        "is_ad": false,
+        "rank": 13,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "J05AIVFXWU",
+        "name": "Buffalo Butter salted",
+        "brand": "Sid's Farm",
+        "available": false,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/8276d143-742d-41d6-bf1c-2bae28d7814a_UVLSCQ3NQB_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/23/7a9805c1-f63b-49e8-a8a6-19e9a4ed9b92_67337_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/23/e0ed2a70-29c6-4f1b-b4d4-45db45b46dde_67337_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/23/3f3f2e8d-6f14-4ef5-8d81-130e00e8b1ee_67337_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/23/4fec6b60-11fa-47c1-a337-b470efe72b21_67337_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/23/e20698ea-6366-455f-b259-ba953a883214_67337_6.png"
+        ],
+        "mrp": "270",
+        "offer_price": "255",
+        "quantity": "100 g x 3",
+        "deeplink": "https://www.swiggy.com/instamart/p/--J05AIVFXWU",
+        "rating": 4.4,
+        "rating_count": 163,
+        "inventory": 0,
+        "is_ad": false,
+        "rank": 13,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "OKSKU2ZZ94",
+        "name": "Doodhshakti Probiotic and Butter Spread",
+        "brand": "Nutralite",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/311b024d-1a61-4b3e-b1eb-bdf8f4ed0a64_25124_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/cec0c212-8d8b-4380-b25d-85aad048a14d_25124_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/5b2893e9-6bbd-4a70-af61-aed7f4697f5a_25124_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/91c6c980-1309-4165-a8d4-52aecaf87c54_25124_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/9dd61511-2e34-4610-9a62-e4bb459770ee_25124_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/f13b61e5-22ec-4c28-b7b8-052a366295c1_25124_6.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/f2a6f1ff-9507-4af2-8117-83a0f3a71e86_25124_7.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/880f27fa-9000-4815-9e1f-db65cd296c36_25123_10.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/00d9d79f-22d2-463a-ac03-84fce6deda2d_25124_9.png"
+        ],
+        "mrp": "290",
+        "offer_price": "273",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--OKSKU2ZZ94",
+        "rating": 4.5,
+        "rating_count": 4300,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 14,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "OKSKU2ZZ94",
+        "name": "Doodhshakti Probiotic and Butter Spread",
+        "brand": "Nutralite",
+        "available": false,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/278c77c7-c1a1-40dc-9748-f1169929cdcb_25123_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/79042d34-0c4e-465f-a281-eca3128a984d_25123_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/e1cebd9b-5a9e-45ec-a0aa-b30c98721b1d_25123_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/e6fbf10f-d2fe-46f3-b1f7-e0b85139262b_25123_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/47d000c7-d83e-4a56-8049-5057dafb8402_25123_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/db4c80ca-37af-4ec1-8a50-25432aabcaee_25123_6.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/ea0a0932-b106-413d-aa93-21685c69956e_25123_7.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/cee49fcd-aaec-43bd-bb59-f496acf7eb3a_25123_8.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/fa76f0a0-5cc5-4fef-9fe3-3635ddb3d946_25123_9.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/880f27fa-9000-4815-9e1f-db65cd296c36_25123_10.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/b081c1c3-9c5f-488b-8a5e-6df98e885c1c_25123_11.png"
+        ],
+        "mrp": "300",
+        "offer_price": "290",
+        "quantity": "100 g x 5",
+        "deeplink": "https://www.swiggy.com/instamart/p/--OKSKU2ZZ94",
+        "rating": 4.5,
+        "rating_count": 4300,
+        "inventory": 0,
+        "is_ad": false,
+        "rank": 14,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "OKSKU2ZZ94",
+        "name": "Doodhshakti Probiotic and Butter Spread",
+        "brand": "Nutralite",
+        "available": false,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/278c77c7-c1a1-40dc-9748-f1169929cdcb_25123_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/79042d34-0c4e-465f-a281-eca3128a984d_25123_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/e1cebd9b-5a9e-45ec-a0aa-b30c98721b1d_25123_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/e6fbf10f-d2fe-46f3-b1f7-e0b85139262b_25123_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/47d000c7-d83e-4a56-8049-5057dafb8402_25123_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/db4c80ca-37af-4ec1-8a50-25432aabcaee_25123_6.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/ea0a0932-b106-413d-aa93-21685c69956e_25123_7.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/cee49fcd-aaec-43bd-bb59-f496acf7eb3a_25123_8.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/fa76f0a0-5cc5-4fef-9fe3-3635ddb3d946_25123_9.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/880f27fa-9000-4815-9e1f-db65cd296c36_25123_10.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/b081c1c3-9c5f-488b-8a5e-6df98e885c1c_25123_11.png"
+        ],
+        "mrp": "180",
+        "offer_price": "174",
+        "quantity": "100 g x 3",
+        "deeplink": "https://www.swiggy.com/instamart/p/--OKSKU2ZZ94",
+        "rating": 4.5,
+        "rating_count": 4300,
+        "inventory": 0,
+        "is_ad": false,
+        "rank": 14,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "OKSKU2ZZ94",
+        "name": "Doodhshakti Probiotic and Butter Spread",
+        "brand": "Nutralite",
+        "available": false,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/278c77c7-c1a1-40dc-9748-f1169929cdcb_25123_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/79042d34-0c4e-465f-a281-eca3128a984d_25123_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/e1cebd9b-5a9e-45ec-a0aa-b30c98721b1d_25123_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/e6fbf10f-d2fe-46f3-b1f7-e0b85139262b_25123_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/47d000c7-d83e-4a56-8049-5057dafb8402_25123_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/db4c80ca-37af-4ec1-8a50-25432aabcaee_25123_6.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/ea0a0932-b106-413d-aa93-21685c69956e_25123_7.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/cee49fcd-aaec-43bd-bb59-f496acf7eb3a_25123_8.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/fa76f0a0-5cc5-4fef-9fe3-3635ddb3d946_25123_9.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/880f27fa-9000-4815-9e1f-db65cd296c36_25123_10.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/b081c1c3-9c5f-488b-8a5e-6df98e885c1c_25123_11.png"
+        ],
+        "mrp": "60",
+        "offer_price": "58",
+        "quantity": "100 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--OKSKU2ZZ94",
+        "rating": 4.5,
+        "rating_count": 4300,
+        "inventory": 0,
+        "is_ad": false,
+        "rank": 14,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "66R3BOG9NC",
+        "name": "Cooking Butter",
+        "brand": "Heritage",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/b260443e-24d2-4919-9b89-a1a9134ae032_HC8M85C9MG_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/9396be27bf5a5af35f9524f1992cb5ca",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/27ba5181e7e0e7d48ec4d5e3867f4256",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/a471b33a87c378e4c7f26309f28a116d"
+        ],
+        "mrp": "290",
+        "offer_price": "276",
+        "quantity": "200 g x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--66R3BOG9NC",
+        "rating": 4.5,
+        "rating_count": 576,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 15,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "66R3BOG9NC",
+        "name": "Cooking Butter",
+        "brand": "Heritage",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/b260443e-24d2-4919-9b89-a1a9134ae032_HC8M85C9MG_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/9396be27bf5a5af35f9524f1992cb5ca",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/27ba5181e7e0e7d48ec4d5e3867f4256",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/a471b33a87c378e4c7f26309f28a116d"
+        ],
+        "mrp": "145",
+        "offer_price": "138",
+        "quantity": "200 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--66R3BOG9NC",
+        "rating": 4.5,
+        "rating_count": 576,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 15,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "66R3BOG9NC",
+        "name": "Cooking Butter",
+        "brand": "Heritage",
+        "available": false,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/b260443e-24d2-4919-9b89-a1a9134ae032_HC8M85C9MG_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/9396be27bf5a5af35f9524f1992cb5ca",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/27ba5181e7e0e7d48ec4d5e3867f4256",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/a471b33a87c378e4c7f26309f28a116d"
+        ],
+        "mrp": "580",
+        "offer_price": "552",
+        "quantity": "200 g x 4",
+        "deeplink": "https://www.swiggy.com/instamart/p/--66R3BOG9NC",
+        "rating": 4.5,
+        "rating_count": 576,
+        "inventory": 0,
+        "is_ad": false,
+        "rank": 15,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "SS3LVR0YFT",
+        "name": "Premium Butter",
+        "brand": "Heritage",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/732b0adc-2f23-4605-8d6c-b1e6606cc09e_T7NIEAVTJL_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/7/10/55f7ec0a-4983-455a-a25a-2d31de94e472_797468_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/7/10/2164be4f-0846-4a20-a693-61ba186e2333_797468_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/7/10/4a73f3ef-3783-4eb2-8a88-855c2f116cd2_797468_4.png"
+        ],
+        "mrp": "310",
+        "offer_price": "288",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--SS3LVR0YFT",
+        "rating": 4.6,
+        "rating_count": 253,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 16,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "Q6ZDMDG3TM",
+        "name": "Yummy Spread",
+        "brand": "Nutralite",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/9/26/f82736f6-1933-4804-a0d5-281dc45fbf57_B1NKGDDLQ6_3ae4dc15-6b3b-4edf-b90e-edc8778885d0.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/9/26/21263c6a-2133-40c9-8d8f-b4a08b5724bd_B1NKGDDLQ6_2_997730fd-e04b-4ce6-862a-e8883f8e5479.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/9/26/592816de-592b-439a-9c29-0058d0235e63_200042_1_AL1_d0fc97f0-ea5f-462b-bd4e-449104cebcfb.jpeg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/9/26/7578a9aa-290f-45d1-93ec-90becc078679_200042_3_AL3_588d735d-ffaa-4a04-8358-d5006aa1ad1f.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/9/26/6206861a-9885-468a-8f9a-4e518e26cbc5_200042_2_AL2_eccf3a6e-df05-412a-aa65-5c1da9c2238e.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/9/26/9945a261-1e34-4391-af9a-8335ecfe95ed_200042_6_AL6_089fcfea-62ef-4167-8bba-9ae1aaa88f1b.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/7/29/05207696-5a89-42a8-8814-1e20b238478a_NPI-015863_5_20250728_073854.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/9/26/4f5c5bc7-1721-4718-9a2b-48c8b6472bbb_in_ca3bb535-0944-4150-b39b-c87e65f39631.png"
+        ],
+        "mrp": "30",
+        "offer_price": "29",
+        "quantity": "100 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--Q6ZDMDG3TM",
+        "rating": 4.3,
+        "rating_count": 2000,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 17,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "2AQ9OJ0KLH",
+        "name": "Cultured Cow Butter",
+        "brand": "Sid's Farm",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/5fb4cedd-ccc8-4c76-a792-1259ccd82288_DZCFSZU1AK_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/4/8/6913a41c-77bf-4b30-98d8-215f3c3e6c52_butterandmargarine_DZCFSZU1AK_AL3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/4/8/c38c1718-a89c-448a-88b7-0a759926948c_butterandmargarine_DZCFSZU1AK_AL4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/4/8/dbd3e914-e57f-437d-8e66-1233f0e623b3_butterandmargarine_DZCFSZU1AK_AL7.jpg"
+        ],
+        "mrp": "230",
+        "offer_price": "230",
+        "quantity": "250 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--2AQ9OJ0KLH",
+        "rating": 4.5,
+        "rating_count": 152,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 18,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "01SXBXM967",
+        "name": "Doodhshakti Probiotic Butter Spread Tub",
+        "brand": "Nutralite",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/489ea82c-ad0c-40ca-a148-eb9af0d61176_62950_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/61f1a09e-c958-4573-aa43-32e3c98a7e1f_62950_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/5b2893e9-6bbd-4a70-af61-aed7f4697f5a_25124_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/91c6c980-1309-4165-a8d4-52aecaf87c54_25124_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/9dd61511-2e34-4610-9a62-e4bb459770ee_25124_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/f13b61e5-22ec-4c28-b7b8-052a366295c1_25124_6.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/f2a6f1ff-9507-4af2-8117-83a0f3a71e86_25124_7.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/880f27fa-9000-4815-9e1f-db65cd296c36_25123_10.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/18/e19ed21b-0f67-45b8-9a38-8418131dcc0a_62950_10.png"
+        ],
+        "mrp": "325",
+        "offer_price": "302",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--01SXBXM967",
+        "rating": 4.5,
+        "rating_count": 1400,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 19,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "FGKDSC7ITV",
+        "name": "MOOZ Unsalted White Butter",
+        "brand": "MOOZ Formaggio",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/1/12/ef5f5a19-57c7-401f-8bc6-9d0be8fa9175_321505_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/1/12/cd29683d-670b-4fcb-aad3-49b22de9dd61_321505_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/1/12/4a8b8350-897e-4ad1-9a7d-b27a4350f3be_321505_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/1/12/8475ba1d-0b73-4da7-a985-c95570afd429_321505_4.png"
+        ],
+        "mrp": "190",
+        "offer_price": "190",
+        "quantity": "150 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--FGKDSC7ITV",
+        "rating": 4.6,
+        "rating_count": 250,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 20,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "IIFKBLJG6I",
+        "name": "Cooking Butter",
+        "brand": "Heritage",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/890e4a5e-8b08-492d-8cb9-f0c6c95abef7_SJCSAWCSBJ_MN_17122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/7/2/115d03ce-fa3a-4c94-b81a-78e7dfa9a2b0_755878_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/7/2/8437b42f-bb39-4a2e-88ef-e027c53e1fa6_755878_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/7/2/6fc98711-d5bc-4c6b-8249-601dd3ab0598_755878_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/7/2/3d09461d-2cc7-4f58-a955-5600185aba4e_755878_5.png"
+        ],
+        "mrp": "340",
+        "offer_price": "316",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--IIFKBLJG6I",
+        "rating": 4.3,
+        "rating_count": 363,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 21,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "59NGQPM511",
+        "name": "MOOZ Butter garlic & herbs",
+        "brand": "MOOZ Formaggio",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/1/12/9a512d5b-bece-4c1e-9d91-b9803f63ac71_919506_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/1/12/aeedfcff-46e7-48ae-8211-512f3917abd4_919506_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/1/12/2a9ec574-7faa-425e-a599-3bd1121aadac_919506_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/1/12/e025d001-1991-4ad0-a87e-23cffa426ad8_919506_4.png"
+        ],
+        "mrp": "170",
+        "offer_price": "156",
+        "quantity": "125 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--59NGQPM511",
+        "rating": 4.2,
+        "rating_count": 96,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 22,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "DNJXASUFQ6",
+        "name": "Activ Plant Based Buttery Spread-Garlic & Herbs",
+        "brand": "Nutralite",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/b281b398-2f20-48ea-b943-603b38a1ecdc_350620_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/139070de-7c67-4ba0-9ccd-ed7cabd1a103_350620_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/0c496fb1-a633-4693-93f4-82324f53eab9_350620_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/10516b4e-df39-4e69-be84-530950bd1784_350620_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/711e84bf-b610-42da-9eaa-c00095dffebf_350620_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/14b9290b-e4ed-49cc-be98-3e438c2662c9_350620_6.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/68e88ffe-0233-4d74-a112-a43d12bb847b_350620_7.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/08bc169d-b08e-4dd4-95cb-7b7754db5056_350620_8.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/fa958e83-15de-4caa-9add-0a44eb2a7adc_350620_9.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/5f7404b3-86bd-415b-b403-d39cec1590f8_350620_10.png"
+        ],
+        "mrp": "194",
+        "offer_price": "174",
+        "quantity": "100 g x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--DNJXASUFQ6",
+        "rating": 4.3,
+        "rating_count": 663,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 23,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "DNJXASUFQ6",
+        "name": "Activ Plant Based Buttery Spread-Garlic & Herbs",
+        "brand": "Nutralite",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/b281b398-2f20-48ea-b943-603b38a1ecdc_350620_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/139070de-7c67-4ba0-9ccd-ed7cabd1a103_350620_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/0c496fb1-a633-4693-93f4-82324f53eab9_350620_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/10516b4e-df39-4e69-be84-530950bd1784_350620_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/711e84bf-b610-42da-9eaa-c00095dffebf_350620_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/14b9290b-e4ed-49cc-be98-3e438c2662c9_350620_6.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/68e88ffe-0233-4d74-a112-a43d12bb847b_350620_7.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/08bc169d-b08e-4dd4-95cb-7b7754db5056_350620_8.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/fa958e83-15de-4caa-9add-0a44eb2a7adc_350620_9.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/5f7404b3-86bd-415b-b403-d39cec1590f8_350620_10.png"
+        ],
+        "mrp": "97",
+        "offer_price": "87",
+        "quantity": "100 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--DNJXASUFQ6",
+        "rating": 4.3,
+        "rating_count": 663,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 23,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "DNJXASUFQ6",
+        "name": "Activ Plant Based Buttery Spread-Garlic & Herbs",
+        "brand": "Nutralite",
+        "available": false,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/b281b398-2f20-48ea-b943-603b38a1ecdc_350620_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/139070de-7c67-4ba0-9ccd-ed7cabd1a103_350620_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/0c496fb1-a633-4693-93f4-82324f53eab9_350620_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/10516b4e-df39-4e69-be84-530950bd1784_350620_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/711e84bf-b610-42da-9eaa-c00095dffebf_350620_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/14b9290b-e4ed-49cc-be98-3e438c2662c9_350620_6.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/68e88ffe-0233-4d74-a112-a43d12bb847b_350620_7.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/08bc169d-b08e-4dd4-95cb-7b7754db5056_350620_8.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/fa958e83-15de-4caa-9add-0a44eb2a7adc_350620_9.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/5f7404b3-86bd-415b-b403-d39cec1590f8_350620_10.png"
+        ],
+        "mrp": "291",
+        "offer_price": "261",
+        "quantity": "100 g x 3",
+        "deeplink": "https://www.swiggy.com/instamart/p/--DNJXASUFQ6",
+        "rating": 4.3,
+        "rating_count": 663,
+        "inventory": 0,
+        "is_ad": false,
+        "rank": 23,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "Z68CYZZM16",
+        "name": "Activ Plant Based Buttery Spread-Olive",
+        "brand": "Nutralite",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/7755caea-4579-4932-a156-7d73c16876f7_567696_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/bdd5539d-630a-4dda-a56a-5d092026091f_567696_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/9fe12e26-7c81-40d1-bb0e-2f67ece355e9_567696_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/c1ae0dbc-9f72-422f-a4da-9b46d91fd3fb_567696_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/f39ac277-09ca-4114-bed0-dfb306ae261b_567696_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/05808e9a-d3d4-4a04-a023-88209e6c3be3_567696_6.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/68e88ffe-0233-4d74-a112-a43d12bb847b_350620_7.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/f8d2d164-76ad-488a-91bf-b59eba7be6d3_567696_8.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/75e3763b-f7c6-46dd-9b74-a7f7b4d2866d_567696_9.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/6b6d2ca7-ac5b-4659-b032-85ebd1b043c7_567696_10.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/c6948ba5-9a2a-40cf-91f6-46cb10002b32_567696_11.png"
+        ],
+        "mrp": "291",
+        "offer_price": "261",
+        "quantity": "100 g x 3",
+        "deeplink": "https://www.swiggy.com/instamart/p/--Z68CYZZM16",
+        "rating": 4.6,
+        "rating_count": 429,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 24,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "Z68CYZZM16",
+        "name": "Activ Plant Based Buttery Spread-Olive",
+        "brand": "Nutralite",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/7755caea-4579-4932-a156-7d73c16876f7_567696_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/bdd5539d-630a-4dda-a56a-5d092026091f_567696_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/9fe12e26-7c81-40d1-bb0e-2f67ece355e9_567696_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/c1ae0dbc-9f72-422f-a4da-9b46d91fd3fb_567696_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/f39ac277-09ca-4114-bed0-dfb306ae261b_567696_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/05808e9a-d3d4-4a04-a023-88209e6c3be3_567696_6.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/68e88ffe-0233-4d74-a112-a43d12bb847b_350620_7.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/f8d2d164-76ad-488a-91bf-b59eba7be6d3_567696_8.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/75e3763b-f7c6-46dd-9b74-a7f7b4d2866d_567696_9.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/6b6d2ca7-ac5b-4659-b032-85ebd1b043c7_567696_10.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/c6948ba5-9a2a-40cf-91f6-46cb10002b32_567696_11.png"
+        ],
+        "mrp": "194",
+        "offer_price": "174",
+        "quantity": "100 g x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--Z68CYZZM16",
+        "rating": 4.6,
+        "rating_count": 429,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 24,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "Z68CYZZM16",
+        "name": "Activ Plant Based Buttery Spread-Olive",
+        "brand": "Nutralite",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/7755caea-4579-4932-a156-7d73c16876f7_567696_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/bdd5539d-630a-4dda-a56a-5d092026091f_567696_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/9fe12e26-7c81-40d1-bb0e-2f67ece355e9_567696_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/c1ae0dbc-9f72-422f-a4da-9b46d91fd3fb_567696_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/f39ac277-09ca-4114-bed0-dfb306ae261b_567696_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/05808e9a-d3d4-4a04-a023-88209e6c3be3_567696_6.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/68e88ffe-0233-4d74-a112-a43d12bb847b_350620_7.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/f8d2d164-76ad-488a-91bf-b59eba7be6d3_567696_8.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/75e3763b-f7c6-46dd-9b74-a7f7b4d2866d_567696_9.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/6b6d2ca7-ac5b-4659-b032-85ebd1b043c7_567696_10.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/3/c6948ba5-9a2a-40cf-91f6-46cb10002b32_567696_11.png"
+        ],
+        "mrp": "97",
+        "offer_price": "87",
+        "quantity": "100 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--Z68CYZZM16",
+        "rating": 4.6,
+        "rating_count": 429,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 24,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "OBE4RVL4MH",
+        "name": "Yummy Spread",
+        "brand": "Nutralite",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/9/26/ca2a7de4-b9f6-413d-95c0-002291aefc23_2_a78401fd-f691-4a45-8b08-2b80cdc72d97.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/9/26/e6d978b7-19a5-495d-ada5-9451253e853a_3_2c807c7d-aba4-47e8-afe1-205784588812.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/9/26/592816de-592b-439a-9c29-0058d0235e63_200042_1_AL1_d0fc97f0-ea5f-462b-bd4e-449104cebcfb.jpeg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/9/26/6206861a-9885-468a-8f9a-4e518e26cbc5_200042_2_AL2_eccf3a6e-df05-412a-aa65-5c1da9c2238e.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/9/26/7578a9aa-290f-45d1-93ec-90becc078679_200042_3_AL3_588d735d-ffaa-4a04-8358-d5006aa1ad1f.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/9/26/9945a261-1e34-4391-af9a-8335ecfe95ed_200042_6_AL6_089fcfea-62ef-4167-8bba-9ae1aaa88f1b.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/7/29/05207696-5a89-42a8-8814-1e20b238478a_NPI-015863_5_20250728_073854.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/9/26/5977a9ee-d91e-49b4-ae1a-0d789cd04315_200042_bd92edb0-90f0-4f73-ba01-873b11d32d33.png"
+        ],
+        "mrp": "145",
+        "offer_price": "135",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--OBE4RVL4MH",
+        "rating": 4.3,
+        "rating_count": 659,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 25,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "Y4OHE95ZQM",
+        "name": "Unsalted Butter & Maggi 2-Minute Instant Noodles",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/6/3/a03caddd-c23a-4a3f-93c9-5c5bd324ab2a_327029.png"
+        ],
+        "mrp": "155",
+        "offer_price": "143",
+        "quantity": "1 Combo",
+        "deeplink": "https://www.swiggy.com/instamart/p/--Y4OHE95ZQM",
+        "rating": 4.7,
+        "rating_count": 228,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 26,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "2VVBM2RLZB",
+        "name": "Pasteurised Butter + The Health Factory Zero Maida Milk Bread",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/25/a2b6ce96-dbc5-4b2f-8c1a-2f9126ca0ef6_450994.png"
+        ],
+        "mrp": "128",
+        "offer_price": "128",
+        "quantity": "1 Combo",
+        "deeplink": "https://www.swiggy.com/instamart/p/--2VVBM2RLZB",
+        "rating": 4.4,
+        "rating_count": 277,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 27,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "GEPDESOVFV",
+        "name": "Table butter chiplet",
+        "brand": "Milky Mist",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/018f49f8-5617-48b9-be15-f962548cdb4b_NX72ERO6SA_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/13/3983598c-ea5d-42bd-817f-d9cd5cd08a10_226011_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/13/d46ba461-f67d-4dad-bd61-62b602d5a9a5_226011_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/13/29b5eec6-ce87-43a1-8226-26df3dde00fc_226011_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/13/abff186a-8b6f-4ed3-b4f4-bdaf174fdb9e_226011_5.png"
+        ],
+        "mrp": "800",
+        "offer_price": "720",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/instamart/p/--GEPDESOVFV",
+        "rating": 3.7,
+        "rating_count": 68,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 28,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "UTHJLWU9DR",
+        "name": "Pasteurised Butter  & Mtr Minute Fresh Dosa Batter",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/30/300dbeda-8b51-4242-85dc-a9c917d4ff74_434131.png"
+        ],
+        "mrp": "133",
+        "offer_price": "128",
+        "quantity": "1 Combo",
+        "deeplink": "https://www.swiggy.com/instamart/p/--UTHJLWU9DR",
+        "rating": null,
+        "rating_count": null,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 29,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "0PVGOE9IZ9",
+        "name": "Table Salted Butter + The Health Factory Zero Maida Milk Bread",
+        "brand": "Milky Mist",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/28/b2ada463-04a5-46b8-a237-d30f1b7d47b2_632382.png"
+        ],
+        "mrp": "150",
+        "offer_price": "147",
+        "quantity": "1 Combo",
+        "deeplink": "https://www.swiggy.com/instamart/p/--0PVGOE9IZ9",
+        "rating": null,
+        "rating_count": null,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 30,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "3VU2M8F51Y",
+        "name": "Table Salted Butter & Milky Mist Mozzarella Diced",
+        "brand": "Milky Mist",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/30/1d87b8d5-0b7b-46e0-80d7-f382885919a0_501935.png"
+        ],
+        "mrp": "245",
+        "offer_price": "215",
+        "quantity": "1 Combo",
+        "deeplink": "https://www.swiggy.com/instamart/p/--3VU2M8F51Y",
+        "rating": null,
+        "rating_count": null,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 31,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "Q99YHQ5B6A",
+        "name": "Activ Plant Based Buttery Spread-Garlic & Herbs +The Health Factory Zero Maida Milk Bread",
+        "brand": "Nutralite",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/25/9ca26abb-16e6-4f58-8526-635d90e9e2c7_315046.png"
+        ],
+        "mrp": "162",
+        "offer_price": "152",
+        "quantity": "1 Combo",
+        "deeplink": "https://www.swiggy.com/instamart/p/--Q99YHQ5B6A",
+        "rating": null,
+        "rating_count": null,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 32,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "IC0ROQJONM",
+        "name": "Buttery Milk Bread (Freshly made)",
+        "brand": "NOICE",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/5/26/56650c6d-d214-4572-98c8-6f4b03434877_180123.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/6/30/e192c022-99a8-44d8-b21f-431cf8b38605_29WMCACS9N_al2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/5/19/a6f921d2-b923-4f54-8d46-7714256e36d5_29WMCACS9N4.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/5/19/f9d19087-e65b-4736-9fe1-3636fe13e433_29WMCACS9N3.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/8/21/6c1e3e6c-bd98-4437-90d2-28cee5f0c624_XBFQDFKW9H_blr7.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/8/21/d9f78fdf-293a-4e70-bf96-9066bb5851cd_XBFQDFKW9H_blr8.png"
+        ],
+        "mrp": "130",
+        "offer_price": "90",
+        "quantity": "250 g x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--IC0ROQJONM",
+        "rating": 4.2,
+        "rating_count": 25200,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 33,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "IC0ROQJONM",
+        "name": "Buttery Milk Bread (Freshly made)",
+        "brand": "NOICE",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/5/26/56650c6d-d214-4572-98c8-6f4b03434877_180123.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/6/30/e192c022-99a8-44d8-b21f-431cf8b38605_29WMCACS9N_al2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/5/19/a6f921d2-b923-4f54-8d46-7714256e36d5_29WMCACS9N4.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/5/19/f9d19087-e65b-4736-9fe1-3636fe13e433_29WMCACS9N3.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/8/21/6c1e3e6c-bd98-4437-90d2-28cee5f0c624_XBFQDFKW9H_blr7.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/8/21/d9f78fdf-293a-4e70-bf96-9066bb5851cd_XBFQDFKW9H_blr8.png"
+        ],
+        "mrp": "65",
+        "offer_price": "45",
+        "quantity": "250 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--IC0ROQJONM",
+        "rating": 4.2,
+        "rating_count": 25200,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 33,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "LH8D799UZM",
+        "name": "Fresh Butter Croissant (Freshly made)",
+        "brand": "NOICE",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/11/20/a81a972c-ad4d-4c27-9327-d436d73ba81e_9UOBHU5L0U_MN_20112025.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/7/4/cb7549f0-2c7e-4245-8fb0-492422bda9e1_9UOBHU5L0U_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/5/30/85ae11eb-bb61-4072-b483-6b184a9d7a5c_9UOBHU5L0U_3.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/15/83bdc3e9-855b-4552-ada1-b9806740480c_89906_1_AL3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/5/30/7d111cec-e776-440a-84f4-6f007d27df99_9UOBHU5L0U_2.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/15/38a389f8-2949-4f25-a488-37e44415c69a_89906_1_AL7.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/15/7282818a-b4a0-4aff-ac21-932dfbdcbe2d_89906_1_AL8.png"
+        ],
+        "mrp": "278",
+        "offer_price": "138",
+        "quantity": "90 g x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--LH8D799UZM",
+        "rating": 4.2,
+        "rating_count": 5900,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 34,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "LH8D799UZM",
+        "name": "Fresh Butter Croissant (Freshly made)",
+        "brand": "NOICE",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/11/20/a81a972c-ad4d-4c27-9327-d436d73ba81e_9UOBHU5L0U_MN_20112025.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/7/4/cb7549f0-2c7e-4245-8fb0-492422bda9e1_9UOBHU5L0U_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/5/30/85ae11eb-bb61-4072-b483-6b184a9d7a5c_9UOBHU5L0U_3.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/15/83bdc3e9-855b-4552-ada1-b9806740480c_89906_1_AL3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/5/30/7d111cec-e776-440a-84f4-6f007d27df99_9UOBHU5L0U_2.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/15/38a389f8-2949-4f25-a488-37e44415c69a_89906_1_AL7.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/15/7282818a-b4a0-4aff-ac21-932dfbdcbe2d_89906_1_AL8.png"
+        ],
+        "mrp": "139",
+        "offer_price": "69",
+        "quantity": "90 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--LH8D799UZM",
+        "rating": 4.2,
+        "rating_count": 5900,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 34,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "3BLL0HLOC4",
+        "name": "Potato Chips Bangin' Butter & Garlic",
+        "brand": "Bingo",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/7/13/8ce5a21f-1968-46bf-9e0d-98239bcebd93_219091_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/7/13/30a85b04-5c2c-4476-a81b-d59e80acc1ad_219091_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/7/13/c707ae14-f6dc-4ff5-9c20-024e39bac5ac_219091_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/7/13/bd007079-f5a7-4183-bbb1-b779117f0861_219091_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/7/13/18ad761d-ed17-45f2-ae65-8b7c0ca0aa28_219091_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/7/13/0343a8c2-db6e-4fbc-9fa1-42fbaf5c6d1a_219091_6.png"
+        ],
+        "mrp": "20",
+        "offer_price": "19",
+        "quantity": "42 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--3BLL0HLOC4",
+        "rating": 4.2,
+        "rating_count": 624,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 35,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "AX310GGTKU",
+        "name": "Buttermilk",
+        "brand": "Nandini",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/25236b6a-fecc-4973-9f5e-ae8593ad4a80_AZBJR60FCC_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/3/25/4d8a642b-32c7-4cbc-813c-11b5c9285351_125711_2_20250325_130809.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/3/25/227c20d6-8430-4ea2-8580-509315b91d9f_125711_3_20250325_130810.png"
+        ],
+        "mrp": "40",
+        "offer_price": "40",
+        "quantity": "200 ml x 4",
+        "deeplink": "https://www.swiggy.com/instamart/p/--AX310GGTKU",
+        "rating": 4.4,
+        "rating_count": 4100,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 36,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "AX310GGTKU",
+        "name": "Buttermilk",
+        "brand": "Nandini",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/25236b6a-fecc-4973-9f5e-ae8593ad4a80_AZBJR60FCC_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/3/25/4d8a642b-32c7-4cbc-813c-11b5c9285351_125711_2_20250325_130809.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/3/25/227c20d6-8430-4ea2-8580-509315b91d9f_125711_3_20250325_130810.png"
+        ],
+        "mrp": "20",
+        "offer_price": "20",
+        "quantity": "200 ml x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--AX310GGTKU",
+        "rating": 4.4,
+        "rating_count": 4100,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 36,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "AX310GGTKU",
+        "name": "Buttermilk",
+        "brand": "Nandini",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/25236b6a-fecc-4973-9f5e-ae8593ad4a80_AZBJR60FCC_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/3/25/4d8a642b-32c7-4cbc-813c-11b5c9285351_125711_2_20250325_130809.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/3/25/227c20d6-8430-4ea2-8580-509315b91d9f_125711_3_20250325_130810.png"
+        ],
+        "mrp": "10",
+        "offer_price": "10",
+        "quantity": "200 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--AX310GGTKU",
+        "rating": 4.4,
+        "rating_count": 4100,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 36,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "89W54YXDO1",
+        "name": "Butter Vanilla Pound Cake (No Palm Oil)",
+        "brand": "Theobroma",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/18/07a002e9-ed2a-4ab9-8ae9-13a47df32b53_GRYJHYHG1D_MN_17122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/7/15/94086f58-6240-4668-b1d0-fd6b970004a8_GRYJHYHG1D_AL1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/7/15/ab353a6e-38a4-4217-85b1-a748d1bf7fb3_GRYJHYHG1D_AL2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/7/15/edef3d24-8df9-416b-89ff-ab4852bd8635_GRYJHYHG1D_AL3.png"
+        ],
+        "mrp": "190",
+        "offer_price": "139",
+        "quantity": "180 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--89W54YXDO1",
+        "rating": 4.3,
+        "rating_count": 391,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 37,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "UDFTXDFIV4",
+        "name": "Butter Murukku",
+        "brand": "iD Fresh",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/22/5c0a7b39-745c-4c04-8fc0-b9173d08a188_NPI-146462_1_20260622_153656.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/22/9bcf4ba5-a8aa-4b59-a1d0-8b0f0d36234d_NPI-146462_2_20260622_153657.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/22/64443b9c-4109-4d62-9906-391bf5c0bf90_NPI-146462_3_20260622_153657.png"
+        ],
+        "mrp": "60",
+        "offer_price": "54",
+        "quantity": "120 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--UDFTXDFIV4",
+        "rating": 4.4,
+        "rating_count": 1100,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 38,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "6XBA49NA3Y",
+        "name": "Crunchy Peanut Butter | 25% Protein (Jaggery Sweetened & No Preservatives)",
+        "brand": "NOICE",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/7/16/1ad49a62-98f0-4f24-9114-ccebc40cea9a_170946-1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/4/28/e02ebfc5-ca50-417e-905b-f429ee139e66_170946-2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/3/17/a846ff15-9d7d-4d3b-903a-f5fa431532c3_170946-3.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/31/063d107e-a3c9-4226-b7b8-c1e35bea3f87_170946-4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/3/17/e2fa36cb-7b08-4ec1-96b3-badb448796db_170946-5.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/31/edf6cbae-5a3e-49d7-89f5-075791a37f95_170946-8.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/31/63008dbf-7443-473c-b0fc-6f2d1651c268_170946-9.png"
+        ],
+        "mrp": "340",
+        "offer_price": "198",
+        "quantity": "250 g x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--6XBA49NA3Y",
+        "rating": 4.3,
+        "rating_count": 1500,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 39,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "6XBA49NA3Y",
+        "name": "Crunchy Peanut Butter | 25% Protein (Jaggery Sweetened & No Preservatives)",
+        "brand": "NOICE",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/7/16/1ad49a62-98f0-4f24-9114-ccebc40cea9a_170946-1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/4/28/e02ebfc5-ca50-417e-905b-f429ee139e66_170946-2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/3/17/a846ff15-9d7d-4d3b-903a-f5fa431532c3_170946-3.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/31/063d107e-a3c9-4226-b7b8-c1e35bea3f87_170946-4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/3/17/e2fa36cb-7b08-4ec1-96b3-badb448796db_170946-5.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/31/edf6cbae-5a3e-49d7-89f5-075791a37f95_170946-8.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/31/63008dbf-7443-473c-b0fc-6f2d1651c268_170946-9.png"
+        ],
+        "mrp": "170",
+        "offer_price": "99",
+        "quantity": "250 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--6XBA49NA3Y",
+        "rating": 4.3,
+        "rating_count": 1500,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 39,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "6UK5YL138Q",
+        "name": "Rich Butter Cookies (Zero Palm Oil Biscuits)",
+        "brand": "NOICE",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/6/28/96f7240b-2492-4dba-b749-408f85b378ba_818611-1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/19/1c5e8cca-37d5-48b3-8ad8-59f56444b78f_818611-2.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/5/30/1a7da2e8-9ad8-45d5-95bf-0736b0b33456_GCQ2UW20W6_3.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/21/885fed3d-845b-4d3b-bb41-fb3347ab9ced_818611_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/7/27/f484d79d-74cd-4e94-8fd2-6e8f980d9bf5_818611_5.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/21/aeae301b-7236-4f10-bad8-59f17ac7a2ae_818611_8.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/21/6a4069e5-b5b4-4f20-ba66-5ac8c4d660d0_818611_9.png"
+        ],
+        "mrp": "316",
+        "offer_price": "220",
+        "quantity": "80 g x 4",
+        "deeplink": "https://www.swiggy.com/instamart/p/--6UK5YL138Q",
+        "rating": 4.4,
+        "rating_count": 22300,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 40,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "6UK5YL138Q",
+        "name": "Rich Butter Cookies (Zero Palm Oil Biscuits)",
+        "brand": "NOICE",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/6/28/96f7240b-2492-4dba-b749-408f85b378ba_818611-1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/19/1c5e8cca-37d5-48b3-8ad8-59f56444b78f_818611-2.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/5/30/1a7da2e8-9ad8-45d5-95bf-0736b0b33456_GCQ2UW20W6_3.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/21/885fed3d-845b-4d3b-bb41-fb3347ab9ced_818611_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/7/27/f484d79d-74cd-4e94-8fd2-6e8f980d9bf5_818611_5.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/21/aeae301b-7236-4f10-bad8-59f17ac7a2ae_818611_8.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/21/6a4069e5-b5b4-4f20-ba66-5ac8c4d660d0_818611_9.png"
+        ],
+        "mrp": "158",
+        "offer_price": "110",
+        "quantity": "80 g x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--6UK5YL138Q",
+        "rating": 4.4,
+        "rating_count": 22300,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 40,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "6UK5YL138Q",
+        "name": "Rich Butter Cookies (Zero Palm Oil Biscuits)",
+        "brand": "NOICE",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/6/28/96f7240b-2492-4dba-b749-408f85b378ba_818611-1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/19/1c5e8cca-37d5-48b3-8ad8-59f56444b78f_818611-2.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/5/30/1a7da2e8-9ad8-45d5-95bf-0736b0b33456_GCQ2UW20W6_3.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/21/885fed3d-845b-4d3b-bb41-fb3347ab9ced_818611_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/7/27/f484d79d-74cd-4e94-8fd2-6e8f980d9bf5_818611_5.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/21/aeae301b-7236-4f10-bad8-59f17ac7a2ae_818611_8.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/21/6a4069e5-b5b4-4f20-ba66-5ac8c4d660d0_818611_9.png"
+        ],
+        "mrp": "79",
+        "offer_price": "49",
+        "quantity": "80 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--6UK5YL138Q",
+        "rating": 4.4,
+        "rating_count": 22300,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 40,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "TZICTBSDKP",
+        "name": "Peanut Butter High Protein Cookies, 28% Peanut Butter",
+        "brand": "The Baker's Dozen",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/29/bf7c23fe-4a4c-4d30-992f-b1053e8415ea_1. Front_MN_a0acea48-3718-4473-8a7f-3065e97be58d.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/29/37089a6a-b1af-41cc-9829-41b91e06719c_2. Pack_AL1_a3c883db-24ab-47f8-a7f9-e2db6dfa5d9c.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/29/716466ac-b0c1-472e-b2b8-e920ee19b888_9. Packaging Might Vary_AL7_9fc0f9f0-2da0-48c7-9f59-15caecc6c2c3.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/6/1/c6969ce4-7079-4dcc-abab-257a5c0ce109_22398_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/29/b5365c4f-c644-449f-8077-16f1de350f9c_3. USP_AL2_a6b94d84-bf80-4fc0-92b1-f013613783eb.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/29/68ce14b6-abed-4cb6-9f26-d1b64d7257a1_6. Back_BK_4188baa0-3ae6-4ae1-ad8e-5c8fe434829b.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/6/1/f840f0d8-c023-4d97-bacb-e19c9de83d61_22398_9.png"
+        ],
+        "mrp": "210",
+        "offer_price": "176",
+        "quantity": "75 g x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--TZICTBSDKP",
+        "rating": 4.3,
+        "rating_count": 3300,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 41,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "TZICTBSDKP",
+        "name": "Peanut Butter High Protein Cookies, 28% Peanut Butter",
+        "brand": "The Baker's Dozen",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/29/bf7c23fe-4a4c-4d30-992f-b1053e8415ea_1. Front_MN_a0acea48-3718-4473-8a7f-3065e97be58d.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/29/37089a6a-b1af-41cc-9829-41b91e06719c_2. Pack_AL1_a3c883db-24ab-47f8-a7f9-e2db6dfa5d9c.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/29/716466ac-b0c1-472e-b2b8-e920ee19b888_9. Packaging Might Vary_AL7_9fc0f9f0-2da0-48c7-9f59-15caecc6c2c3.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/6/1/c6969ce4-7079-4dcc-abab-257a5c0ce109_22398_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/29/b5365c4f-c644-449f-8077-16f1de350f9c_3. USP_AL2_a6b94d84-bf80-4fc0-92b1-f013613783eb.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/29/68ce14b6-abed-4cb6-9f26-d1b64d7257a1_6. Back_BK_4188baa0-3ae6-4ae1-ad8e-5c8fe434829b.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/6/1/f840f0d8-c023-4d97-bacb-e19c9de83d61_22398_9.png"
+        ],
+        "mrp": "105",
+        "offer_price": "88",
+        "quantity": "75 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--TZICTBSDKP",
+        "rating": 4.3,
+        "rating_count": 3300,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 41,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "WNNDJ7PSEX",
+        "name": "Butter Biscuit (Freshly Baked)",
+        "brand": "Iyengar's Bakery",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/18/62ddbea3-3d34-416d-aef6-103a0c80da7f_VH7NNZJHNV_MN_17122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/4/24/288c57da-d2a6-4a4f-abee-04c8b8110e14_biscuits_VH7NNZJHNV_AL1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/28/f6fb7b2e-26b8-407f-b85b-a9597fe3728d_biscuits_VH7NNZJHNV_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/28/078bff54-e225-4fac-94d9-d6c27615e364_biscuits_VH7NNZJHNV_AL4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/28/3b88efd8-a540-44d6-8489-0f08b46e4ad3_biscuits_VH7NNZJHNV_AL5.png"
+        ],
+        "mrp": "109",
+        "offer_price": "109",
+        "quantity": "200 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--WNNDJ7PSEX",
+        "rating": 4.4,
+        "rating_count": 797,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 42,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "1LGIUT95S7",
+        "name": "Butter Cookies",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/3/792533b6-00c7-44eb-90d2-49abb674b3b2_377456_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/3/64b81d3d-834f-4a86-a7da-e0015ee8ca94_377456_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/3/e6ac1b8f-a30f-400c-9236-dc5700aa11c5_377456_3.png"
+        ],
+        "mrp": "85",
+        "offer_price": "59",
+        "quantity": "200 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--1LGIUT95S7",
+        "rating": 4.5,
+        "rating_count": 601,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 43,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "IJIRSQ9WVB",
+        "name": "Chocolate Creamy Peanut Butter",
+        "brand": "Disano",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/10/60287580-8d14-4156-9698-4b7508429f3f_325465_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/10/e01ada60-8a63-4a73-b0a3-3c5c92ceac07_325465_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/10/479bf72e-8683-4daa-be3d-d8243a5ce9a8_325465_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/10/da7fb22f-58a5-4fca-8ef3-af8f71dddbd4_325465_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/10/df024855-ad1e-49d3-85a0-eb2b05d8fce6_325465_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/10/47051169-542e-4f81-8303-ded4227cf55d_325465_6.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/10/e0d5785c-a532-423c-8cdb-d26622dc43cf_325465_7.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/8/10/e4d7c746-5f7a-428a-a311-5ff62ff5376b_325465_8.png"
+        ],
+        "mrp": "250",
+        "offer_price": "79",
+        "quantity": "350 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--IJIRSQ9WVB",
+        "rating": 4.4,
+        "rating_count": 3200,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 44,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "IYCL1MG4I2",
+        "name": "Peanut Butter Protein Bar (Date Sweetened)",
+        "brand": "The Whole Truth",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/5/13/93c2825c-8d89-425c-a8b2-6b2bb708c713_7_9ccabb57-85a1-414e-91d6-7a7389f77eec.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/5/13/2ffec52d-392e-46fc-991f-862bb0ac7e62_8_8aaee241-d372-4799-aa8f-3b534b328470.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/5/13/c66238ea-fdc5-47e0-a2af-536b3928f173_3_AL2_e4f288dc-fc22-466e-b4b6-82bf9b3227f3.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/1/30/0d9b16f4-dd7a-41d5-8519-49acf5682a4d_4688_3.png"
+        ],
+        "mrp": "130",
+        "offer_price": "107",
+        "quantity": "52 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--IYCL1MG4I2",
+        "rating": 4.4,
+        "rating_count": 903,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 45,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "IYCL1MG4I2",
+        "name": "Peanut Butter Protein Bar (Date Sweetened)",
+        "brand": "The Whole Truth",
+        "available": false,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/5/13/93c2825c-8d89-425c-a8b2-6b2bb708c713_7_9ccabb57-85a1-414e-91d6-7a7389f77eec.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/5/13/2ffec52d-392e-46fc-991f-862bb0ac7e62_8_8aaee241-d372-4799-aa8f-3b534b328470.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/5/13/c66238ea-fdc5-47e0-a2af-536b3928f173_3_AL2_e4f288dc-fc22-466e-b4b6-82bf9b3227f3.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/1/30/0d9b16f4-dd7a-41d5-8519-49acf5682a4d_4688_3.png"
+        ],
+        "mrp": "260",
+        "offer_price": "209",
+        "quantity": "52 g x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--IYCL1MG4I2",
+        "rating": 4.4,
+        "rating_count": 903,
+        "inventory": 0,
+        "is_ad": false,
+        "rank": 45,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "ACXTN5TXEL",
+        "name": "Butter Murukku (No Palm Oil Namkeen & Snacks)",
+        "brand": "NOICE",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/4/24/81e69780-dd61-42d7-888c-b9d114818235_408506-1.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/3/26/64ce2ef5-186d-4362-b0e1-a1d370cdd79d_408506-2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/8/11/ddf64f93-f925-435a-9da5-b50a496ec95d_buttermurukkual3.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/21/3652830e-70eb-4ff5-accb-c5193c36076d_408506_AL3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/8/11/b629de30-a413-4161-9898-b649bc776089_buttermurukkual2.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/21/d1e997f3-33f7-4ade-b55a-e4fc93ccb816_408506_AL7.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/21/b65599ce-54df-4723-a1e9-27d5be392fb6_408506_AL8.png"
+        ],
+        "mrp": "264",
+        "offer_price": "220",
+        "quantity": "100 g x 4",
+        "deeplink": "https://www.swiggy.com/instamart/p/--ACXTN5TXEL",
+        "rating": 4.2,
+        "rating_count": 4100,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 46,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "ACXTN5TXEL",
+        "name": "Butter Murukku (No Palm Oil Namkeen & Snacks)",
+        "brand": "NOICE",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/4/24/81e69780-dd61-42d7-888c-b9d114818235_408506-1.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/3/26/64ce2ef5-186d-4362-b0e1-a1d370cdd79d_408506-2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/8/11/ddf64f93-f925-435a-9da5-b50a496ec95d_buttermurukkual3.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/21/3652830e-70eb-4ff5-accb-c5193c36076d_408506_AL3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/8/11/b629de30-a413-4161-9898-b649bc776089_buttermurukkual2.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/21/d1e997f3-33f7-4ade-b55a-e4fc93ccb816_408506_AL7.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/21/b65599ce-54df-4723-a1e9-27d5be392fb6_408506_AL8.png"
+        ],
+        "mrp": "132",
+        "offer_price": "110",
+        "quantity": "100 g x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--ACXTN5TXEL",
+        "rating": 4.2,
+        "rating_count": 4100,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 46,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "ACXTN5TXEL",
+        "name": "Butter Murukku (No Palm Oil Namkeen & Snacks)",
+        "brand": "NOICE",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/4/24/81e69780-dd61-42d7-888c-b9d114818235_408506-1.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/3/26/64ce2ef5-186d-4362-b0e1-a1d370cdd79d_408506-2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/8/11/ddf64f93-f925-435a-9da5-b50a496ec95d_buttermurukkual3.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/21/3652830e-70eb-4ff5-accb-c5193c36076d_408506_AL3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/8/11/b629de30-a413-4161-9898-b649bc776089_buttermurukkual2.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/21/d1e997f3-33f7-4ade-b55a-e4fc93ccb816_408506_AL7.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/2/21/b65599ce-54df-4723-a1e9-27d5be392fb6_408506_AL8.png"
+        ],
+        "mrp": "66",
+        "offer_price": "55",
+        "quantity": "100 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--ACXTN5TXEL",
+        "rating": 4.2,
+        "rating_count": 4100,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 46,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "R65CRNV6YY",
+        "name": "Prolife Probiotic Butter Milk",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/17/d7119a74-60a3-448b-b293-4f4029740391_G9C6YC1IR2_MN_16122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/5/14/42c8b63e-3bda-4894-9b06-eabc6be7bfeb_867924_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/5/14/16c8e44f-70c6-498d-a4fa-f98f753d9e6a_867924_3.png"
+        ],
+        "mrp": "35",
+        "offer_price": "35",
+        "quantity": "500 ml",
+        "deeplink": "https://www.swiggy.com/instamart/p/--R65CRNV6YY",
+        "rating": 4.6,
+        "rating_count": 5900,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 47,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "CWE6MS0ZUD",
+        "name": "Ready To Eat Popcorn | Butter Flavour| On-the-go Snacks",
+        "brand": "Act II",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/23/31cce026-c7d8-4855-8a0e-14dab9995ac4_1_e3225d35-d6bb-4cd0-93d2-84ee0f9b1ae1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/23/9a8baec8-cc61-457e-9aa7-7f087d7e1f59_mn_bg_removed_AL14_300d41f6-ea55-4ac0-a338-4b92b35851f4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/23/35f0677a-0e18-4360-a66a-f00dbd0d5239_2_1e55cbbd-e694-42b3-82fe-0faa323bed1d.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/3/17/82d85610-ff6d-45f7-8d09-56b6f9465cd5_15195_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/3/17/cab1ad77-39f6-4421-aa80-d5a75b27a1f1_15195_7.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/3/17/107b7383-7ad7-4af3-ae37-097b3ae283d5_15195_12.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/3/17/9da47b6c-b36d-4405-a362-9f4a1edc2e94_15195_14.png"
+        ],
+        "mrp": "75",
+        "offer_price": "75",
+        "quantity": "47 g x 3",
+        "deeplink": "https://www.swiggy.com/instamart/p/--CWE6MS0ZUD",
+        "rating": 4.5,
+        "rating_count": 42500,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 48,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "CWE6MS0ZUD",
+        "name": "Ready To Eat Popcorn | Butter Flavour| On-the-go Snacks",
+        "brand": "Act II",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/23/31cce026-c7d8-4855-8a0e-14dab9995ac4_1_e3225d35-d6bb-4cd0-93d2-84ee0f9b1ae1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/23/9a8baec8-cc61-457e-9aa7-7f087d7e1f59_mn_bg_removed_AL14_300d41f6-ea55-4ac0-a338-4b92b35851f4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/23/35f0677a-0e18-4360-a66a-f00dbd0d5239_2_1e55cbbd-e694-42b3-82fe-0faa323bed1d.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/3/17/82d85610-ff6d-45f7-8d09-56b6f9465cd5_15195_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/3/17/cab1ad77-39f6-4421-aa80-d5a75b27a1f1_15195_7.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/3/17/107b7383-7ad7-4af3-ae37-097b3ae283d5_15195_12.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/3/17/9da47b6c-b36d-4405-a362-9f4a1edc2e94_15195_14.png"
+        ],
+        "mrp": "50",
+        "offer_price": "50",
+        "quantity": "47 g x 2",
+        "deeplink": "https://www.swiggy.com/instamart/p/--CWE6MS0ZUD",
+        "rating": 4.5,
+        "rating_count": 42500,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 48,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "CWE6MS0ZUD",
+        "name": "Ready To Eat Popcorn | Butter Flavour| On-the-go Snacks",
+        "brand": "Act II",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/23/31cce026-c7d8-4855-8a0e-14dab9995ac4_1_e3225d35-d6bb-4cd0-93d2-84ee0f9b1ae1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/23/9a8baec8-cc61-457e-9aa7-7f087d7e1f59_mn_bg_removed_AL14_300d41f6-ea55-4ac0-a338-4b92b35851f4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/6/23/35f0677a-0e18-4360-a66a-f00dbd0d5239_2_1e55cbbd-e694-42b3-82fe-0faa323bed1d.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/3/17/82d85610-ff6d-45f7-8d09-56b6f9465cd5_15195_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/3/17/cab1ad77-39f6-4421-aa80-d5a75b27a1f1_15195_7.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/3/17/107b7383-7ad7-4af3-ae37-097b3ae283d5_15195_12.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2026/3/17/9da47b6c-b36d-4405-a362-9f4a1edc2e94_15195_14.png"
+        ],
+        "mrp": "25",
+        "offer_price": "25",
+        "quantity": "47 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--CWE6MS0ZUD",
+        "rating": 4.5,
+        "rating_count": 42500,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 48,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "20S11WSDNW",
+        "name": "Butter Cup Cake",
+        "brand": "Elite",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2025/12/18/fd625a1e-87d2-47ef-aeae-a8cd9eacf836_NQCL54SR08_MN_17122025.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/6/26/a2247f21-06f4-4f83-a91a-f0326c544922_743814_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/6/26/711bb5ff-f4db-4cd2-a4d1-6a8f512cd0ee_743814_3.png"
+        ],
+        "mrp": "53",
+        "offer_price": "48",
+        "quantity": "170 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--20S11WSDNW",
+        "rating": 4.5,
+        "rating_count": 6100,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 49,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      },
+      {
+        "id": "UBLJSTORNI",
+        "name": "No Maida Butter Crust Milk Bread",
+        "brand": "Baker's Loaf",
+        "available": true,
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/3/31/b1c83406-ded2-4d65-ba0f-1f44ea3c0bfc_NPI-119908_1_20260331_074018.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/3/31/cce7d4af-cb27-4667-9d43-45b87c986866_NPI-119908_2_20260331_074019.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/3/31/490dd54a-2853-4424-bd9f-3819c8c2780f_NPI-119908_3_20260331_074019.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/3/31/6905ee8a-586b-4706-93ab-1bd0f0bbb7f8_NPI-119908_4_20260331_074020.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/3/31/a1cdcf95-6ae8-406c-81c7-f553aad98c9b_NPI-119908_5_20260331_074020.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/3/31/c241ac8a-9ed6-426d-a6f5-fb108956206b_NPI-119908_6_20260331_074020.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/ciw/2026/3/31/28bf2d65-f5d1-4e45-b98c-07680c0c4b90_NPI-119908_7_20260331_074021.png"
+        ],
+        "mrp": "90",
+        "offer_price": "85",
+        "quantity": "350 g",
+        "deeplink": "https://www.swiggy.com/instamart/p/--UBLJSTORNI",
+        "rating": 4.4,
+        "rating_count": 411,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 50,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "store_id": "1405035"
+      }
+    ]
+  }
+}

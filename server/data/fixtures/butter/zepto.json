@@ -1,0 +1,764 @@
+{
+  "status": "success",
+  "request_id": "2ca93fd0-3351-4a17-8438-3ac5bb831862",
+  "credits_remaining": 74,
+  "data": {
+    "query": "butter",
+    "platform": "Zepto",
+    "lat": 12.9716,
+    "lon": 77.6412,
+    "total_results": 30,
+    "products": [
+      {
+        "id": "7b9f1535-30f4-4d8c-92c8-17a4ed39a9b9",
+        "name": "Table Butter",
+        "brand": "Heritage",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c7773daa-1eca-445e-abb8-691c507721d1.jpg"
+        ],
+        "mrp": 70.0,
+        "offer_price": 67.0,
+        "quantity": "1 pack (100 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/7b9f1535-30f4-4d8c-92c8-17a4ed39a9b9",
+        "rating": 5,
+        "rating_count": 2619,
+        "inventory": 19,
+        "is_ad": false,
+        "rank": 1,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "1685c097-3845-4e73-be56-9910c3391c0c",
+        "name": "Unsalted Cooking Butter",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/238198ac-e000-47e7-a0e4-3b0c3b98cb34.jpeg"
+        ],
+        "mrp": 65.0,
+        "offer_price": 65.0,
+        "quantity": "1 pack (100 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/1685c097-3845-4e73-be56-9910c3391c0c",
+        "rating": 4.7,
+        "rating_count": 29259,
+        "inventory": 33,
+        "is_ad": false,
+        "rank": 2,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "e600868b-693e-4f8b-ae63-23aade3cb112",
+        "name": "Delicious Fat Spread - Cholesterol Free",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/9a6ce510-2ce2-4760-bf45-3f09629d2471.jpeg"
+        ],
+        "mrp": 25.0,
+        "offer_price": 25.0,
+        "quantity": "1 pack (100 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/e600868b-693e-4f8b-ae63-23aade3cb112",
+        "rating": 4.6,
+        "rating_count": 96373,
+        "inventory": 6,
+        "is_ad": false,
+        "rank": 3,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "bb3b57c0-4a26-4c7b-8ff2-9e50ee19bb51",
+        "name": "Garlic & Herbs Buttery Spread",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d2ba7227-a1c2-4881-b613-dac4c8501e8e.jpeg"
+        ],
+        "mrp": 75.0,
+        "offer_price": 74.0,
+        "quantity": "1 pack (100 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/bb3b57c0-4a26-4c7b-8ff2-9e50ee19bb51",
+        "rating": 4.7,
+        "rating_count": 46869,
+        "inventory": 15,
+        "is_ad": false,
+        "rank": 4,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "5fe7ad1b-0036-4356-9d18-cda79c1c6f88",
+        "name": "Butter Chiplet",
+        "brand": "Milky Mist",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7d87c6fd-c971-4b6b-91e7-a3a9892f6f1a.png"
+        ],
+        "mrp": 90.0,
+        "offer_price": 85.0,
+        "quantity": "1 pack (10 x 10 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/5fe7ad1b-0036-4356-9d18-cda79c1c6f88",
+        "rating": 4.8,
+        "rating_count": 4078,
+        "inventory": 12,
+        "is_ad": false,
+        "rank": 5,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "9735d632-cbce-4790-8db7-f7bf3d38c5c9",
+        "name": "Organic Unsalted Cooking Butter",
+        "brand": "Akshayakalpa",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1df4a574-e884-4c74-a061-f708a2d5572a.jpg"
+        ],
+        "mrp": 114.0,
+        "offer_price": 113.0,
+        "quantity": "1 pack (100 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/9735d632-cbce-4790-8db7-f7bf3d38c5c9",
+        "rating": 4.8,
+        "rating_count": 453,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 6,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "7616a7d1-abd7-4e30-ae4e-e364710b9bc8",
+        "name": "Cooking Butter Unsalted",
+        "brand": "Milky Mist",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3233a87c-f6dc-4aab-84ec-637d91cbcad9.jpeg"
+        ],
+        "mrp": 85.0,
+        "offer_price": 83.0,
+        "quantity": "1 pack (100 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/7616a7d1-abd7-4e30-ae4e-e364710b9bc8",
+        "rating": 4.7,
+        "rating_count": 12049,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 7,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "98507230-5aaf-46b3-90c2-69c86786a994",
+        "name": "Delicious Fat Spread - Cholesterol Free",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a7da26d1-33d9-4d69-8c41-7d614bf57ac9.jpeg"
+        ],
+        "mrp": 117.0,
+        "offer_price": 117.0,
+        "quantity": "1 pack (500 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/98507230-5aaf-46b3-90c2-69c86786a994",
+        "rating": 4.7,
+        "rating_count": 43605,
+        "inventory": 6,
+        "is_ad": false,
+        "rank": 8,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "ef66cec9-239c-4fdd-989c-571df1d8947b",
+        "name": "Activ Plant Based Buttery Spread - Garlic & Herbs",
+        "brand": "Nutralite",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f6593a15-86dc-4125-b4a1-d894440bea2b.jpeg"
+        ],
+        "mrp": 97.0,
+        "offer_price": 68.0,
+        "quantity": "1 pack (100 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/ef66cec9-239c-4fdd-989c-571df1d8947b",
+        "rating": 4.4,
+        "rating_count": 732,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 9,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "84f8b683-8a8c-48a9-a44d-aa38b1f7cff1",
+        "name": "Organic Salted Table Butter",
+        "brand": "Akshayakalpa",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/5c274a7d-7d40-468e-b8f7-261013ea55bb.jpg"
+        ],
+        "mrp": 118.0,
+        "offer_price": 118.0,
+        "quantity": "1 pack (100 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/84f8b683-8a8c-48a9-a44d-aa38b1f7cff1",
+        "rating": 4.5,
+        "rating_count": 139,
+        "inventory": 2,
+        "is_ad": false,
+        "rank": 10,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "b10d82d4-24a8-4176-ab10-d565ce63e2c1",
+        "name": "Doodhshakti Probiotic Butter Spread",
+        "brand": "Nutralite",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1c0a82c6-6c88-46cb-bc54-144aebd7aa2e.jpg"
+        ],
+        "mrp": 65.0,
+        "offer_price": 62.0,
+        "quantity": "1 pack (100 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/b10d82d4-24a8-4176-ab10-d565ce63e2c1",
+        "rating": 4.7,
+        "rating_count": 7252,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 11,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "a3cc11d8-a12d-4ffe-a005-114bcab2ed5b",
+        "name": "Table Butter Tub",
+        "brand": "Milky Mist",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/cbc99615-b1c3-4cc8-b771-c92279c7647e.jpeg"
+        ],
+        "mrp": 165.0,
+        "offer_price": 156.0,
+        "quantity": "1 pack (200 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/a3cc11d8-a12d-4ffe-a005-114bcab2ed5b",
+        "rating": 4.8,
+        "rating_count": 213,
+        "inventory": 3,
+        "is_ad": false,
+        "rank": 12,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "44eff39d-5e2f-4d80-b482-6e65fa0fb165",
+        "name": "Activ Fat Spread Omega 3",
+        "brand": "Nutralite",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/474bd979-f513-4e87-841e-5fb9b784dcf2.jpg"
+        ],
+        "mrp": 62.0,
+        "offer_price": 57.0,
+        "quantity": "1 pack (100 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/44eff39d-5e2f-4d80-b482-6e65fa0fb165",
+        "rating": 4.7,
+        "rating_count": 3238,
+        "inventory": 2,
+        "is_ad": false,
+        "rank": 13,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "cd685c9c-748b-4ac3-9281-701d66954c65",
+        "name": "Lite Spread",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e9ddd194-81a7-4b0e-8caa-77f2a0192a52.jpeg"
+        ],
+        "mrp": 50.0,
+        "offer_price": 50.0,
+        "quantity": "1 pack (100 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/cd685c9c-748b-4ac3-9281-701d66954c65",
+        "rating": 4.7,
+        "rating_count": 12584,
+        "inventory": 2,
+        "is_ad": false,
+        "rank": 14,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "18fa8072-a91b-4cb7-ab28-c9f7a0d1404f",
+        "name": "Table Butter",
+        "brand": "Milky Mist",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d5ed3a6f-0f74-4135-bfdc-0f2876f79b3e.jpeg"
+        ],
+        "mrp": 85.0,
+        "offer_price": 73.0,
+        "quantity": "1 pack (100 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/18fa8072-a91b-4cb7-ab28-c9f7a0d1404f",
+        "rating": 4.6,
+        "rating_count": 2974,
+        "inventory": 17,
+        "is_ad": false,
+        "rank": 15,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "cde95315-d6f1-4ccd-8af4-f9acd08bfbd2",
+        "name": "Organic Salted Table Butter",
+        "brand": "Akshayakalpa",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e27bbf74-950d-41e9-9e77-2aa0a8bdf55c.jpg"
+        ],
+        "mrp": 236.0,
+        "offer_price": 236.0,
+        "quantity": "1 pack (200 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/cde95315-d6f1-4ccd-8af4-f9acd08bfbd2",
+        "rating": 4,
+        "rating_count": 175,
+        "inventory": 2,
+        "is_ad": false,
+        "rank": 16,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "2a94aa3c-721e-452f-a7c3-7ddc2598d02b",
+        "name": "Organic Unsalted Cooking Butter",
+        "brand": "Akshayakalpa",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f3aeee09-d3dc-47c7-8e9a-0ba1742d81f9.jpg"
+        ],
+        "mrp": 228.0,
+        "offer_price": 228.0,
+        "quantity": "1 pack (200 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/2a94aa3c-721e-452f-a7c3-7ddc2598d02b",
+        "rating": 4.5,
+        "rating_count": 399,
+        "inventory": 2,
+        "is_ad": false,
+        "rank": 17,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "8da0c985-dc37-495c-a8bd-6019c120cb44",
+        "name": "Salted Butter",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e15c0b10-0367-4675-a5ab-6da2abf9bee1.jpeg"
+        ],
+        "mrp": 63.0,
+        "offer_price": 63.0,
+        "quantity": "1 pack (100 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/8da0c985-dc37-495c-a8bd-6019c120cb44",
+        "rating": 4.8,
+        "rating_count": 831854,
+        "inventory": 66,
+        "is_ad": false,
+        "rank": 18,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "3abef2db-a394-442e-87dc-2cd9ac007e06",
+        "name": "Doodhshakti Probiotic Butter Spread",
+        "brand": "Nutralite",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a35446b7-dc5b-4c2b-b0cc-05c5b84d9490.jpg"
+        ],
+        "mrp": 305.0,
+        "offer_price": 281.0,
+        "quantity": "1 pack (500 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/3abef2db-a394-442e-87dc-2cd9ac007e06",
+        "rating": 4.8,
+        "rating_count": 2815,
+        "inventory": 2,
+        "is_ad": false,
+        "rank": 19,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "0acb07c2-6c83-4eab-920a-8b931a7ae72d",
+        "name": "Cooking Butter Unsalted",
+        "brand": "Milky Mist",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/5acce062-beb2-4aa3-a8bc-d07b6752ee58.jpeg"
+        ],
+        "mrp": 400.0,
+        "offer_price": 387.0,
+        "quantity": "1 pack (500 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/0acb07c2-6c83-4eab-920a-8b931a7ae72d",
+        "rating": 4.7,
+        "rating_count": 1863,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 20,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "78cc86ad-4eae-4667-9e6d-7e4ec018fe90",
+        "name": "Salted Butter",
+        "brand": "Nandini",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/009a9db5-58ad-4638-8b5d-1e5fd1776b79.jpg"
+        ],
+        "mrp": 80.0,
+        "offer_price": 80.0,
+        "quantity": "100 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/78cc86ad-4eae-4667-9e6d-7e4ec018fe90",
+        "rating": 4.7,
+        "rating_count": 144,
+        "inventory": 6,
+        "is_ad": false,
+        "rank": 21,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "d3477075-f8fa-4f9a-be8a-52357c75c354",
+        "name": "Activ Plant Based Buttery Spread - Olive",
+        "brand": "Nutralite",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8d096165-27be-4ba5-9687-1648434ffd12.jpeg"
+        ],
+        "mrp": 97.0,
+        "offer_price": 68.0,
+        "quantity": "1 pack (100 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/d3477075-f8fa-4f9a-be8a-52357c75c354",
+        "rating": 4.7,
+        "rating_count": 697,
+        "inventory": 3,
+        "is_ad": false,
+        "rank": 22,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "9073e6b5-ede7-44d2-b46b-5a7db12e0b6c",
+        "name": "Doodhshakti Probiotic Butter Spread Tub",
+        "brand": "Nutralite",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/da08e31d-4a7e-4ddf-9226-34decc29cb12.jpg"
+        ],
+        "mrp": 325.0,
+        "offer_price": 292.0,
+        "quantity": "1 pack (500 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/9073e6b5-ede7-44d2-b46b-5a7db12e0b6c",
+        "rating": 4.7,
+        "rating_count": 1298,
+        "inventory": 2,
+        "is_ad": false,
+        "rank": 23,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "a91b6bf4-a550-4955-af20-0b6d8ba929e6",
+        "name": "Choco Buttery Spread",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c895abff-8bad-4d92-9963-3c07f9aaeee9.jpeg"
+        ],
+        "mrp": 125.0,
+        "offer_price": 125.0,
+        "quantity": "1 pack (200 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/a91b6bf4-a550-4955-af20-0b6d8ba929e6",
+        "rating": 4.2,
+        "rating_count": 22,
+        "inventory": 2,
+        "is_ad": false,
+        "rank": 24,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "24629217-fd45-4426-934b-e0b5e62a25cb",
+        "name": "Butter by Asako Yuzuki",
+        "brand": "Crossword",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/86170180-f038-45d8-8f7d-c252adc101c5.jpg"
+        ],
+        "mrp": 599.0,
+        "offer_price": 599.0,
+        "quantity": "1 pc",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/24629217-fd45-4426-934b-e0b5e62a25cb",
+        "rating": null,
+        "rating_count": null,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 25,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "dfe06cb4-e8c7-48f5-bd9e-571703f12b89",
+        "name": "Butter Chiplets",
+        "brand": "Nandini",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f286dc36-dd29-4f59-901e-824a1e362fe4.jpg"
+        ],
+        "mrp": 80.0,
+        "offer_price": 79.0,
+        "quantity": "1 pack (10 x 10 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/dfe06cb4-e8c7-48f5-bd9e-571703f12b89",
+        "rating": null,
+        "rating_count": null,
+        "inventory": 5,
+        "is_ad": false,
+        "rank": 26,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "0bcd8497-3c8a-4400-9531-c6651db54fd8",
+        "name": "Table Butter",
+        "brand": "Heritage",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/5fb5d450-2f01-480a-9c5e-2733b1767af6.jpeg"
+        ],
+        "mrp": 350.0,
+        "offer_price": 297.0,
+        "quantity": "1 pack (500 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/0bcd8497-3c8a-4400-9531-c6651db54fd8",
+        "rating": 4.7,
+        "rating_count": 286,
+        "inventory": 2,
+        "is_ad": false,
+        "rank": 27,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "5aa0a05f-477d-484a-b4e7-d3bbfed7861e",
+        "name": "Cooking Butter",
+        "brand": "Heritage",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/64780e86-dbdf-400e-b1aa-eb85e462a1a9.png"
+        ],
+        "mrp": 365.0,
+        "offer_price": 340.0,
+        "quantity": "1 pack (500 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/5aa0a05f-477d-484a-b4e7-d3bbfed7861e",
+        "rating": 4.6,
+        "rating_count": 358,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 28,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "ef4831c2-f32d-4bd7-91f7-5e9a72798509",
+        "name": "Butter Chiplet",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/cf822ce2-2fa7-46e4-9ba9-2ea00d7e1902.jpeg"
+        ],
+        "mrp": 635.0,
+        "offer_price": 635.0,
+        "quantity": "1 pack (50 x 20 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/ef4831c2-f32d-4bd7-91f7-5e9a72798509",
+        "rating": 4.3,
+        "rating_count": 365,
+        "inventory": 2,
+        "is_ad": false,
+        "rank": 29,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "103e37cd-55f4-4f0b-b2e3-21b357dd7d60",
+        "name": "Table Butter Salted (Carton)",
+        "brand": "Nandini",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/67852270-e3eb-42fb-ba57-eb02b223115a.jpg"
+        ],
+        "mrp": 340.0,
+        "offer_price": 310.0,
+        "quantity": "1 pack (500 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/103e37cd-55f4-4f0b-b2e3-21b357dd7d60",
+        "rating": 4.7,
+        "rating_count": 663,
+        "inventory": 2,
+        "is_ad": false,
+        "rank": 30,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      }
+    ]
+  }
+}

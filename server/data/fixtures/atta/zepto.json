@@ -1,0 +1,664 @@
+{
+  "status": "success",
+  "request_id": "5a0a5cb5-4494-4da4-92ba-15a5b18cb895",
+  "credits_remaining": 78,
+  "data": {
+    "query": "atta",
+    "platform": "Zepto",
+    "lat": 12.9716,
+    "lon": 77.6412,
+    "total_results": 26,
+    "products": [
+      {
+        "id": "ae6045b0-0526-4401-8a18-cb55592249e6",
+        "name": "Superior MP Wheat Atta, 0% Maida | Aashirvaad",
+        "brand": "Aashirvaad",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/74ab1216-6c34-42bb-9165-a2194bfd78da.jpeg"
+        ],
+        "mrp": 75.0,
+        "offer_price": 64.0,
+        "quantity": "1 pack (1 kg)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/ae6045b0-0526-4401-8a18-cb55592249e6",
+        "rating": 4.7,
+        "rating_count": 159885,
+        "inventory": 29,
+        "is_ad": false,
+        "rank": 1,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "28c6faa7-b304-4f9f-b1b3-8ba1a7b13009",
+        "name": "Right Shift High Protein Multigrain+ Atta | High Fibre, Low GI",
+        "brand": "Right Shift Atta",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/fd7fbc3b-0afb-4b32-91e1-01b418d54b33.jpg"
+        ],
+        "mrp": 449.0,
+        "offer_price": 307.0,
+        "quantity": "1 pc (5 kg)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/28c6faa7-b304-4f9f-b1b3-8ba1a7b13009",
+        "rating": 4.2,
+        "rating_count": 665,
+        "inventory": 2,
+        "is_ad": true,
+        "rank": 2,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "dc7e77e0-3cb3-4a6f-a0fb-bf35f131e184",
+        "name": "Superior MP Wheat Atta, 0% Maida | Aashirvaad",
+        "brand": "Aashirvaad",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f05fda6c-2c04-4f04-983a-742627470c96.jpeg"
+        ],
+        "mrp": 116.0,
+        "offer_price": 106.0,
+        "quantity": "1 pack (2 kg)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/dc7e77e0-3cb3-4a6f-a0fb-bf35f131e184",
+        "rating": 4.7,
+        "rating_count": 29499,
+        "inventory": 11,
+        "is_ad": false,
+        "rank": 3,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "16806c97-f2dc-4374-9a1c-c2a45376d0f8",
+        "name": "High Fibre Atta with Multigrains | 3 Rotis fulfil 35% Daily Fibre",
+        "brand": "Aashirvaad",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/edffdd35-273e-4d2c-b028-fe8441be97d8.jpg"
+        ],
+        "mrp": 412.0,
+        "offer_price": 323.0,
+        "quantity": "1 pack (5 kg)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/16806c97-f2dc-4374-9a1c-c2a45376d0f8",
+        "rating": 4.6,
+        "rating_count": 34161,
+        "inventory": 3,
+        "is_ad": true,
+        "rank": 4,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "56d997f6-b45a-48bf-823d-c9b5acd6ac8f",
+        "name": "Superior MP Wheat Atta, 0% Maida | Aashirvaad",
+        "brand": "Aashirvaad",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/9a302f27-7a21-4e0d-8fb2-786ff3a0084d.jpeg"
+        ],
+        "mrp": 358.0,
+        "offer_price": 303.0,
+        "quantity": "1 pack (5 kg)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/56d997f6-b45a-48bf-823d-c9b5acd6ac8f",
+        "rating": 4.7,
+        "rating_count": 45003,
+        "inventory": 11,
+        "is_ad": false,
+        "rank": 5,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "09100e95-eb80-4089-8f4a-7cad4fc65be7",
+        "name": "Chakki Fresh Atta",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/07771e18-f21e-43f5-9ebb-d7fa2a3f3772.jpeg"
+        ],
+        "mrp": 628.0,
+        "offer_price": 485.0,
+        "quantity": "1 pack (10 kg)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/09100e95-eb80-4089-8f4a-7cad4fc65be7",
+        "rating": 4.6,
+        "rating_count": 50375,
+        "inventory": 2,
+        "is_ad": true,
+        "rank": 6,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "2e1f7fe5-2d09-4282-81c7-b4eaf6b1d86d",
+        "name": "Select | Pure MP Sharbati Wheat Atta for Soft Makhmali Rotis",
+        "brand": "Aashirvaad",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/166afb5e-cb26-4ac1-9c2a-becf0d1878cf.jpg"
+        ],
+        "mrp": 412.0,
+        "offer_price": 311.0,
+        "quantity": "1 pack (5 kg)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/2e1f7fe5-2d09-4282-81c7-b4eaf6b1d86d",
+        "rating": 4.7,
+        "rating_count": 30799,
+        "inventory": 8,
+        "is_ad": true,
+        "rank": 7,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "d156ac8e-53c1-4f40-aea8-3de5b28f948d",
+        "name": "Superior MP Wheat Atta, 0% Maida | Aashirvaad",
+        "brand": "Aashirvaad",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/99b5b62d-88bc-43f8-98b3-da80feb1440e.jpeg"
+        ],
+        "mrp": 654.0,
+        "offer_price": 546.0,
+        "quantity": "1 pack (10 kg)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/d156ac8e-53c1-4f40-aea8-3de5b28f948d",
+        "rating": 4.7,
+        "rating_count": 29337,
+        "inventory": 7,
+        "is_ad": false,
+        "rank": 8,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "14a11cfe-fd72-4901-bf2e-22bc0aba21c0",
+        "name": "Chakki Fresh Atta",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ce1ec7b5-4b54-4516-a6a6-c593b30cec76.jpeg"
+        ],
+        "mrp": 360.0,
+        "offer_price": 262.0,
+        "quantity": "1 pack (5 kg)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/14a11cfe-fd72-4901-bf2e-22bc0aba21c0",
+        "rating": 4.7,
+        "rating_count": 96802,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 9,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "9a99b440-cf97-4601-b478-1b6b7ef3f17c",
+        "name": "Atta/Godihittu - Chakki Fresh",
+        "brand": "Pillsbury",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ddbff3b2-be02-4799-a088-fea4d7f74bf3.jpg"
+        ],
+        "mrp": 340.0,
+        "offer_price": 238.0,
+        "quantity": "1 pack (5 kg)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/9a99b440-cf97-4601-b478-1b6b7ef3f17c",
+        "rating": 4.6,
+        "rating_count": 26855,
+        "inventory": 5,
+        "is_ad": false,
+        "rank": 10,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "ef1e569e-003e-43af-ab90-44bc8e2271a6",
+        "name": "Right Shift High Protein Multigrain+ Atta | High Fibre, Low GI",
+        "brand": "Right Shift Atta",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/69b787eb-0f2d-4220-b19d-a6042fdfa665.jpg"
+        ],
+        "mrp": 95.0,
+        "offer_price": 72.0,
+        "quantity": "1 pc (1 kg)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/ef1e569e-003e-43af-ab90-44bc8e2271a6",
+        "rating": 4.5,
+        "rating_count": 2201,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 11,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "141c4bb0-6694-443b-a972-f8da61fdc105",
+        "name": "Chakki Fresh Atta",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4a246a4b-c574-4f4f-8b96-4996dbba29d6.jpeg"
+        ],
+        "mrp": 107.0,
+        "offer_price": 48.0,
+        "quantity": "1 pack (1 kg)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/141c4bb0-6694-443b-a972-f8da61fdc105",
+        "rating": 4.6,
+        "rating_count": 35667,
+        "inventory": 4,
+        "is_ad": false,
+        "rank": 12,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "7fe8cfde-7a16-4256-8a31-43b275c64446",
+        "name": "Swaad Chakki Atta | Truly Premium Wheat Flour",
+        "brand": "Sunpure",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/fad43f43-77c7-4374-bf2c-8b833b6ae48f.jpeg"
+        ],
+        "mrp": 65.0,
+        "offer_price": 46.0,
+        "quantity": "1 pack (1 kg)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/7fe8cfde-7a16-4256-8a31-43b275c64446",
+        "rating": 4.6,
+        "rating_count": 4284,
+        "inventory": 7,
+        "is_ad": false,
+        "rank": 14,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "9a7eed43-18b1-4e8a-b2a5-38897c6cff87",
+        "name": "Organic Whole Wheat Atta",
+        "brand": "24 Mantra",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7b537ccc-1eee-4b26-a3b4-2733e61e6cae.jpeg"
+        ],
+        "mrp": 399.0,
+        "offer_price": 234.0,
+        "quantity": "1 pack (5 kg)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/9a7eed43-18b1-4e8a-b2a5-38897c6cff87",
+        "rating": 4.7,
+        "rating_count": 1015,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 15,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "63285fe8-22f9-4aa8-85ab-3e8fc9fce6ab",
+        "name": "Atta with Multigrains | High in Protein, Fibre & Iron | With 8 Supergrains",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ec218988-0758-4b5c-b646-d8d61660c94f.jpeg"
+        ],
+        "mrp": 386.0,
+        "offer_price": 293.0,
+        "quantity": "1 pack (5 kg)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/63285fe8-22f9-4aa8-85ab-3e8fc9fce6ab",
+        "rating": 4.4,
+        "rating_count": 671,
+        "inventory": 6,
+        "is_ad": true,
+        "rank": 17,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "4d8d3c69-074d-45bb-ab13-77f6f0e082ab",
+        "name": "Select | Pure MP Sharbati Wheat Atta for Soft Makhmali Rotis",
+        "brand": "Aashirvaad",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/add10195-8792-41b7-a9ed-4d3785dd3e87.jpg"
+        ],
+        "mrp": 85.0,
+        "offer_price": 81.0,
+        "quantity": "1 pack (1 kg)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/4d8d3c69-074d-45bb-ab13-77f6f0e082ab",
+        "rating": 4.7,
+        "rating_count": 23194,
+        "inventory": 5,
+        "is_ad": false,
+        "rank": 18,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "f91646e6-84e3-4cdd-b012-7dc6404325c3",
+        "name": "Whole Wheat Flour | Chakki Atta | 0% Maida",
+        "brand": "Organic Tattva",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/81d156f8-6956-4679-81ad-aa8888d4c312.jpeg"
+        ],
+        "mrp": 95.0,
+        "offer_price": 69.0,
+        "quantity": "1 pack (1 kg)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/f91646e6-84e3-4cdd-b012-7dc6404325c3",
+        "rating": 4.6,
+        "rating_count": 5551,
+        "inventory": 5,
+        "is_ad": true,
+        "rank": 19,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "d7ab0955-f1a3-44cc-a849-fa43a4bee931",
+        "name": "Truly Organic Whole Wheat Atta, 0% Maida",
+        "brand": "Aashirvaad",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3c74ad00-a891-4044-bc8b-fc76c5ce01de.jpg"
+        ],
+        "mrp": 86.0,
+        "offer_price": 69.0,
+        "quantity": "1 pack (1 kg)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/d7ab0955-f1a3-44cc-a849-fa43a4bee931",
+        "rating": 4.8,
+        "rating_count": 4064,
+        "inventory": 2,
+        "is_ad": false,
+        "rank": 20,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "ea559cd5-a4de-4594-8d40-d785326c8b69",
+        "name": "G Premium Atta",
+        "brand": "Parle",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1a86c3e3-8395-46e8-9a11-e22343f5974c.jpeg"
+        ],
+        "mrp": 70.0,
+        "offer_price": 54.0,
+        "quantity": "1 pack (1 kg)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/ea559cd5-a4de-4594-8d40-d785326c8b69",
+        "rating": 4.5,
+        "rating_count": 93,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 21,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "f56a2319-09f3-491d-978e-2e186e50fbe7",
+        "name": "Annapurna Chakki Whole Wheat Atta/ Pure Whole Wheat, No Maida",
+        "brand": "Annapurna Flours",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/22707aeb-f7d0-4115-afe7-69452ee464c0.jpg"
+        ],
+        "mrp": 75.0,
+        "offer_price": 57.0,
+        "quantity": "1 pack (1 kg)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/f56a2319-09f3-491d-978e-2e186e50fbe7",
+        "rating": 4.7,
+        "rating_count": 12433,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 23,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "c9cceb75-cc91-430f-ae78-398f47b8d630",
+        "name": "G Premium Atta",
+        "brand": "Parle",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f9b11b8a-8f45-4315-b7b0-bd31e824a7d2.jpg"
+        ],
+        "mrp": 310.0,
+        "offer_price": 236.0,
+        "quantity": "1 pack (5 kg)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/c9cceb75-cc91-430f-ae78-398f47b8d630",
+        "rating": 4.5,
+        "rating_count": 136,
+        "inventory": 2,
+        "is_ad": true,
+        "rank": 25,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "ef3f1913-a6e6-4bf6-a940-dc6d4651e88e",
+        "name": "High Fibre Atta with Multigrains | 3 Rotis fulfil 35% Daily Fibre",
+        "brand": "Aashirvaad",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/496107c3-e5da-4119-9273-70718fdbb98f.jpg"
+        ],
+        "mrp": 85.0,
+        "offer_price": 82.0,
+        "quantity": "1 pack (1 kg)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/ef3f1913-a6e6-4bf6-a940-dc6d4651e88e",
+        "rating": 4.7,
+        "rating_count": 26001,
+        "inventory": 7,
+        "is_ad": false,
+        "rank": 26,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "8c75e1fe-7f15-42ba-aa28-53ea22b447e4",
+        "name": "Two Brothers Khapli Multigrain Atta 8-grains-in-1",
+        "brand": "Two Brothers India Farms",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/25c925b1-8c34-4108-9836-5a96f34e335b.jpg"
+        ],
+        "mrp": 205.0,
+        "offer_price": 188.0,
+        "quantity": "1 pack (1 kg)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/8c75e1fe-7f15-42ba-aa28-53ea22b447e4",
+        "rating": 4.7,
+        "rating_count": 474,
+        "inventory": 6,
+        "is_ad": true,
+        "rank": 27,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "cb3ee4d9-7e25-499f-b0fa-e9e6264520ef",
+        "name": "Wheat Atta",
+        "brand": "BestValue",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c89c5cc4-08a3-4b9a-a91c-2c62abf91c20.png"
+        ],
+        "mrp": 280.0,
+        "offer_price": 222.0,
+        "quantity": "1 pack (5 kg)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/cb3ee4d9-7e25-499f-b0fa-e9e6264520ef",
+        "rating": 4.4,
+        "rating_count": 5264,
+        "inventory": 4,
+        "is_ad": false,
+        "rank": 28,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "c52204c0-8e23-404f-bc7e-dc0450a71696",
+        "name": "Organic Multigrain Flour | 25% Multigrain, 75% Whole Wheat",
+        "brand": "Organic Tattva",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d9965135-f7c9-4975-ac8b-08be46d6b974.jpg"
+        ],
+        "mrp": 125.0,
+        "offer_price": 102.0,
+        "quantity": "1 pack (1 kg)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/c52204c0-8e23-404f-bc7e-dc0450a71696",
+        "rating": 4.5,
+        "rating_count": 990,
+        "inventory": 4,
+        "is_ad": true,
+        "rank": 29,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "6b81904d-64e3-48a8-8218-0811995b817a",
+        "name": "Truly Organic Whole Wheat Atta, 0% Maida",
+        "brand": "Aashirvaad",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/05778b71-bf3d-47da-9be7-736d113aa99f.jpg"
+        ],
+        "mrp": 421.0,
+        "offer_price": 330.0,
+        "quantity": "1 pack (5 kg)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/6b81904d-64e3-48a8-8218-0811995b817a",
+        "rating": 4.7,
+        "rating_count": 8461,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 30,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      }
+    ]
+  }
+}

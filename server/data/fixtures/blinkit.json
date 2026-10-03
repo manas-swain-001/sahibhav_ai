@@ -1,0 +1,614 @@
+{
+  "status": "success",
+  "request_id": "d0572f8a-1b9a-4d37-8d8c-199bc4ce37b2",
+  "credits_remaining": 97,
+  "data": {
+    "query": "milk",
+    "platform": "BlinkIt",
+    "lat": 20.31820101206965,
+    "lon": 85.88835478973749,
+    "total_results": 24,
+    "products": [
+      {
+        "id": "1373627",
+        "name": "Grilled Cheese & Chilli Protein Healthy Chips",
+        "brand": "Too Yumm",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1784639103616-4.png"
+        ],
+        "mrp": 165,
+        "offer_price": 110,
+        "quantity": "2 x 60 g + 60 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/1373627",
+        "rating": 4.599999904632568,
+        "rating_count": 2015,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "12 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 46809
+      },
+      {
+        "id": "608425",
+        "name": "Premium Cow Milk",
+        "brand": "Omfed",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/06de8209-ee3b-4dbc-a58e-44c702010da2.jpg"
+        ],
+        "mrp": 29,
+        "offer_price": 29,
+        "quantity": "500 ml",
+        "deeplink": "https://blinkit.com/prn/x/prid/608425",
+        "rating": 4.5,
+        "rating_count": 16163,
+        "inventory": 12,
+        "is_ad": false,
+        "rank": 2,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "12 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 46809
+      },
+      {
+        "id": "113945",
+        "name": "Taaza Toned Milk",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4ab8fce6-77c7-4d38-b049-e334b2f33f80.jpg"
+        ],
+        "mrp": 17,
+        "offer_price": 17,
+        "quantity": "200 ml",
+        "deeplink": "https://blinkit.com/prn/x/prid/113945",
+        "rating": 4.699999809265137,
+        "rating_count": 19,
+        "inventory": 50,
+        "is_ad": false,
+        "rank": 3,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "12 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 46809
+      },
+      {
+        "id": "683938",
+        "name": "Gold Toned Milk",
+        "brand": "Pragati",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/11f38f2b-26f4-4615-b5e2-d60e2dc77203.jpg"
+        ],
+        "mrp": 32,
+        "offer_price": 32,
+        "quantity": "500 ml",
+        "deeplink": "https://blinkit.com/prn/x/prid/683938",
+        "rating": 4.599999904632568,
+        "rating_count": 8610,
+        "inventory": 12,
+        "is_ad": false,
+        "rank": 4,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "12 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 46809
+      },
+      {
+        "id": "611946",
+        "name": "Ragi Kaju Pista Cookies",
+        "brand": "Let's Try",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8f5923c9-f769-4b06-aac8-9a6b162d98ce.jpg"
+        ],
+        "mrp": 110,
+        "offer_price": 88,
+        "quantity": "100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/611946",
+        "rating": 4.5,
+        "rating_count": 2677,
+        "inventory": 5,
+        "is_ad": true,
+        "rank": 5,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "12 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 46809
+      },
+      {
+        "id": "678431",
+        "name": "Fresh Milk",
+        "brand": "Milky Moo",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/85033e00-85a4-47c2-964f-199d68ac32ba.jpg"
+        ],
+        "mrp": 32,
+        "offer_price": 32,
+        "quantity": "500 ml",
+        "deeplink": "https://blinkit.com/prn/x/prid/678431",
+        "rating": 4.5,
+        "rating_count": 3713,
+        "inventory": 10,
+        "is_ad": false,
+        "rank": 6,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "12 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 46809
+      },
+      {
+        "id": "160704",
+        "name": "Cow Milk",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8639708f-3301-4ac0-aa30-ff083c606511.jpg"
+        ],
+        "mrp": 28,
+        "offer_price": 28,
+        "quantity": "500 ml",
+        "deeplink": "https://blinkit.com/prn/x/prid/160704",
+        "rating": 4.599999904632568,
+        "rating_count": 32,
+        "inventory": 6,
+        "is_ad": false,
+        "rank": 7,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "12 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 46809
+      },
+      {
+        "id": "34778",
+        "name": "Moti Toned Milk (90 Days Shelf Life)",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/818b8e9c-739f-407d-96c0-1bd6da2b782c.jpg"
+        ],
+        "mrp": 33,
+        "offer_price": 33,
+        "quantity": "450 ml",
+        "deeplink": "https://blinkit.com/prn/x/prid/34778",
+        "rating": 4.5,
+        "rating_count": 17,
+        "inventory": 50,
+        "is_ad": false,
+        "rank": 8,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "12 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 46809
+      },
+      {
+        "id": "524695",
+        "name": "Fruit Cake Rusk with Goodness of Wheat",
+        "brand": "Let's Try",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8a6e8daf-1bb1-4b52-8b84-c5aa6f7248b1.jpg"
+        ],
+        "mrp": 220,
+        "offer_price": 126,
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/524695",
+        "rating": 4.300000190734863,
+        "rating_count": 5829,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 9,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "12 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 46809
+      },
+      {
+        "id": "176",
+        "name": "Taaza Homogenised Toned Milk",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ae18682e-7032-4201-ab10-3d5c0e453044.jpg"
+        ],
+        "mrp": 77,
+        "offer_price": 77,
+        "quantity": "1 ltr",
+        "deeplink": "https://blinkit.com/prn/x/prid/176",
+        "rating": 4.699999809265137,
+        "rating_count": 16,
+        "inventory": 50,
+        "is_ad": false,
+        "rank": 10,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "12 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 46809
+      },
+      {
+        "id": "179",
+        "name": "Gold Milk",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/90955342-1048-47b6-a03a-e59ba8c55a03.jpg"
+        ],
+        "mrp": 83,
+        "offer_price": 83,
+        "quantity": "1 ltr",
+        "deeplink": "https://blinkit.com/prn/x/prid/179",
+        "rating": 4.699999809265137,
+        "rating_count": 1,
+        "inventory": 34,
+        "is_ad": false,
+        "rank": 11,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "12 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 46809
+      },
+      {
+        "id": "206314",
+        "name": "Lactose Free Milk",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/36c02eee-a674-4019-af02-de2936e56c8f.jpg"
+        ],
+        "mrp": 26,
+        "offer_price": 26,
+        "quantity": "250 ml",
+        "deeplink": "https://blinkit.com/prn/x/prid/206314",
+        "rating": 4.599999904632568,
+        "rating_count": 91060,
+        "inventory": 50,
+        "is_ad": false,
+        "rank": 12,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "12 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 46809
+      },
+      {
+        "id": "177181",
+        "name": "Slim 'n' Trim Skimmed Milk (Zero Cholesterol)",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/64a54056-72af-4209-8780-ebc80e7da45d.jpg"
+        ],
+        "mrp": 85,
+        "offer_price": 85,
+        "quantity": "1 ltr",
+        "deeplink": "https://blinkit.com/prn/x/prid/177181",
+        "rating": 4.599999904632568,
+        "rating_count": 25539,
+        "inventory": 16,
+        "is_ad": false,
+        "rank": 13,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "12 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 46809
+      },
+      {
+        "id": "547184",
+        "name": "Cow Milk",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9a14b80f-d7b9-417f-91b7-0143a3eaec4d.jpg"
+        ],
+        "mrp": 78,
+        "offer_price": 78,
+        "quantity": "1 ltr",
+        "deeplink": "https://blinkit.com/prn/x/prid/547184",
+        "rating": 4.5,
+        "rating_count": 15031,
+        "inventory": 20,
+        "is_ad": false,
+        "rank": 14,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "12 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 46809
+      },
+      {
+        "id": "547189",
+        "name": "Calci+ Calcium Rich High Protein Milk",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/158bc971-6998-41bd-a3c8-e314a194f2cf.jpg"
+        ],
+        "mrp": 26,
+        "offer_price": 26,
+        "quantity": "250 ml",
+        "deeplink": "https://blinkit.com/prn/x/prid/547189",
+        "rating": 4.5,
+        "rating_count": 10875,
+        "inventory": 14,
+        "is_ad": false,
+        "rank": 15,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "12 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 46809
+      },
+      {
+        "id": "26915",
+        "name": "Daily Milk",
+        "brand": "Go",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/03f94c62-4740-46da-b964-0e4c441a2b9b.jpg"
+        ],
+        "mrp": 78,
+        "offer_price": 71,
+        "quantity": "1 ltr",
+        "deeplink": "https://blinkit.com/prn/x/prid/26915",
+        "rating": 4.599999904632568,
+        "rating_count": 10126,
+        "inventory": 4,
+        "is_ad": false,
+        "rank": 16,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "12 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 46809
+      },
+      {
+        "id": "216105",
+        "name": "Supremo Cow Milk",
+        "brand": "Go",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9b900f2d-2df0-4371-b0fd-674fa153a36c.jpg"
+        ],
+        "mrp": 82,
+        "offer_price": 75,
+        "quantity": "1 ltr",
+        "deeplink": "https://blinkit.com/prn/x/prid/216105",
+        "rating": 4.5,
+        "rating_count": 2406,
+        "inventory": 2,
+        "is_ad": false,
+        "rank": 17,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "12 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 46809
+      },
+      {
+        "id": "3471",
+        "name": "Probiotic Drink",
+        "brand": "Yakult",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/15b4b9ce-2391-4e45-96b5-1be0aeb216b2.jpg"
+        ],
+        "mrp": 90,
+        "offer_price": 90,
+        "quantity": "5 x 65 ml",
+        "deeplink": "https://blinkit.com/prn/x/prid/3471",
+        "rating": 4.699999809265137,
+        "rating_count": 48823,
+        "inventory": 17,
+        "is_ad": false,
+        "rank": 18,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "12 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 46809
+      },
+      {
+        "id": "560720",
+        "name": "Light Mango Probiotic Fermented Milk Drink",
+        "brand": "Yakult",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3e1d28a0-035a-425e-9140-db4fbd1e582a.jpg"
+        ],
+        "mrp": 100,
+        "offer_price": 100,
+        "quantity": "5 x 65 ml",
+        "deeplink": "https://blinkit.com/prn/x/prid/560720",
+        "rating": 4.599999904632568,
+        "rating_count": 8453,
+        "inventory": 3,
+        "is_ad": false,
+        "rank": 19,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "12 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 46809
+      },
+      {
+        "id": "382243",
+        "name": "Light Probiotic Drink",
+        "brand": "Yakult",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5eb29461-01dd-44cf-916f-f799acba5631.jpg"
+        ],
+        "mrp": 100,
+        "offer_price": 100,
+        "quantity": "5 x 65 ml",
+        "deeplink": "https://blinkit.com/prn/x/prid/382243",
+        "rating": 4.699999809265137,
+        "rating_count": 16306,
+        "inventory": 4,
+        "is_ad": false,
+        "rank": 20,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "12 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 46809
+      },
+      {
+        "id": "608431",
+        "name": "Toned Milk",
+        "brand": "Omfed",
+        "available": false,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/bc161cb0-1574-4df5-aee1-e4f7935ae009.jpg"
+        ],
+        "mrp": 27,
+        "offer_price": 27,
+        "quantity": "500 ml",
+        "deeplink": "https://blinkit.com/prn/x/prid/608431",
+        "rating": 4.300000190734863,
+        "rating_count": 3247,
+        "inventory": 0,
+        "is_ad": false,
+        "rank": 21,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "12 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 46809
+      },
+      {
+        "id": "1369278",
+        "name": "Pro Fresh Toned Milk",
+        "brand": "Pragati",
+        "available": false,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2c6065a5-83ce-4cde-804f-57722935f1c6.jpg"
+        ],
+        "mrp": 30,
+        "offer_price": 21,
+        "quantity": "500 ml",
+        "deeplink": "https://blinkit.com/prn/x/prid/1369278",
+        "rating": 4.699999809265137,
+        "rating_count": 271,
+        "inventory": 0,
+        "is_ad": false,
+        "rank": 22,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "12 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 46809
+      },
+      {
+        "id": "683934",
+        "name": "T1 Toned Milk",
+        "brand": "Pragati",
+        "available": false,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/33c2a0e7-c053-4dba-ac80-9ef0aded3683.jpg"
+        ],
+        "mrp": 30,
+        "offer_price": 30,
+        "quantity": "500 ml",
+        "deeplink": "https://blinkit.com/prn/x/prid/683934",
+        "rating": 4.400000095367432,
+        "rating_count": 783,
+        "inventory": 0,
+        "is_ad": false,
+        "rank": 23,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "12 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 46809
+      },
+      {
+        "id": "541786",
+        "name": "Mini Sweetened Liquid Condensed Milk",
+        "brand": "Nestle Milkmaid",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9458ed39-024f-4288-aee3-c277e9f2ea80.jpg"
+        ],
+        "mrp": 84,
+        "offer_price": 79,
+        "quantity": "190 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/541786",
+        "rating": 4.699999809265137,
+        "rating_count": 26279,
+        "inventory": 22,
+        "is_ad": false,
+        "rank": 24,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "12 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 46809
+      }
+    ]
+  }
+}

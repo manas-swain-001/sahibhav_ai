@@ -1,0 +1,689 @@
+{
+  "status": "success",
+  "request_id": "2b1b4762-567f-4d9a-a35a-929628bf5fcb",
+  "credits_remaining": 70,
+  "data": {
+    "query": "bread",
+    "platform": "Zepto",
+    "lat": 12.9716,
+    "lon": 77.6412,
+    "total_results": 27,
+    "products": [
+      {
+        "id": "a9da2861-358c-4824-b58c-d357e36eeca7",
+        "name": "Zero Maida Whole Wheat Bread",
+        "brand": "Modern",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e2ae57bc-8f79-44c3-9421-a2c40c0110ae.jpg"
+        ],
+        "mrp": 65.0,
+        "offer_price": 64.0,
+        "quantity": "1 pack (400 g or 430 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/a9da2861-358c-4824-b58c-d357e36eeca7",
+        "rating": 4.6,
+        "rating_count": 206883,
+        "inventory": 14,
+        "is_ad": false,
+        "rank": 1,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "d3eaa022-099a-4edd-9f2a-48246d9c5229",
+        "name": "Zero Maida Whole Wheat Bread | High Fibre",
+        "brand": "English Oven",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/bb237087-c242-43be-a8ad-c4a904d93916.jpg"
+        ],
+        "mrp": 65.0,
+        "offer_price": 65.0,
+        "quantity": "1 pack (400 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/d3eaa022-099a-4edd-9f2a-48246d9c5229",
+        "rating": 4.5,
+        "rating_count": 31947,
+        "inventory": 1,
+        "is_ad": true,
+        "rank": 2,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "58bd25ce-8f73-4031-96ed-7a1278834d2b",
+        "name": "Whole Wheat Bread | Zero Maida | Source of Protein & Fibre",
+        "brand": "The Health Factory",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/12217d9a-cbdf-4479-b639-60a97582e5a7.jpg"
+        ],
+        "mrp": 65.0,
+        "offer_price": 65.0,
+        "quantity": "1 pack (350 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/58bd25ce-8f73-4031-96ed-7a1278834d2b",
+        "rating": 4.5,
+        "rating_count": 117118,
+        "inventory": 6,
+        "is_ad": false,
+        "rank": 3,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "90d14ba9-6d61-4c7c-80b7-8fc6e7615b50",
+        "name": "Zero Maida Multigrain Bread | High Fibre | 11 Grains",
+        "brand": "English Oven",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/db81fc3c-ea26-4428-a83b-7e85555e4ddd.jpg"
+        ],
+        "mrp": 70.0,
+        "offer_price": 70.0,
+        "quantity": "1 pack (400 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/90d14ba9-6d61-4c7c-80b7-8fc6e7615b50",
+        "rating": 4.6,
+        "rating_count": 39398,
+        "inventory": 3,
+        "is_ad": true,
+        "rank": 4,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "8cb7e20c-828c-4117-be49-6f4a374d421a",
+        "name": "Sandwich Supreme White Bread",
+        "brand": "Modern",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e7cc4b4d-2371-4316-8b60-b66054215754.jpeg"
+        ],
+        "mrp": 55.0,
+        "offer_price": 55.0,
+        "quantity": "1 pack (400 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/8cb7e20c-828c-4117-be49-6f4a374d421a",
+        "rating": 4.5,
+        "rating_count": 134539,
+        "inventory": 16,
+        "is_ad": false,
+        "rank": 5,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "3b35affb-59ec-468c-9c59-c79649ffb1de",
+        "name": "Milk Bread",
+        "brand": "English Oven",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/fadb99d9-2998-4dde-90fc-e396e1360dac.jpg"
+        ],
+        "mrp": 60.0,
+        "offer_price": 60.0,
+        "quantity": "1 pack (400 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/3b35affb-59ec-468c-9c59-c79649ffb1de",
+        "rating": 4.6,
+        "rating_count": 46012,
+        "inventory": 9,
+        "is_ad": false,
+        "rank": 6,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "ec8ab54e-b958-4df4-bb7e-8a5736e19311",
+        "name": "Modern Baker's Loaf: High Protein Bread",
+        "brand": "Baker's Loaf",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d36c3262-0690-4854-a3cf-9c7f4d98c484.jpg"
+        ],
+        "mrp": 95.0,
+        "offer_price": 90.0,
+        "quantity": "1 pack (350 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/ec8ab54e-b958-4df4-bb7e-8a5736e19311",
+        "rating": 4.8,
+        "rating_count": 2371,
+        "inventory": 5,
+        "is_ad": true,
+        "rank": 7,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "fd98be99-5687-45fe-9fcc-a60ca95746d1",
+        "name": "Britannia Milk Slice White Bread",
+        "brand": "Britannia Breads",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b026242a-fe5e-4c16-aa2d-b3dd06f10d9a.jpeg"
+        ],
+        "mrp": 60.0,
+        "offer_price": 55.0,
+        "quantity": "1 pack (400 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/fd98be99-5687-45fe-9fcc-a60ca95746d1",
+        "rating": 4.5,
+        "rating_count": 29765,
+        "inventory": 6,
+        "is_ad": false,
+        "rank": 8,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "07029311-ef07-4ce8-819b-a2dfce156cb2",
+        "name": "Whole Wheat Bread | Zero Maida | Source of Protein & Fibre",
+        "brand": "The Health Factory",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ca3c098d-7a2b-4453-8513-464d0442cee1.jpg"
+        ],
+        "mrp": 55.0,
+        "offer_price": 55.0,
+        "quantity": "1 pack (250 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/07029311-ef07-4ce8-819b-a2dfce156cb2",
+        "rating": 4.7,
+        "rating_count": 43461,
+        "inventory": 7,
+        "is_ad": false,
+        "rank": 9,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "f9b293df-bab7-4436-b4c2-46ccf9936da9",
+        "name": "Milk Plus Bread",
+        "brand": "Modern",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/010a308f-36fc-49b3-b376-07dd30b92d49.jpeg"
+        ],
+        "mrp": 55.0,
+        "offer_price": 55.0,
+        "quantity": "1 pack (350 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/f9b293df-bab7-4436-b4c2-46ccf9936da9",
+        "rating": 4.5,
+        "rating_count": 35207,
+        "inventory": 12,
+        "is_ad": false,
+        "rank": 10,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "68c08f6d-4d38-459c-b87b-ce71f0560d01",
+        "name": "Zero Maida Atta Bread | High Fibre",
+        "brand": "English Oven",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/597b5a2c-8a47-4587-b2b6-fc1f222cd919.jpg"
+        ],
+        "mrp": 65.0,
+        "offer_price": 59.0,
+        "quantity": "1 pack (400 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/68c08f6d-4d38-459c-b87b-ce71f0560d01",
+        "rating": 4.6,
+        "rating_count": 72093,
+        "inventory": 4,
+        "is_ad": false,
+        "rank": 11,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "bab4f67c-7c3a-4621-b3ac-e00df6314eca",
+        "name": "42 G Protein Bread | 5 Superfoods | No Maida",
+        "brand": "Protein Chef",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/eea449a7-9a55-495b-964a-323b4280d937.png"
+        ],
+        "mrp": 75.0,
+        "offer_price": 69.0,
+        "quantity": "1 pack (270 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/bab4f67c-7c3a-4621-b3ac-e00df6314eca",
+        "rating": 4.8,
+        "rating_count": 19109,
+        "inventory": 4,
+        "is_ad": false,
+        "rank": 12,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "09ff5711-4ad7-4493-8d44-366e4605e9ff",
+        "name": "Premium White bread| No Palm Oil",
+        "brand": "English Oven",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/292484af-5b66-436e-80c6-2d9c93c9b823.jpg"
+        ],
+        "mrp": 50.0,
+        "offer_price": 49.0,
+        "quantity": "1 pack (350 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/09ff5711-4ad7-4493-8d44-366e4605e9ff",
+        "rating": 4.6,
+        "rating_count": 194459,
+        "inventory": 2,
+        "is_ad": false,
+        "rank": 13,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "c982e07b-b933-4a78-8f3c-23c3cc58901c",
+        "name": "Zero Maida Milk Bread | Atta Bread | Sandwich Bread | White Bread | Clean Label",
+        "brand": "The Baker's Dozen",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d4387142-977d-49a7-a762-cfbf376f9707.jpg"
+        ],
+        "mrp": 60.0,
+        "offer_price": 54.0,
+        "quantity": "1 pack (230 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/c982e07b-b933-4a78-8f3c-23c3cc58901c",
+        "rating": 4,
+        "rating_count": 5540,
+        "inventory": 6,
+        "is_ad": false,
+        "rank": 14,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "83b25257-105c-4c84-97dc-82ac18754c8f",
+        "name": "Britannia Multigrain Bread (No Maida)",
+        "brand": "Britannia Breads",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/92242837-a473-47c9-a3a6-51e55a059a1d.jpeg"
+        ],
+        "mrp": 65.0,
+        "offer_price": 65.0,
+        "quantity": "1 pack (400 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/83b25257-105c-4c84-97dc-82ac18754c8f",
+        "rating": 4.3,
+        "rating_count": 6987,
+        "inventory": 5,
+        "is_ad": false,
+        "rank": 16,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "12486ac4-df45-4cc4-b9c0-470942e273d1",
+        "name": "Britannia Fruit Bread",
+        "brand": "Britannia Breads",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1e58aee6-9dfa-43a6-a8df-20d3ac3485ec.jpeg"
+        ],
+        "mrp": 30.0,
+        "offer_price": 30.0,
+        "quantity": "1 pack (200 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/12486ac4-df45-4cc4-b9c0-470942e273d1",
+        "rating": 4.3,
+        "rating_count": 40164,
+        "inventory": 2,
+        "is_ad": false,
+        "rank": 18,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "5206d918-f6f8-4021-938c-7fb5aae87000",
+        "name": "Milk Bread | Zero Maida | Source of Calcium & Fibre | Whole Wheat Bread",
+        "brand": "The Health Factory",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/fb912786-b9b4-4c30-a796-682e9dc56ca8.jpg"
+        ],
+        "mrp": 65.0,
+        "offer_price": 65.0,
+        "quantity": "1 pack (250 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/5206d918-f6f8-4021-938c-7fb5aae87000",
+        "rating": 4.3,
+        "rating_count": 24165,
+        "inventory": 2,
+        "is_ad": false,
+        "rank": 19,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "bf7fb2ec-d7b8-4134-9618-178c695651c4",
+        "name": "Britannia Vitarich Sandwich Premium White Bread",
+        "brand": "Britannia Breads",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/54ddb77b-8b7d-48f5-acf8-97b352e4e845.jpeg"
+        ],
+        "mrp": 60.0,
+        "offer_price": 60.0,
+        "quantity": "1 pack (400 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/bf7fb2ec-d7b8-4134-9618-178c695651c4",
+        "rating": 4.6,
+        "rating_count": 27467,
+        "inventory": 2,
+        "is_ad": false,
+        "rank": 20,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "e6327c54-8b6a-41ef-8730-855f1834b0b5",
+        "name": "Special Bread",
+        "brand": "Iyengars Bakery",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/02567280-a862-4b71-9c4b-c8d55d26c157.jpeg"
+        ],
+        "mrp": 72.0,
+        "offer_price": 72.0,
+        "quantity": "1 pack (400 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/e6327c54-8b6a-41ef-8730-855f1834b0b5",
+        "rating": 4.6,
+        "rating_count": 1490,
+        "inventory": 6,
+        "is_ad": false,
+        "rank": 21,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "599eb2e4-a83d-4caa-9163-3137890dfa3f",
+        "name": "Zero Maida Whole Wheat Bread | No Preservatives | No Palm Oil",
+        "brand": "Theobroma",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/be1b20c0-c788-4235-b995-f686bdb2f661.jpg"
+        ],
+        "mrp": 70.0,
+        "offer_price": 59.0,
+        "quantity": "1 pack (350 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/599eb2e4-a83d-4caa-9163-3137890dfa3f",
+        "rating": 4.3,
+        "rating_count": 5472,
+        "inventory": 4,
+        "is_ad": false,
+        "rank": 22,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "330b74a6-1a52-41e8-baee-fd0192a0b6fb",
+        "name": "Sandwich White Bread",
+        "brand": "English Oven",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/db78968c-e19c-405d-a7d6-0a416c023074.jpeg"
+        ],
+        "mrp": 60.0,
+        "offer_price": 60.0,
+        "quantity": "1 pack (400 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/330b74a6-1a52-41e8-baee-fd0192a0b6fb",
+        "rating": 4.5,
+        "rating_count": 56537,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 23,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "3360ce87-0a87-4e97-93fe-8b4f524aefb2",
+        "name": "Zero Preservatives Whole Wheat Bread",
+        "brand": "Baker's Loaf",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/655e6268-c846-4bbc-9206-33b58b481ff1.png"
+        ],
+        "mrp": 85.0,
+        "offer_price": 82.0,
+        "quantity": "1 pack (350 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/3360ce87-0a87-4e97-93fe-8b4f524aefb2",
+        "rating": 4.5,
+        "rating_count": 4961,
+        "inventory": 5,
+        "is_ad": false,
+        "rank": 25,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "703e319f-36ee-4d58-83c7-743aafed7793",
+        "name": "Zero Maida Whole wheat bread | No Preservatives | No Palm Oil",
+        "brand": "Theobroma",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c25f713b-2145-47f4-8134-00ea1287e8be.jpg"
+        ],
+        "mrp": 60.0,
+        "offer_price": 49.0,
+        "quantity": "1 pack (250 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/703e319f-36ee-4d58-83c7-743aafed7793",
+        "rating": 4.4,
+        "rating_count": 2998,
+        "inventory": 8,
+        "is_ad": false,
+        "rank": 26,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "5c53563d-5366-45cb-a312-6c7e27eebbd9",
+        "name": "Zero Maida Multigrain Bread | No Preservatives | No Palm Oil",
+        "brand": "Theobroma",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/007645a1-5e64-42f9-8953-89973bd2bf33.jpg"
+        ],
+        "mrp": 70.0,
+        "offer_price": 59.0,
+        "quantity": "1 pack (250 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/5c53563d-5366-45cb-a312-6c7e27eebbd9",
+        "rating": 4.3,
+        "rating_count": 3907,
+        "inventory": 4,
+        "is_ad": false,
+        "rank": 27,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "1b4d5867-dd92-427c-a9ef-7568b03b6be1",
+        "name": "Multigrain Bread | Zero Maida | 7 Grains & Seeds | Whole Wheat Bread",
+        "brand": "The Health Factory",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/9027686d-5157-4c92-8b58-060160b0cfb7.jpg"
+        ],
+        "mrp": 80.0,
+        "offer_price": 80.0,
+        "quantity": "1 pack (375 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/1b4d5867-dd92-427c-a9ef-7568b03b6be1",
+        "rating": 4.4,
+        "rating_count": 13685,
+        "inventory": 3,
+        "is_ad": false,
+        "rank": 28,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "5c7bd61a-cd55-4caf-97ef-6ba8e4e4afef",
+        "name": "Multigrain Bread - 13 Grains & Seeds (Zero Maida)",
+        "brand": "Modern",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c9c102e5-467a-4eb4-9612-e96c947f99c1.jpeg"
+        ],
+        "mrp": 70.0,
+        "offer_price": 70.0,
+        "quantity": "1 pack (400 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/5c7bd61a-cd55-4caf-97ef-6ba8e4e4afef",
+        "rating": 4.6,
+        "rating_count": 33177,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 29,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      },
+      {
+        "id": "c58f1b83-4064-4b52-bdf6-c568a221dc11",
+        "name": "Zero Maida Whole Wheat Bread",
+        "brand": "Britannia Breads",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/24d7900f-6b99-4859-a6fa-74009757c4b8.png"
+        ],
+        "mrp": 65.0,
+        "offer_price": 59.0,
+        "quantity": "1 pack (400 g or 450 g)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/c58f1b83-4064-4b52-bdf6-c568a221dc11",
+        "rating": 4.5,
+        "rating_count": 69574,
+        "inventory": 2,
+        "is_ad": false,
+        "rank": 30,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "store_id": "5b1796e1-36c2-4ae9-83a0-c03c25cac05a"
+      }
+    ]
+  }
+}

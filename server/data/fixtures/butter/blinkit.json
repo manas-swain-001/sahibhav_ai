@@ -1,0 +1,514 @@
+{
+  "status": "success",
+  "request_id": "5169b98d-e3c9-4302-b990-75c83312f879",
+  "credits_remaining": 75,
+  "data": {
+    "query": "butter",
+    "platform": "BlinkIt",
+    "lat": 12.9716,
+    "lon": 77.6412,
+    "total_results": 20,
+    "products": [
+      {
+        "id": "479674",
+        "name": "Cooking Unsalted Butter",
+        "brand": "Milky Mist",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6b9cd49e-7d55-45a6-b328-b5ad04c82279.jpg"
+        ],
+        "mrp": 160,
+        "offer_price": 156,
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/479674",
+        "rating": 4.699999809265137,
+        "rating_count": 3509,
+        "inventory": 2,
+        "is_ad": false,
+        "rank": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "32892",
+        "name": "Unsalted Cooking Butter",
+        "brand": "Milky Mist",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/deac1b3b-50bd-4903-81e0-40c3a8fec76d.jpg"
+        ],
+        "mrp": 85,
+        "offer_price": 83,
+        "quantity": "100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/32892",
+        "rating": 4.599999904632568,
+        "rating_count": 224,
+        "inventory": 3,
+        "is_ad": false,
+        "rank": 2,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "479675",
+        "name": "Table Salted Butter",
+        "brand": "Milky Mist",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/bee3263a-e7ce-4fa8-8d9b-33ff0c4f6dcc.jpg"
+        ],
+        "mrp": 160,
+        "offer_price": 156,
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/479675",
+        "rating": 4.699999809265137,
+        "rating_count": 498,
+        "inventory": 5,
+        "is_ad": false,
+        "rank": 3,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "507852",
+        "name": "Cooking Organic Butter",
+        "brand": "Akshayakalpa Organic",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0878b03e-b79e-4505-b5bb-d4c9b2c633ce.jpg"
+        ],
+        "mrp": 228,
+        "offer_price": 228,
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/507852",
+        "rating": 4.699999809265137,
+        "rating_count": 450,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 4,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "498972",
+        "name": "DoodhShakti Probiotic Salted Butter (Tub)",
+        "brand": "Nutralite",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/12468a6e-fbcf-4c4f-8f5e-6dba547cf6ce.jpg"
+        ],
+        "mrp": 325,
+        "offer_price": 293,
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/498972",
+        "rating": 4.5,
+        "rating_count": 3628,
+        "inventory": 3,
+        "is_ad": false,
+        "rank": 5,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "89118",
+        "name": "Cholesterol Free Fat Spread",
+        "brand": "Delicious",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f872bafe-0696-4053-8c05-608f0aaaff89.jpg"
+        ],
+        "mrp": 117,
+        "offer_price": 117,
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/89118",
+        "rating": 4.5,
+        "rating_count": 18966,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 6,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "613578",
+        "name": "Creamy Unsweetened Almond Butter",
+        "brand": "Jus'Amazin",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0099887f-b16b-4692-aa68-fd4515380d44.jpg"
+        ],
+        "mrp": 420,
+        "offer_price": 399,
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/613578",
+        "rating": 4.199999809265137,
+        "rating_count": 78,
+        "inventory": 4,
+        "is_ad": false,
+        "rank": 7,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 50761
+      },
+      {
+        "id": "767700",
+        "name": "Crunchy Unsweetened Almond Butter",
+        "brand": "Jus'Amazin",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c5a52377-13d0-4e43-b775-cda492cd8017.jpg"
+        ],
+        "mrp": 420,
+        "offer_price": 399,
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/767700",
+        "rating": null,
+        "rating_count": null,
+        "inventory": 1,
+        "is_ad": false,
+        "rank": 8,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 50761
+      },
+      {
+        "id": "620530",
+        "name": "Refreshing Spiced Buttermilk",
+        "brand": "Nandini",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/85339f45-7b27-419b-9d1e-86c00d5a3be3.jpg"
+        ],
+        "mrp": 10,
+        "offer_price": 10,
+        "quantity": "200 ml",
+        "deeplink": "https://blinkit.com/prn/x/prid/620530",
+        "rating": 4.599999904632568,
+        "rating_count": 10053,
+        "inventory": 23,
+        "is_ad": false,
+        "rank": 9,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "19507",
+        "name": "Masti Spiced Salted Buttermilk",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d203e6e5-b109-491c-bcda-21636d5332e2.jpg"
+        ],
+        "mrp": 15,
+        "offer_price": 15,
+        "quantity": "200 ml",
+        "deeplink": "https://blinkit.com/prn/x/prid/19507",
+        "rating": 4.599999904632568,
+        "rating_count": 13,
+        "inventory": 50,
+        "is_ad": false,
+        "rank": 10,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "518714",
+        "name": "Unsalted Buttermilk",
+        "brand": "Akshayakalpa Organic",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5442656c-9f41-4d4b-9a31-be8b9cdd0f50.jpg"
+        ],
+        "mrp": 20,
+        "offer_price": 20,
+        "quantity": "180 ml",
+        "deeplink": "https://blinkit.com/prn/x/prid/518714",
+        "rating": 4.599999904632568,
+        "rating_count": 4826,
+        "inventory": 5,
+        "is_ad": false,
+        "rank": 11,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "175086",
+        "name": "Masti Spiced Salted Buttermilk",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/11a55e32-e11f-40f5-b928-54f334cfacde.jpg"
+        ],
+        "mrp": 70,
+        "offer_price": 70,
+        "quantity": "1 ltr",
+        "deeplink": "https://blinkit.com/prn/x/prid/175086",
+        "rating": 4.699999809265137,
+        "rating_count": 70035,
+        "inventory": 30,
+        "is_ad": false,
+        "rank": 12,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "518713",
+        "name": "Spiced Salted Buttermilk",
+        "brand": "Akshayakalpa Organic",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/db0b336c-d7aa-493a-90a7-bd55c62cddf3.jpg"
+        ],
+        "mrp": 20,
+        "offer_price": 20,
+        "quantity": "200 ml",
+        "deeplink": "https://blinkit.com/prn/x/prid/518713",
+        "rating": 4.5,
+        "rating_count": 3865,
+        "inventory": 8,
+        "is_ad": false,
+        "rank": 13,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "572198",
+        "name": "Spiced Buttermilk",
+        "brand": "Akshayakalpa Organic",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ed6632ef-e49e-4546-809d-377f502141b7.jpg"
+        ],
+        "mrp": 29,
+        "offer_price": 29,
+        "quantity": "200 ml",
+        "deeplink": "https://blinkit.com/prn/x/prid/572198",
+        "rating": 4.599999904632568,
+        "rating_count": 1516,
+        "inventory": 11,
+        "is_ad": false,
+        "rank": 14,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "572159",
+        "name": "Plain Buttermilk",
+        "brand": "Akshayakalpa Organic",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3fb18f66-20a6-40b9-8f72-e225f0a2cab5.jpg"
+        ],
+        "mrp": 29,
+        "offer_price": 29,
+        "quantity": "200 ml",
+        "deeplink": "https://blinkit.com/prn/x/prid/572159",
+        "rating": 4.699999809265137,
+        "rating_count": 1621,
+        "inventory": 18,
+        "is_ad": false,
+        "rank": 15,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "381957",
+        "name": "Masala Chaas / Salted Buttermilk",
+        "brand": "Cavin's",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9e711f44-545f-40e0-aa56-1334dcc11e25.jpg"
+        ],
+        "mrp": 20,
+        "offer_price": 15,
+        "quantity": "180 ml",
+        "deeplink": "https://blinkit.com/prn/x/prid/381957",
+        "rating": 4.300000190734863,
+        "rating_count": 7052,
+        "inventory": 27,
+        "is_ad": false,
+        "rank": 20,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "352432",
+        "name": "Premium Spiced Salted Buttermilk",
+        "brand": "Amul",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9d4b6e6d-e918-4524-9257-79b19841cd87.jpg"
+        ],
+        "mrp": 20,
+        "offer_price": 20,
+        "quantity": "200 ml",
+        "deeplink": "https://blinkit.com/prn/x/prid/352432",
+        "rating": 4.5,
+        "rating_count": 8515,
+        "inventory": 8,
+        "is_ad": false,
+        "rank": 21,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "765480",
+        "name": "A-One Spiced Buttermilk",
+        "brand": "Heritage",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1773988173143-227.png"
+        ],
+        "mrp": 15,
+        "offer_price": 15,
+        "quantity": "180 ml",
+        "deeplink": "https://blinkit.com/prn/x/prid/765480",
+        "rating": 4.300000190734863,
+        "rating_count": 1064,
+        "inventory": 8,
+        "is_ad": false,
+        "rank": 22,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "317610",
+        "name": "Milk Bread",
+        "brand": "Britannia",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e10dc8ad-6dbc-4c1a-939b-61ef80e501d6.jpg"
+        ],
+        "mrp": 60,
+        "offer_price": 55,
+        "quantity": "400 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/317610",
+        "rating": 4.5,
+        "rating_count": 56546,
+        "inventory": 6,
+        "is_ad": false,
+        "rank": 23,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      },
+      {
+        "id": "530067",
+        "name": "Zero Maida Whole Wheat Bread",
+        "brand": "The Health Factory",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/bb07c2c1-293f-4de8-af70-49772b032762.jpg"
+        ],
+        "mrp": 55,
+        "offer_price": 55,
+        "quantity": "250 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/530067",
+        "rating": 4.400000095367432,
+        "rating_count": 11,
+        "inventory": 11,
+        "is_ad": false,
+        "rank": 24,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "15 mins",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "store_id": 30664
+      }
+    ]
+  }
+}
