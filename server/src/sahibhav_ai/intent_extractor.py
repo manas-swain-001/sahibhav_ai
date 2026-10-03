@@ -35,18 +35,18 @@ STRICT SCOPE & GUARDRAIL CONSTRAINTS (ZERO-TOLERANCE)
 =======================================================
 INDIAN GROCERY & QUANTITY GUIDELINES
 =======================================================
-Mappings:
-- "doodh" -> Milk (Category: Dairy)
-- "atta" -> Atta / Wheat Flour (Category: Staples)
-- "dahi" -> Curd (Category: Dairy)
-- "paneer" -> Cottage Cheese / Paneer (Category: Dairy)
-- "cheeni" / "shakkar" -> Sugar (Category: Staples)
-- "anda" / "ande" -> Eggs (Category: Dairy & Eggs)
-- "makkhan" -> Butter (Category: Dairy)
-- "chawal" -> Rice (Category: Staples)
-- "tel" -> Cooking Oil (Category: Edible Oils)
-- "chai" / "chai patti" -> Tea (Category: Beverages)
-- "tamatar", "pyaz", "aloo" -> Tomato, Onion, Potato (Category: Vegetables)
+Mappings across Indian Languages:
+- Milk: "doodh" (Hindi/Hinglish), "khira" (Odia), "dudh" (Bengali), "paal" (Tamil/Malayalam), "paalu" (Telugu), "haalu" (Kannada) -> Milk (Category: Dairy)
+- Butter: "makkhan" / "makhan" (Hindi/Odia/Bengali), "vennai" (Tamil), "venna" (Telugu), "benne" (Kannada), "loni" (Marathi) -> Butter (Category: Dairy)
+- Flour/Atta: "atta", "gehu ka atta", "chuna" (Odia), "maida" -> Atta / Wheat Flour (Category: Staples)
+- Curd/Yogurt: "dahi" (Hindi/Odia/Bengali), "thayir" (Tamil/Malayalam), "perugu" (Telugu), "mosaru" (Kannada) -> Curd (Category: Dairy)
+- Paneer: "paneer", "chhena" (Odia/Bengali) -> Cottage Cheese / Paneer (Category: Dairy)
+- Eggs: "anda" / "ande", "dim" (Bengali), "muttai" (Tamil/Malayalam), "guddu" (Telugu), "motte" (Kannada) -> Eggs (Category: Dairy & Eggs)
+- Sugar: "cheeni" / "shakkar", "cini" (Odia), "chini" (Bengali), "sakkarai" (Tamil), "panchadara" (Telugu), "sakkare" (Kannada) -> Sugar (Category: Staples)
+- Rice: "chawal", "chaula" (Odia), "chal" (Bengali), "arisi" (Tamil), "biyyam" (Telugu), "akki" (Kannada) -> Rice (Category: Staples)
+- Cooking Oil: "tel" / "sarson tel", "tela" (Odia), "enna" (Tamil/Malayalam), "nune" (Telugu), "enne" (Kannada) -> Cooking Oil (Category: Edible Oils)
+- Tea: "chai" / "chai patti", "cha" (Odia/Bengali), "tea" -> Tea (Category: Beverages)
+- Vegetables: "tamatar" / "bilati" (Odia) -> Tomato, "pyaz" / "piaja" (Odia) -> Onion, "aloo" -> Potato (Category: Vegetables)
 
 Quantities & Units:
 - "aadha kilo" or "half kg" -> quantity: 0.5, unit: "kg"
@@ -64,7 +64,7 @@ Search Queries:
 - If generic, use standard English product terms ("milk", "bread", "sugar").
 
 Language:
-- Set `detected_language` to "hindi", "hinglish", or "english".
+- Set `detected_language` to the user's actual language or dialect (e.g., "odia", "bengali", "tamil", "telugu", "kannada", "malayalam", "marathi", "gujarati", "punjabi", "hindi", "hinglish", "english", "bhojpuri", "spanish", "french", etc.). SahiBhav AI supports all languages.
 """
 
 class IntentExtractor:

@@ -11,7 +11,7 @@ def normalize_product(p: RawProduct, fallback_platform_name: str = "") -> Cleane
     platform_name = p.platform.name if (p.platform and p.platform.name) else fallback_platform_name
 
     # 1. Parse Quantity
-    qty_info = parse_quantity(p.quantity)
+    qty_info = parse_quantity(p.quantity, product_name=p.name)
 
     # 2. Standardized Price
     std_unit, price_per_std = compute_standard_price(

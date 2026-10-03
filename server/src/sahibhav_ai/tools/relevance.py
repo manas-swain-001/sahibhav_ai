@@ -155,6 +155,7 @@ class SemanticRelevanceFilter:
         ).with_structured_output(RelevanceDecision)
 
         self.chain = self.prompt | primary_llm.with_fallbacks([fallback_llm])
+        self.semaphore = asyncio.Semaphore(1)
 
     async def audit_relevance(
         self,
@@ -172,18 +173,20 @@ class SemanticRelevanceFilter:
             # If no API key configured, pass through safely
             return products, 0
 
-        # Build concise candidate lines: [ID: ...] Title (Brand)
+        # Audit top 10 candidate products to stay well within token limits and optimize latency
+        audit_pool = products[:10]
         candidate_lines = [
             f"[ID: {p.id}] {p.name} ({p.brand or 'No Brand'})"
-            for p in products
+            for p in audit_pool
         ]
         candidate_text = "\n".join(candidate_lines)
 
         try:
-            raw_decision = await self.chain.ainvoke({
-                "query": search_query,
-                "candidate_text": candidate_text
-            })
+            async with self.semaphore:
+                raw_decision = await self.chain.ainvoke({
+                    "query": search_query,
+                    "candidate_text": candidate_text
+                })
 
             if isinstance(raw_decision, dict):
                 decision = RelevanceDecision.model_validate(raw_decision)

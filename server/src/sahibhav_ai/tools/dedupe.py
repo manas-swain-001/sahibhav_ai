@@ -20,8 +20,8 @@ def dedupe_products(products: List[RawProduct]) -> List[RawProduct]:
         else:
             # If seen before, compare quantity/price and keep the smaller/cheaper pack
             existing = seen[p_id]
-            qty_exist = parse_quantity(existing.quantity).amount
-            qty_curr = parse_quantity(p.quantity).amount
+            qty_exist = parse_quantity(existing.quantity, product_name=existing.name).amount
+            qty_curr = parse_quantity(p.quantity, product_name=p.name).amount
 
             # Keep smaller pack or cheaper price
             if qty_curr < qty_exist or (qty_curr == qty_exist and p.offer_price < existing.offer_price):

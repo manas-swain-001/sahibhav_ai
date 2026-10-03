@@ -14,28 +14,35 @@ class ParsedQuantity(NamedTuple):
     raw: str
 
 
-def _log_unhandled(raw_qty: str, reason: str = "unmatched_pattern") -> None:
+def _log_unhandled(raw_qty: str, reason: str = "unmatched_pattern", product_name: str = "") -> None:
     """
     Silently records unknown/unhandled quantity formats into server/data/unhandled_quantities.log
-    for future offline review and parser improvements.
+    along with product name and raw quantity for future offline review and parser improvements.
     Deduplicates in-memory so identical items aren't repeatedly written to disk.
     """
     cleaned = raw_qty.strip()
-    if not cleaned or cleaned in _LOGGED_STRINGS:
+    prod = product_name.strip()
+    log_key = f"{reason}::{prod}::{cleaned}"
+    if not cleaned or log_key in _LOGGED_STRINGS:
         return
 
-    _LOGGED_STRINGS.add(cleaned)
+    _LOGGED_STRINGS.add(log_key)
     try:
         LOG_FILE.parent.mkdir(parents=True, exist_ok=True)
         timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        if prod:
+            entry = f"[{timestamp}] [{reason}] Product: \"{prod}\" | Qty: \"{cleaned}\"\n"
+        else:
+            entry = f"[{timestamp}] [{reason}] Qty: \"{cleaned}\"\n"
         with open(LOG_FILE, "a", encoding="utf-8") as f:
-            f.write(f"[{timestamp}] [{reason}] {cleaned}\n")
+            f.write(entry)
     except Exception:
         # Never crash the user's search due to a logging failure
         pass
 
 
-def parse_quantity(raw_qty: str) -> ParsedQuantity:
+
+def parse_quantity(raw_qty: str, product_name: str = "") -> ParsedQuantity:
     """
     Parses complex Indian quick commerce quantity strings into standard (amount, unit).
     Handles formats like:
@@ -60,7 +67,7 @@ def parse_quantity(raw_qty: str) -> ParsedQuantity:
         unit = multi_add_match.group(3)
         extra = float(multi_add_match.group(4))
         total = (count * each) + extra
-        norm_unit, multiplier = _normalize_unit(unit)
+        norm_unit, multiplier = _normalize_unit(unit, product_name=product_name)
         return ParsedQuantity(amount=total * multiplier, unit=norm_unit, raw=raw_qty)
 
     # Pattern: 'N x M unit' e.g. '5 x 65 ml'
@@ -70,7 +77,7 @@ def parse_quantity(raw_qty: str) -> ParsedQuantity:
         each = float(multi_match.group(2))
         unit = multi_match.group(3)
         total = count * each
-        norm_unit, multiplier = _normalize_unit(unit)
+        norm_unit, multiplier = _normalize_unit(unit, product_name=product_name)
         return ParsedQuantity(amount=total * multiplier, unit=norm_unit, raw=raw_qty)
 
     # Pattern: 'N unit x M' e.g. '1 ltr x 4' or '500 ml x 2'
@@ -80,7 +87,7 @@ def parse_quantity(raw_qty: str) -> ParsedQuantity:
         unit = unit_multi_match.group(2)
         count = float(unit_multi_match.group(3))
         total = each * count
-        norm_unit, multiplier = _normalize_unit(unit)
+        norm_unit, multiplier = _normalize_unit(unit, product_name=product_name)
         return ParsedQuantity(amount=total * multiplier, unit=norm_unit, raw=raw_qty)
 
     # Pattern: bracketed quantities e.g. '1 pack (475 ml or 500 ml)' -> pick the max or standard amount
@@ -90,10 +97,10 @@ def parse_quantity(raw_qty: str) -> ParsedQuantity:
         # Check for 'or' like '475 ml or 500 ml' -> take 500 ml
         if "or" in inner:
             parts = inner.split("or")
-            res = parse_quantity(parts[-1].strip())
+            res = parse_quantity(parts[-1].strip(), product_name=product_name)
             return ParsedQuantity(amount=res.amount, unit=res.unit, raw=raw_qty)
         else:
-            res = parse_quantity(inner.strip())
+            res = parse_quantity(inner.strip(), product_name=product_name)
             if res.unit in ["ml", "g"]:
                 return ParsedQuantity(amount=res.amount, unit=res.unit, raw=raw_qty)
 
@@ -102,7 +109,7 @@ def parse_quantity(raw_qty: str) -> ParsedQuantity:
     if match:
         val = float(match.group(1))
         unit = match.group(2)
-        norm_unit, multiplier = _normalize_unit(unit)
+        norm_unit, multiplier = _normalize_unit(unit, product_name=product_name)
         return ParsedQuantity(amount=val * multiplier, unit=norm_unit, raw=raw_qty)
 
     # Check for dozen
@@ -110,11 +117,11 @@ def parse_quantity(raw_qty: str) -> ParsedQuantity:
         return ParsedQuantity(amount=12.0, unit="piece", raw=raw_qty)
 
     # Default fallback: could not match any pattern -> log for offline review!
-    _log_unhandled(raw_qty, reason="unmatched_pattern")
+    _log_unhandled(raw_qty, reason="unmatched_pattern", product_name=product_name)
     return ParsedQuantity(amount=1.0, unit="pack", raw=raw_qty)
 
 
-def _normalize_unit(unit: str) -> Tuple[str, float]:
+def _normalize_unit(unit: str, product_name: str = "") -> Tuple[str, float]:
     """
     Normalizes unit strings and provides unit conversion multipliers:
     e.g. ('kg', 1000.0) -> 'g', ('ltr', 1000.0) -> 'ml'
@@ -133,6 +140,6 @@ def _normalize_unit(unit: str) -> Tuple[str, float]:
 
     # If the unit is an unknown string (e.g. 'bunches', 'rolls', 'can'), log for offline review
     if u not in ["pack", "packs", "pouch", "pouches"]:
-        _log_unhandled(unit, reason="unknown_unit")
+        _log_unhandled(unit, reason="unknown_unit", product_name=product_name)
 
     return "pack", 1.0

@@ -38,7 +38,7 @@ class UserIntent(BaseModel):
     )
     detected_language: str = Field(
         ...,
-        description="Language detected: 'hindi', 'hinglish', or 'english'"
+        description="Language or dialect detected from user input (e.g. 'hindi', 'hinglish', 'english', 'bengali', 'odia', 'tamil', 'telugu', 'marathi', 'gujarati', 'kannada', 'malayalam', 'punjabi', 'urdu', 'bhojpuri', 'spanish', 'french', etc.). SahiBhav AI supports all languages worldwide."
     )
     is_valid_grocery_query: bool = Field(
         default=True,
@@ -231,4 +231,13 @@ class OptimizationResult(BaseModel):
     winning_recommendation: Optional[CartCombination] = None
     all_single_stores: List[CartCombination] = Field(default_factory=list)
     all_split_combos: List[CartCombination] = Field(default_factory=list)
-    notes: Optional[str] = None
+    notes: Optional[str] = None
+
+
+class SahiBhavResponse(BaseModel):
+    raw_query: str
+    detected_language: str
+    is_valid_grocery_query: bool = True
+    natural_language_response: str
+    optimization: Optional[OptimizationResult] = None
+    notes: Optional[str] = None
