@@ -110,14 +110,10 @@ sahibhav-ai/                     ← Python backend
 │       ├── optimizer.py         Step 9
 │       └── responder.py         Step 10
 ├── api/
-│   └── main.py                  Step 13
+│   └── main.py                  Step 11 (FastAPI Backend)
 ├── data/
-│   └── product_map.json         Step 6
-├── docs/
-│   └── api_responses/           saved raw JSON
-├── scripts/
-│   └── test_config.py           ✅ done
-├── cli.py                       Step 12
+│   ├── fixtures/
+│   └── unhandled_quantities.log
 ├── .env                         ✅ done
 ├── pyproject.toml               ✅ done
 └── README.md
