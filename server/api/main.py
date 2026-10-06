@@ -13,7 +13,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import RedirectResponse
 
 from sahibhav_ai.config import DEFAULT_LAT, DEFAULT_LON, SUPPORTED_PLATFORMS
-from sahibhav_ai.models import UserIntent, SahiBhavResponse
+from sahibhav_ai.models import UserIntent, SahiBhavResponse, MultiItemSearchResult
 from sahibhav_ai.intent_extractor import IntentExtractor
 from sahibhav_ai.stages import (
     MultiItemSearchStage,
@@ -158,6 +158,33 @@ def extract_intent_endpoint(req: IntentRequest):
     if not req.query.strip():
         raise HTTPException(status_code=400, detail="Query cannot be empty.")
     return intent_extractor.extract_intent(req.query)
+
+
+@app.post("/api/search", response_model=MultiItemSearchResult, tags=["Pipeline"])
+async def search_endpoint(req: OptimizeRequest):
+    """
+    Search & Filter Endpoint:
+      1. Takes input query from user (any language).
+      2. Extracts shopping intent (items, quantities).
+      3. Concurrently finds products across platforms (BlinkIt, Zepto, Swiggy, BigBasket).
+      4. Filters products (drops ads, drops out-of-stock, deduplicates by ID).
+      5. Returns filtered candidate products grouped by item and platform.
+    """
+    query = req.query.strip()
+    if not query:
+        raise HTTPException(status_code=400, detail="Query cannot be empty.")
+
+    # 1. Extract Intent
+    intent = intent_extractor.extract_intent(query)
+
+    # 2. Find and filter products across all platforms
+    search_result = await search_stage.execute(
+        intent=intent,
+        lat=req.lat,
+        lon=req.lon,
+        platforms=req.platforms,
+    )
+    return search_result
 
 
 @app.post("/api/optimize", response_model=SahiBhavResponse, tags=["Pipeline"])

@@ -12,7 +12,13 @@ FALLBACK_MODEL = os.getenv("FALLBACK_MODEL", "llama-3.1-8b-instant")
 DEFAULT_LAT = float(os.getenv("DEFAULT_LAT", "20.31"))
 DEFAULT_LON = float(os.getenv("DEFAULT_LON", "85.88"))
 
-QUICKCOMMERCE_API_KEY = os.getenv("QUICK_COMMERCE_API_KEY") or os.getenv("QUICKCOMMERCE_API_KEY", "")
+qc_keys_raw = os.getenv("QUICK_COMMERCE_API_KEYS", "")
+QUICKCOMMERCE_API_KEYS = [k.strip() for k in qc_keys_raw.split(",") if k.strip()]
+QUICKCOMMERCE_API_KEY = (
+    QUICKCOMMERCE_API_KEYS[0]
+    if QUICKCOMMERCE_API_KEYS
+    else (os.getenv("QUICK_COMMERCE_API_KEY") or os.getenv("QUICKCOMMERCE_API_KEY", ""))
+)
 QC_BASE_URL = os.getenv("QC_BASE_URL", "https://api.quickcommerceapi.com/v1/search")
 
 SUPPORTED_PLATFORMS = ["BlinkIt", "Zepto", "Swiggy", "BigBasket"]

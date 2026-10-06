@@ -137,19 +137,13 @@ class CleanedProduct(BaseModel):
     brand: Optional[str] = None
     mrp: float
     offer_price: float
-    discount_pct: float = 0.0
-    raw_quantity: str
-    parsed_quantity: float
-    parsed_unit: str  # 'ml', 'g', 'pack', 'pc'
-    standard_unit: str  # '500ml', '1kg', 'pack'
-    price_per_standard_unit: float
+    quantity: str  # raw quantity string from API e.g. "500 ml", "1 kg", "6 pcs"
     rating: Optional[float] = None
     rating_count: Optional[int] = None
     eta_mins: Optional[int] = None
     deeplink: Optional[str] = None
     image_url: Optional[str] = None
     is_available: bool = True
-    score: float = 0.0  # composite score: 70% price + 25% ETA + 5% rating (default 4.0★ if null)
 
 
 class PlatformSearchResult(BaseModel):
@@ -160,7 +154,6 @@ class PlatformSearchResult(BaseModel):
     raw_count: int = 0
     filtered_ads_count: int = 0
     filtered_oos_count: int = 0
-    filtered_irrelevant_count: int = 0
     error: Optional[str] = None
 
 
