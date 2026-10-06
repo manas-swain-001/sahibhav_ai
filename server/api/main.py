@@ -17,8 +17,7 @@ from sahibhav_ai.models import UserIntent, SahiBhavResponse, MultiItemSearchResu
 from sahibhav_ai.intent_extractor import IntentExtractor
 from sahibhav_ai.stages import (
     MultiItemSearchStage,
-    ComboOptimizer,
-    AIResponderStage,
+    SmartRecommenderStage,
 )
 
 # Initialize FastAPI Application
@@ -43,8 +42,7 @@ app.add_middleware(
 # Pipeline Singleton Instances
 intent_extractor = IntentExtractor()
 search_stage = MultiItemSearchStage()
-combo_optimizer = ComboOptimizer()
-ai_responder = AIResponderStage()
+recommender_stage = SmartRecommenderStage()
 
 
 # =====================================================================
@@ -54,24 +52,21 @@ ai_responder = AIResponderStage()
 class OptimizeRequest(BaseModel):
     query: str = Field(
         ...,
-        description="Grocery requirement in any Indian or global language (e.g. '1 packet doodh aur 1 pack butter chahiye')",
-        examples=["1 packet milk aur 1 pack butter chahiye", "mote 1 packet khira au butter darkar"]
+        description="Grocery requirement in any Indian or global language",
+        examples=["1 packet milk aur 1 pack butter chahiye"]
     )
-    lat: float = Field(
-        default=DEFAULT_LAT,
-        description="Delivery latitude (defaults to Bangalore/Bhubaneswar coordinates)",
-        examples=[20.31]
-    )
-    lon: float = Field(
-        default=DEFAULT_LON,
-        description="Delivery longitude (defaults to Bangalore/Bhubaneswar coordinates)",
-        examples=[85.88]
-    )
-    platforms: Optional[List[str]] = Field(
-        default=None,
-        description="Optional list of specific platforms to search (e.g. ['BlinkIt', 'Zepto']). Defaults to all.",
-        examples=[["BlinkIt", "Zepto", "Swiggy", "BigBasket"]]
-    )
+    lat: float = Field(default=DEFAULT_LAT)
+    lon: Optional[float] = Field(default=None)
+    lng: Optional[float] = Field(default=None)
+    delivery_mode: Optional[str] = Field(default="instant")
+    platforms: Optional[List[str]] = Field(default=None)
+
+    def get_lon(self) -> float:
+        if self.lon is not None:
+            return self.lon
+        if self.lng is not None:
+            return self.lng
+        return DEFAULT_LON
 
 
 class IntentRequest(BaseModel):
@@ -181,7 +176,7 @@ async def search_endpoint(req: OptimizeRequest):
     search_result = await search_stage.execute(
         intent=intent,
         lat=req.lat,
-        lon=req.lon,
+        lon=req.get_lon(),
         platforms=req.platforms,
     )
     return search_result
@@ -190,11 +185,10 @@ async def search_endpoint(req: OptimizeRequest):
 @app.post("/api/optimize", response_model=SahiBhavResponse, tags=["Pipeline"])
 async def optimize_endpoint(req: OptimizeRequest):
     """
-    The Primary Workhorse Endpoint (Full 4-Stage Pipeline):
+    The Primary Workhorse Endpoint (Full Pipeline with Smart Recommender):
       1. Stage 1: Extracts intent and detects language (Hindi, Odia, English, etc.).
       2. Stage 2: Concurrently searches platforms via live QuickCommerce API.
-      3. Stage 3: Pure Python combo optimizer calculates single vs split savings & delivery fees.
-      4. Stage 4: Generates natural language recommendation in the user's language with buy links.
+      3. Stage 3: Smart Recommender LLM evaluates 90/7/3 weights, purity, brand trade-offs, and delivery fees.
     """
     query = req.query.strip()
     if not query:
@@ -207,18 +201,14 @@ async def optimize_endpoint(req: OptimizeRequest):
     search_result = await search_stage.execute(
         intent=intent,
         lat=req.lat,
-        lon=req.lon,
+        lon=req.get_lon(),
         platforms=req.platforms,
     )
 
-    # 3. Stage 3: Pure Python Combo Optimization
-    optimization_result = combo_optimizer.optimize(search_result)
-
-    # 4. Stage 4: Multilingual AI Responder
-    final_response = ai_responder.generate_response(
+    # 3. Stage 3: Smart Recommender LLM (90/7/3 weights, Purity, Brand Advice, Split vs Single Math, Trace Logging)
+    final_response = recommender_stage.recommend(
         raw_query=query,
-        optimization_result=optimization_result,
-        detected_language=intent.detected_language,
+        search_result=search_result,
     )
 
     return final_response

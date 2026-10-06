@@ -58,10 +58,14 @@ Quantities & Units:
 - "gm" / "gram" -> unit: "gm"
 - Default if not mentioned: quantity: 1.0, unit: "pack"
 
-Search Queries:
-- Must be concise quick-commerce search keywords.
-- Include brand if mentioned (e.g. "amul butter", "aashirvaad atta").
-- If generic, use standard English product terms ("milk", "bread", "sugar").
+Brand Extraction & Search Queries:
+- BRAND PREFERENCE (`brand_preference`):
+  * If the user specifies or hints at a brand (e.g. "Nandini", "Amul", "Aashirvaad", "Fortune", "Tata", "Mother Dairy", "Britannia", "Nestle", "Heritage", "Milky Moo", "Omfed", "Dettol", "Surf Excel", etc.), ALWAYS set `brand_preference` to the clean capitalized brand name.
+  * If no brand is mentioned, set `brand_preference` to None.
+- SEARCH QUERY (`search_query`):
+  * When a brand is mentioned by the user, `search_query` MUST ALWAYS include the brand name (e.g. "nandini milk", "amul butter", "aashirvaad atta", "fortune sunflower oil", "tata salt").
+  * NEVER strip the brand name from `search_query`! Quick-commerce search engines need the brand name to return the exact brand products at the top.
+  * If no brand is mentioned, use concise standard English product terms (e.g. "milk", "butter", "bread", "sugar", "atta").
 
 Language:
 - Set `detected_language` to the user's actual language or dialect (e.g., "odia", "bengali", "tamil", "telugu", "kannada", "malayalam", "marathi", "gujarati", "punjabi", "hindi", "hinglish", "english", "bhojpuri", "spanish", "french", etc.). SahiBhav AI supports all languages.

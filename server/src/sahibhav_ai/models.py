@@ -135,15 +135,29 @@ class CleanedProduct(BaseModel):
     platform_name: str
     name: str
     brand: Optional[str] = None
-    mrp: float
-    offer_price: float
-    quantity: str  # raw quantity string from API e.g. "500 ml", "1 kg", "6 pcs"
+    mrp: float = 0.0
+    offer_price: float = 0.0
+    quantity: str = ""  # raw quantity string from API e.g. "500 ml", "1 kg", "6 pcs"
+    raw_quantity: Optional[str] = None
+    discount_pct: float = 0.0
     rating: Optional[float] = None
     rating_count: Optional[int] = None
     eta_mins: Optional[int] = None
     deeplink: Optional[str] = None
     image_url: Optional[str] = None
     is_available: bool = True
+
+    from pydantic import model_validator
+
+    @model_validator(mode="after")
+    def sync_frontend_fields(self):
+        if not self.raw_quantity:
+            self.raw_quantity = self.quantity
+        if not self.quantity and self.raw_quantity:
+            self.quantity = self.raw_quantity
+        if self.mrp > self.offer_price and self.mrp > 0 and self.discount_pct == 0.0:
+            self.discount_pct = round(((self.mrp - self.offer_price) / self.mrp) * 100.0, 1)
+        return self
 
 
 class PlatformSearchResult(BaseModel):
