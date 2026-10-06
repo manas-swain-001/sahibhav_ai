@@ -13,11 +13,11 @@ import {
   Zap,
   Info,
   ChevronDown,
-  Layers,
   Award,
   Store,
   Globe,
-  Compass
+  Compass,
+  Layers
 } from 'lucide-react';
 import type { SahiBhavResponse } from './types';
 import { LocationModal } from './components/LocationModal';
@@ -31,27 +31,19 @@ const PLATFORMS_META = [
   { id: 'bigbasket', name: 'BigBasket BBNow', color: '#84C225', textColor: '#FFFFFF', glow: 'rgba(132, 194, 37, 0.25)', eta: '15-25m' },
 ];
 
-const QUICK_PROMPTS = [
-  { lang: 'Odia', text: '1 packet khira au 100g amul butter' },
-  { lang: 'Hindi', text: '1kg aashirvaad atta aur 1 packet amul doodh' },
-  { lang: 'Hinglish', text: '1 pack bread, 1L milk and 6 eggs' },
-  { lang: 'English', text: '500g paneer, 2 packs curd and tomato 1kg' },
-  { lang: 'Bengali', text: '1 packet dudh aar 500g chini' },
-];
-
 export default function App() {
   const [query, setQuery] = useState('');
   const [loading, setLoading] = useState(false);
   const [pipelineStep, setPipelineStep] = useState<number>(0);
   const [result, setResult] = useState<SahiBhavResponse | null>(null);
   const [error, setError] = useState<string | null>(null);
-  
+
   // Real dynamic user location state
   const [userLocation, setUserLocation] = useState<UserLocation | null>(null);
   const [isLocationModalOpen, setIsLocationModalOpen] = useState(false);
   const [isRequiredBlocker, setIsRequiredBlocker] = useState(false);
-  
-  const [selectedTab, setSelectedTab] = useState<'winner' | 'all_stores' | 'split_combos'>('winner');
+
+  const [selectedTab, setSelectedTab] = useState<'winner' | 'all_stores'>('winner');
   const timerRef = useRef<number | null>(null);
 
   // Initial load: check localStorage or request browser geolocation
@@ -372,7 +364,7 @@ export default function App() {
               className="search-input"
               value={query}
               onChange={(e) => setQuery(e.target.value)}
-              placeholder="e.g. 1 packet khira au 100g amul butter, or 5kg atta & 1L oil..."
+              placeholder="Search grocery items in any language (e.g. 1 packet milk and 1 pack butter)..."
               disabled={loading}
             />
             {query && (
@@ -411,25 +403,6 @@ export default function App() {
               )}
             </button>
           </form>
-
-          {/* Quick Prompts (Multilingual Pills) */}
-          <div className="prompt-chips">
-            <span className="chip-label">Try any language or dialect:</span>
-            {QUICK_PROMPTS.map((prompt) => (
-              <button
-                key={prompt.text}
-                type="button"
-                className="chip-button"
-                onClick={() => handleSearch(prompt.text)}
-                disabled={loading}
-              >
-                <span style={{ fontSize: '11px', color: 'var(--accent-emerald)', fontWeight: 700 }}>
-                  [{prompt.lang}]
-                </span>
-                <span>"{prompt.text}"</span>
-              </button>
-            ))}
-          </div>
         </div>
       </section>
 
@@ -450,7 +423,7 @@ export default function App() {
             <div className={`pipeline-step ${pipelineStep >= 1 ? 'active' : ''} ${pipelineStep > 1 ? 'done' : ''}`}>
               <Globe size={16} color={pipelineStep >= 1 ? 'var(--accent-emerald)' : 'var(--text-muted)'} />
               <div>
-                <strong>1. Multilingual Groq NLU</strong>
+                <strong>1. Multilingual AI Intent</strong>
                 <div style={{ fontSize: '11px' }}>Extracting items & units</div>
               </div>
             </div>
@@ -581,30 +554,8 @@ export default function App() {
                 }}
               >
                 <Store size={16} />
-                Compare Single Stores ({result.optimization.all_single_stores?.length || 0})
+                Compare Single Stores ({result.optimization.all_single_stores?.filter(c => c.items_subtotal > 0).length || 0})
               </button>
-
-              {result.optimization.all_split_combos && result.optimization.all_split_combos.length > 0 && (
-                <button
-                  onClick={() => setSelectedTab('split_combos')}
-                  style={{
-                    padding: '8px 18px',
-                    borderRadius: '10px',
-                    fontSize: '14px',
-                    fontWeight: 700,
-                    cursor: 'pointer',
-                    border: selectedTab === 'split_combos' ? '1px solid var(--accent-purple)' : '1px solid transparent',
-                    background: selectedTab === 'split_combos' ? 'rgba(168, 85, 247, 0.15)' : 'transparent',
-                    color: selectedTab === 'split_combos' ? 'var(--accent-purple)' : 'var(--text-secondary)',
-                    display: 'flex',
-                    alignItems: 'center',
-                    gap: '8px'
-                  }}
-                >
-                  <Layers size={16} />
-                  Split Combos ({result.optimization.all_split_combos.length})
-                </button>
-              )}
             </div>
           )}
 
@@ -618,7 +569,7 @@ export default function App() {
                     <span>BEST VALUE STRATEGY</span>
                   </div>
                   <span style={{ fontSize: '13px', color: 'var(--text-secondary)' }}>
-                    {winner.combo_type === 'single_platform' ? 'Single Store Fulfillment' : 'Split-Cart Optimization'}
+                    Single Store Fulfillment (Lowest Total Price)
                   </span>
                 </div>
 
@@ -777,7 +728,7 @@ export default function App() {
               </p>
 
               <div className="stores-comparison-grid">
-                {result.optimization.all_single_stores.map((combo, idx) => {
+                {result.optimization.all_single_stores.filter(combo => combo.items_subtotal > 0).map((combo, idx) => {
                   const platName = combo.platforms[0];
                   const meta = getPlatformMeta(platName);
                   const isWinner = winner && winner.combo_type === 'single_platform' && winner.platforms[0] === platName;
@@ -838,79 +789,6 @@ export default function App() {
                         <span>Select {meta.name}</span>
                         <ArrowRight size={14} />
                       </a>
-                    </div>
-                  );
-                })}
-              </div>
-            </div>
-          )}
-
-          {/* TAB 3: SPLIT COMBOS COMPARISON */}
-          {selectedTab === 'split_combos' && result.optimization && result.optimization.all_split_combos && (
-            <div className="comparison-section">
-              <div className="section-title">
-                <Layers size={20} color="var(--accent-purple)" />
-                <span>Multi-Store Split Combinations</span>
-              </div>
-              <p style={{ fontSize: '14px', color: 'var(--text-secondary)', margin: 0 }}>
-                SahiBhav AI tests split carts across 2 platforms. Split carts are only recommended if savings exceed the extra delivery fees.
-              </p>
-
-              <div className="stores-comparison-grid">
-                {result.optimization.all_split_combos.map((combo, idx) => {
-                  const isWinner = winner && winner.combo_type !== 'single_platform' && JSON.stringify(winner.platforms) === JSON.stringify(combo.platforms);
-
-                  return (
-                    <div
-                      key={idx}
-                      className="store-card"
-                      style={{
-                        borderColor: isWinner ? 'var(--accent-emerald)' : 'var(--bg-glass-border)'
-                      }}
-                    >
-                      <div className="store-card-header">
-                        <span className="store-name">
-                          {combo.platforms.map(p => getPlatformMeta(p).name.split(' ')[0]).join(' + ')}
-                        </span>
-                        {combo.is_split_beneficial ? (
-                          <span style={{ background: 'rgba(16, 185, 129, 0.2)', color: 'var(--accent-emerald)', fontSize: '11px', fontWeight: 700, padding: '2px 8px', borderRadius: '6px' }}>
-                            Beneficial
-                          </span>
-                        ) : (
-                          <span style={{ background: 'rgba(239, 68, 68, 0.15)', color: '#F87171', fontSize: '11px', fontWeight: 600, padding: '2px 8px', borderRadius: '6px' }}>
-                            Higher Fees
-                          </span>
-                        )}
-                      </div>
-
-                      <div>
-                        <div style={{ fontSize: '11px', color: 'var(--text-muted)' }}>Total Cost</div>
-                        <div className="store-price-big">₹{combo.total_price.toFixed(0)}</div>
-                        <div style={{ fontSize: '12px', color: 'var(--text-secondary)' }}>
-                          Delivery fees: ₹{combo.total_delivery_fees}
-                        </div>
-                      </div>
-
-                      <div style={{ fontSize: '12px', color: 'var(--text-muted)' }}>
-                        {combo.fee_explanation || `Calculated across ${combo.platforms.length} stores`}
-                      </div>
-
-                      <button
-                        onClick={() => setSelectedTab('winner')}
-                        style={{
-                          marginTop: 'auto',
-                          background: 'rgba(255, 255, 255, 0.05)',
-                          border: '1px solid var(--bg-glass-border)',
-                          color: 'var(--text-primary)',
-                          padding: '8px 12px',
-                          borderRadius: '10px',
-                          fontSize: '13px',
-                          cursor: 'pointer',
-                          fontWeight: 600
-                        }}
-                      >
-                        Inspect Orders
-                      </button>
                     </div>
                   );
                 })}

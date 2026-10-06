@@ -8,9 +8,11 @@ src_dir = Path(__file__).resolve().parent.parent / "src"
 if str(src_dir) not in sys.path:
     sys.path.insert(0, str(src_dir))
 
-from fastapi import FastAPI, HTTPException
+import logging
+import traceback
+from fastapi import FastAPI, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import RedirectResponse
+from fastapi.responses import RedirectResponse, JSONResponse
 
 from sahibhav_ai.config import DEFAULT_LAT, DEFAULT_LON, SUPPORTED_PLATFORMS
 from sahibhav_ai.models import UserIntent, SahiBhavResponse, MultiItemSearchResult
@@ -19,6 +21,8 @@ from sahibhav_ai.stages import (
     MultiItemSearchStage,
     SmartRecommenderStage,
 )
+
+logger = logging.getLogger("sahibhav_ai.api")
 
 # Initialize FastAPI Application
 app = FastAPI(
@@ -30,14 +34,29 @@ app = FastAPI(
     version="1.0.0",
 )
 
-# Configure CORS Middleware (enables React frontend to connect)
+# Configure CORS Middleware (enables React frontend to connect cleanly)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Allows all origins for local dev and production
-    allow_credentials=True,
+    allow_origins=["*"],
+    allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+
+@app.exception_handler(Exception)
+async def global_exception_handler(request: Request, exc: Exception):
+    """
+    Guarantees that unhandled server exceptions return valid JSON with CORS headers,
+    preventing the browser from masking the error as a CORS policy block.
+    """
+    logger.error(f"Global exception on {request.url.path}: {exc}\n{traceback.format_exc()}")
+    return JSONResponse(
+        status_code=500,
+        content={"detail": str(exc), "error_type": type(exc).__name__},
+        headers={"Access-Control-Allow-Origin": "*"},
+    )
+
 
 # Pipeline Singleton Instances
 intent_extractor = IntentExtractor()
@@ -206,7 +225,7 @@ async def optimize_endpoint(req: OptimizeRequest):
     )
 
     # 3. Stage 3: Smart Recommender LLM (90/7/3 weights, Purity, Brand Advice, Split vs Single Math, Trace Logging)
-    final_response = recommender_stage.recommend(
+    final_response = await recommender_stage.recommend(
         raw_query=query,
         search_result=search_result,
     )

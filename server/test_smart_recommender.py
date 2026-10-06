@@ -127,7 +127,7 @@ def test_recommender(query: str):
     # 3. Smart Recommender LLM
     print("\n[Step 3] Running Smart Recommender LLM (Evaluating 90/7/3, Purity, Brands, Fees)...")
     recommender = SmartRecommenderStage()
-    response = recommender.recommend(raw_query=query, search_result=search_res)
+    response = asyncio.run(recommender.recommend(raw_query=query, search_result=search_res))
 
     print("\n" + "=" * 80)
     print("AI RECOMMENDER RESULTS")

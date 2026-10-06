@@ -1,8 +1,11 @@
+import os
 import asyncio
 from typing import List, Dict, Optional, Any
 import httpx
+from dotenv import load_dotenv
 
 from ..config import (
+    ENV_PATH,
     QUICKCOMMERCE_API_KEY,
     QUICKCOMMERCE_API_KEYS,
     QC_BASE_URL,
@@ -21,6 +24,7 @@ class QuickCommerceClient:
     
     Direct live search mode via QuickCommerce HTTP API:
       - Uses httpx.AsyncClient with X-API-Key
+      - Dynamic key reloading directly from .env (no server restart needed when user updates token)
       - Key rotation across available API keys (with failover on 402/429)
       - Parallel execution across all 4 platforms using asyncio.gather
       - Lightweight pre-filtering (ads, OOS, deduplication)
@@ -31,16 +35,28 @@ class QuickCommerceClient:
         api_key: Optional[str] = None,
         base_url: Optional[str] = None,
     ):
-        if api_key:
-            self.api_keys = [api_key]
-        elif QUICKCOMMERCE_API_KEYS:
-            self.api_keys = list(QUICKCOMMERCE_API_KEYS)
-        elif QUICKCOMMERCE_API_KEY:
-            self.api_keys = [QUICKCOMMERCE_API_KEY]
-        else:
-            self.api_keys = []
+        self._static_api_key = api_key
         self.base_url = base_url or QC_BASE_URL
         self._key_index = 0
+
+    def get_active_keys(self) -> List[str]:
+        """
+        Dynamically loads the latest keys from .env so when the user adds a new token,
+        it takes effect immediately without needing to restart the server.
+        """
+        if self._static_api_key:
+            return [self._static_api_key]
+        try:
+            load_dotenv(dotenv_path=ENV_PATH, override=True)
+        except Exception:
+            pass
+
+        key = os.getenv("QUICK_COMMERCE_API_KEY") or os.getenv("QUICKCOMMERCE_API_KEY", "")
+        keys_raw = os.getenv("QUICK_COMMERCE_API_KEYS", "")
+        keys = [k.strip() for k in keys_raw.split(",") if k.strip()]
+        if key and key not in keys:
+            keys.insert(0, key)
+        return keys or list(QUICKCOMMERCE_API_KEYS)
 
     async def search_platform(
         self,
@@ -55,7 +71,8 @@ class QuickCommerceClient:
         raw_products_data: List[Dict[str, Any]] = []
         error_msg: Optional[str] = None
 
-        if not self.api_keys:
+        keys_to_try = self.get_active_keys()
+        if not keys_to_try:
             return PlatformSearchResult(
                 platform=platform,
                 query=query,
@@ -71,8 +88,8 @@ class QuickCommerceClient:
 
         # Try available keys with automatic failover if credit exhausted (402)
         async with httpx.AsyncClient(timeout=15.0) as client:
-            for attempt in range(len(self.api_keys)):
-                active_key = self.api_keys[(self._key_index + attempt) % len(self.api_keys)]
+            for attempt in range(len(keys_to_try)):
+                active_key = keys_to_try[(self._key_index + attempt) % len(keys_to_try)]
                 headers = {
                     "X-API-Key": active_key,
                     "Accept": "application/json"
@@ -84,7 +101,7 @@ class QuickCommerceClient:
                         raw_products_data = payload.get("data", {}).get("products", [])
                         error_msg = None
                         # Update index for light round-robin distribution
-                        self._key_index = (self._key_index + attempt) % len(self.api_keys)
+                        self._key_index = (self._key_index + attempt) % len(keys_to_try)
                         break
                     elif resp.status_code in (402, 429):
                         # Credit exhausted on this key, try next key

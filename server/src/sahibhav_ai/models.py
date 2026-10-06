@@ -146,6 +146,8 @@ class CleanedProduct(BaseModel):
     deeplink: Optional[str] = None
     image_url: Optional[str] = None
     is_available: bool = True
+    score: Optional[float] = None
+    price_per_standard_unit: Optional[float] = None
 
     from pydantic import model_validator
 
